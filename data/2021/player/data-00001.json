@@ -1,0 +1,4007 @@
+[
+  {
+    "player_id": 10000,
+    "name": "T. Kravtsov",
+    "birth_year": 1989
+  },
+  {
+    "player_id": 10001,
+    "name": "R. Galkin",
+    "birth_year": 1994
+  },
+  {
+    "player_id": 10002,
+    "name": "F. Belousov",
+    "birth_year": 2002
+  },
+  {
+    "player_id": 10003,
+    "name": "D. Shubin",
+    "birth_year": 1990
+  },
+  {
+    "player_id": 10004,
+    "name": "A. Sergeev",
+    "birth_year": 1997
+  },
+  {
+    "player_id": 10005,
+    "name": "V. Semyonov",
+    "birth_year": 2002
+  },
+  {
+    "player_id": 10006,
+    "name": "T. Kulikov",
+    "birth_year": 1992
+  },
+  {
+    "player_id": 10007,
+    "name": "B. Alexandrov",
+    "birth_year": 2002
+  },
+  {
+    "player_id": 10008,
+    "name": "K. Kovalenko",
+    "birth_year": 1990
+  },
+  {
+    "player_id": 10009,
+    "name": "S. Smirnov",
+    "birth_year": 2001
+  },
+  {
+    "player_id": 10010,
+    "name": "S. Kornev",
+    "birth_year": 1997
+  },
+  {
+    "player_id": 10011,
+    "name": "J. Ivanov",
+    "birth_year": 1992
+  },
+  {
+    "player_id": 10012,
+    "name": "L. Astakhov",
+    "birth_year": 1998
+  },
+  {
+    "player_id": 10013,
+    "name": "A. Magomedov",
+    "birth_year": 1991
+  },
+  {
+    "player_id": 10014,
+    "name": "S. Zakharov",
+    "birth_year": 1989
+  },
+  {
+    "player_id": 10015,
+    "name": "L. Novikov",
+    "birth_year": 1992
+  },
+  {
+    "player_id": 10016,
+    "name": "M. Gromov",
+    "birth_year": 1992
+  },
+  {
+    "player_id": 10017,
+    "name": "T. Balashov",
+    "birth_year": 1990
+  },
+  {
+    "player_id": 10018,
+    "name": "V. Stepanov",
+    "birth_year": 1997
+  },
+  {
+    "player_id": 10019,
+    "name": "K. Terekhov",
+    "birth_year": 2000
+  },
+  {
+    "player_id": 10020,
+    "name": "K. Garaev",
+    "birth_year": 1990
+  },
+  {
+    "player_id": 10021,
+    "name": "S. Klimov",
+    "birth_year": 1999
+  },
+  {
+    "player_id": 10022,
+    "name": "N. Nikolaenko",
+    "birth_year": 2001
+  },
+  {
+    "player_id": 10023,
+    "name": "C. Terentev",
+    "birth_year": 1992
+  },
+  {
+    "player_id": 10024,
+    "name": "J. Popov",
+    "birth_year": 1998
+  },
+  {
+    "player_id": 10025,
+    "name": "R. Kulakov",
+    "birth_year": 1994
+  },
+  {
+    "player_id": 10026,
+    "name": "A. Gusev",
+    "birth_year": 1998
+  },
+  {
+    "player_id": 10027,
+    "name": "K. Bykov",
+    "birth_year": 2001
+  },
+  {
+    "player_id": 10028,
+    "name": "A. Romanov",
+    "birth_year": 1989
+  },
+  {
+    "player_id": 10029,
+    "name": "A. Shakirov",
+    "birth_year": 2000
+  },
+  {
+    "player_id": 10030,
+    "name": "D. Belov",
+    "birth_year": 1997
+  },
+  {
+    "player_id": 10031,
+    "name": "M. Akhmetov",
+    "birth_year": 2003
+  },
+  {
+    "player_id": 10032,
+    "name": "A. Volkov",
+    "birth_year": 2000
+  },
+  {
+    "player_id": 10033,
+    "name": "T. Chernov",
+    "birth_year": 2000
+  },
+  {
+    "player_id": 10034,
+    "name": "H. Makarov",
+    "birth_year": 1992
+  },
+  {
+    "player_id": 10035,
+    "name": "A. Merkulov",
+    "birth_year": 1995
+  },
+  {
+    "player_id": 10036,
+    "name": "P. Romanov",
+    "birth_year": 1997
+  },
+  {
+    "player_id": 10037,
+    "name": "F. Krylov",
+    "birth_year": 1989
+  },
+  {
+    "player_id": 10038,
+    "name": "A. Novikov",
+    "birth_year": 1991
+  },
+  {
+    "player_id": 10039,
+    "name": "A. Borisov",
+    "birth_year": 1995
+  },
+  {
+    "player_id": 10040,
+    "name": "B. Nikitin",
+    "birth_year": 1990
+  },
+  {
+    "player_id": 10041,
+    "name": "D. Evdokimov",
+    "birth_year": 2003
+  },
+  {
+    "player_id": 10042,
+    "name": "M. Smirnov",
+    "birth_year": 1997
+  },
+  {
+    "player_id": 10043,
+    "name": "R. Lapshin",
+    "birth_year": 1993
+  },
+  {
+    "player_id": 10044,
+    "name": "J. Matveev",
+    "birth_year": 1990
+  },
+  {
+    "player_id": 10045,
+    "name": "F. Timofeev",
+    "birth_year": 2001
+  },
+  {
+    "player_id": 10046,
+    "name": "S. Vakhrushev",
+    "birth_year": 1998
+  },
+  {
+    "player_id": 10047,
+    "name": "T. Kiselyov",
+    "birth_year": 1996
+  },
+  {
+    "player_id": 10048,
+    "name": "N. Kolesnikov",
+    "birth_year": 1994
+  },
+  {
+    "player_id": 10049,
+    "name": "M. Bondarenko",
+    "birth_year": 2003
+  },
+  {
+    "player_id": 10050,
+    "name": "C. Stepanov",
+    "birth_year": 1998
+  },
+  {
+    "player_id": 10051,
+    "name": "P. Zhuravlev",
+    "birth_year": 2003
+  },
+  {
+    "player_id": 10052,
+    "name": "R. Korolev",
+    "birth_year": 1997
+  },
+  {
+    "player_id": 10053,
+    "name": "A. Ermakov",
+    "birth_year": 1995
+  },
+  {
+    "player_id": 10054,
+    "name": "S. Morozov",
+    "birth_year": 1992
+  },
+  {
+    "player_id": 10055,
+    "name": "A. Yakovenko",
+    "birth_year": 1992
+  },
+  {
+    "player_id": 10056,
+    "name": "J. Denisenko",
+    "birth_year": 1998
+  },
+  {
+    "player_id": 10057,
+    "name": "P. Kruglov",
+    "birth_year": 2002
+  },
+  {
+    "player_id": 10058,
+    "name": "V. Kuzmin",
+    "birth_year": 1993
+  },
+  {
+    "player_id": 10059,
+    "name": "L. Popov",
+    "birth_year": 1992
+  },
+  {
+    "player_id": 10060,
+    "name": "Y. Chernykh",
+    "birth_year": 1991
+  },
+  {
+    "player_id": 10061,
+    "name": "S. Filippov",
+    "birth_year": 1994
+  },
+  {
+    "player_id": 10062,
+    "name": "C. Kalashnikov",
+    "birth_year": 2003
+  },
+  {
+    "player_id": 10063,
+    "name": "S. Korotkov",
+    "birth_year": 2003
+  },
+  {
+    "player_id": 10064,
+    "name": "L. Lazarev",
+    "birth_year": 2002
+  },
+  {
+    "player_id": 10065,
+    "name": "M. Kotov",
+    "birth_year": 1996
+  },
+  {
+    "player_id": 10066,
+    "name": "V. Sorokin",
+    "birth_year": 1990
+  },
+  {
+    "player_id": 10067,
+    "name": "Q. Sergeev",
+    "birth_year": 2000
+  },
+  {
+    "player_id": 10068,
+    "name": "M. Denisov",
+    "birth_year": 1989
+  },
+  {
+    "player_id": 10069,
+    "name": "C. Ibragimov",
+    "birth_year": 2003
+  },
+  {
+    "player_id": 10070,
+    "name": "A. Fyodorov",
+    "birth_year": 1989
+  },
+  {
+    "player_id": 10071,
+    "name": "T. Belyaev",
+    "birth_year": 1993
+  },
+  {
+    "player_id": 10072,
+    "name": "M. Gorbunov",
+    "birth_year": 1996
+  },
+  {
+    "player_id": 10073,
+    "name": "T. Kuzin",
+    "birth_year": 1993
+  },
+  {
+    "player_id": 10074,
+    "name": "R. Panov",
+    "birth_year": 1991
+  },
+  {
+    "player_id": 10075,
+    "name": "O. Shishkin",
+    "birth_year": 1994
+  },
+  {
+    "player_id": 10076,
+    "name": "H. Golubev",
+    "birth_year": 1990
+  },
+  {
+    "player_id": 10077,
+    "name": "J. Ivanov",
+    "birth_year": 1994
+  },
+  {
+    "player_id": 10078,
+    "name": "L. Dmitriev",
+    "birth_year": 1998
+  },
+  {
+    "player_id": 10079,
+    "name": "A. Shabanov",
+    "birth_year": 2000
+  },
+  {
+    "player_id": 10080,
+    "name": "R. Yakovlev",
+    "birth_year": 1997
+  },
+  {
+    "player_id": 10081,
+    "name": "D. Morozov",
+    "birth_year": 1989
+  },
+  {
+    "player_id": 10082,
+    "name": "M. Arkhipov",
+    "birth_year": 1992
+  },
+  {
+    "player_id": 10083,
+    "name": "L. Lebedev",
+    "birth_year": 1994
+  },
+  {
+    "player_id": 10084,
+    "name": "C. Novikov",
+    "birth_year": 1993
+  },
+  {
+    "player_id": 10085,
+    "name": "D. Andreev",
+    "birth_year": 1997
+  },
+  {
+    "player_id": 10086,
+    "name": "V. Konovalov",
+    "birth_year": 1996
+  },
+  {
+    "player_id": 10087,
+    "name": "V. Kulakov",
+    "birth_year": 1989
+  },
+  {
+    "player_id": 10088,
+    "name": "B. Karimov",
+    "birth_year": 1997
+  },
+  {
+    "player_id": 10089,
+    "name": "R. Belyaev",
+    "birth_year": 2003
+  },
+  {
+    "player_id": 10090,
+    "name": "H. Kuzmin",
+    "birth_year": 1990
+  },
+  {
+    "player_id": 10091,
+    "name": "D. Anisimov",
+    "birth_year": 1998
+  },
+  {
+    "player_id": 10092,
+    "name": "K. Galkin",
+    "birth_year": 2003
+  },
+  {
+    "player_id": 10093,
+    "name": "R. Smirnov",
+    "birth_year": 1997
+  },
+  {
+    "player_id": 10094,
+    "name": "A. Goncharov",
+    "birth_year": 1990
+  },
+  {
+    "player_id": 10095,
+    "name": "N. Volkov",
+    "birth_year": 1995
+  },
+  {
+    "player_id": 10096,
+    "name": "Y. Dolgov",
+    "birth_year": 1991
+  },
+  {
+    "player_id": 10097,
+    "name": "R. Krylov",
+    "birth_year": 1994
+  },
+  {
+    "player_id": 10098,
+    "name": "A. Kryukov",
+    "birth_year": 1995
+  },
+  {
+    "player_id": 10099,
+    "name": "E. Mishin",
+    "birth_year": 2001
+  },
+  {
+    "player_id": 10100,
+    "name": "C. Sharapov",
+    "birth_year": 1995
+  },
+  {
+    "player_id": 10101,
+    "name": "L. Dolgov",
+    "birth_year": 1996
+  },
+  {
+    "player_id": 10102,
+    "name": "P. Sergeev",
+    "birth_year": 1993
+  },
+  {
+    "player_id": 10103,
+    "name": "A. Miller",
+    "birth_year": 2003
+  },
+  {
+    "player_id": 10104,
+    "name": "C. Andreev",
+    "birth_year": 1990
+  },
+  {
+    "player_id": 10105,
+    "name": "M. Volkov",
+    "birth_year": 1995
+  },
+  {
+    "player_id": 10106,
+    "name": "S. Kozhevnikov",
+    "birth_year": 1998
+  },
+  {
+    "player_id": 10107,
+    "name": "N. Ivanov",
+    "birth_year": 2000
+  },
+  {
+    "player_id": 10108,
+    "name": "N. Viktorovich",
+    "birth_year": 1989
+  },
+  {
+    "player_id": 10109,
+    "name": "P. Lebedev",
+    "birth_year": 2003
+  },
+  {
+    "player_id": 10110,
+    "name": "A. Mamedov",
+    "birth_year": 1992
+  },
+  {
+    "player_id": 10111,
+    "name": "K. Gavrilov",
+    "birth_year": 1994
+  },
+  {
+    "player_id": 10112,
+    "name": "S. Malyshev",
+    "birth_year": 1999
+  },
+  {
+    "player_id": 10113,
+    "name": "S. Vladimirov",
+    "birth_year": 1990
+  },
+  {
+    "player_id": 10114,
+    "name": "M. Belov",
+    "birth_year": 1995
+  },
+  {
+    "player_id": 10115,
+    "name": "T. Naumov",
+    "birth_year": 1999
+  },
+  {
+    "player_id": 10116,
+    "name": "S. Sokolov",
+    "birth_year": 1996
+  },
+  {
+    "player_id": 10117,
+    "name": "A. Matveev",
+    "birth_year": 1993
+  },
+  {
+    "player_id": 10118,
+    "name": "N. Komarov",
+    "birth_year": 1989
+  },
+  {
+    "player_id": 10119,
+    "name": "S. Kopylov",
+    "birth_year": 1995
+  },
+  {
+    "player_id": 10120,
+    "name": "D. Solovyev",
+    "birth_year": 1993
+  },
+  {
+    "player_id": 10121,
+    "name": "R. Gorokhov",
+    "birth_year": 1993
+  },
+  {
+    "player_id": 10122,
+    "name": "M. Petrov",
+    "birth_year": 1991
+  },
+  {
+    "player_id": 10123,
+    "name": "J. Ustinov",
+    "birth_year": 1993
+  },
+  {
+    "player_id": 10124,
+    "name": "P. Muratov",
+    "birth_year": 1991
+  },
+  {
+    "player_id": 10125,
+    "name": "M. Popov",
+    "birth_year": 2001
+  },
+  {
+    "player_id": 10126,
+    "name": "C. Popov",
+    "birth_year": 1995
+  },
+  {
+    "player_id": 10127,
+    "name": "D. Shevchuk",
+    "birth_year": 2003
+  },
+  {
+    "player_id": 10128,
+    "name": "S. Frolov",
+    "birth_year": 1991
+  },
+  {
+    "player_id": 10129,
+    "name": "E. Borodin",
+    "birth_year": 1991
+  },
+  {
+    "player_id": 10130,
+    "name": "C. Kravchenko",
+    "birth_year": 1996
+  },
+  {
+    "player_id": 10131,
+    "name": "M. Malyshev",
+    "birth_year": 1996
+  },
+  {
+    "player_id": 10132,
+    "name": "Y. Voronin",
+    "birth_year": 1995
+  },
+  {
+    "player_id": 10133,
+    "name": "S. Kozlov",
+    "birth_year": 2002
+  },
+  {
+    "player_id": 10134,
+    "name": "E. Zaytsev",
+    "birth_year": 1992
+  },
+  {
+    "player_id": 10135,
+    "name": "A. Kurbanov",
+    "birth_year": 1998
+  },
+  {
+    "player_id": 10136,
+    "name": "M. Konovalov",
+    "birth_year": 2000
+  },
+  {
+    "player_id": 10137,
+    "name": "K. Pankov",
+    "birth_year": 1991
+  },
+  {
+    "player_id": 10138,
+    "name": "B. Rudakov",
+    "birth_year": 1997
+  },
+  {
+    "player_id": 10139,
+    "name": "L. Volkov",
+    "birth_year": 1995
+  },
+  {
+    "player_id": 10140,
+    "name": "B. Danilov",
+    "birth_year": 1993
+  },
+  {
+    "player_id": 10141,
+    "name": "F. Makeev",
+    "birth_year": 2000
+  },
+  {
+    "player_id": 10142,
+    "name": "P. Romanov",
+    "birth_year": 1996
+  },
+  {
+    "player_id": 10143,
+    "name": "Y. Markov",
+    "birth_year": 1989
+  },
+  {
+    "player_id": 10144,
+    "name": "S. Veselov",
+    "birth_year": 2001
+  },
+  {
+    "player_id": 10145,
+    "name": "C. Savchenko",
+    "birth_year": 2002
+  },
+  {
+    "player_id": 10146,
+    "name": "O. Yakovlev",
+    "birth_year": 1996
+  },
+  {
+    "player_id": 10147,
+    "name": "D. Vasilev",
+    "birth_year": 1991
+  },
+  {
+    "player_id": 10148,
+    "name": "D. Kulakov",
+    "birth_year": 1991
+  },
+  {
+    "player_id": 10149,
+    "name": "A. Kazakov",
+    "birth_year": 1996
+  },
+  {
+    "player_id": 10150,
+    "name": "R. Karpov",
+    "birth_year": 1992
+  },
+  {
+    "player_id": 10151,
+    "name": "U. Konstantinov",
+    "birth_year": 1999
+  },
+  {
+    "player_id": 10152,
+    "name": "T. Vasilev",
+    "birth_year": 1993
+  },
+  {
+    "player_id": 10153,
+    "name": "A. Viktorovn",
+    "birth_year": 2002
+  },
+  {
+    "player_id": 10154,
+    "name": "S. Sorokin",
+    "birth_year": 2000
+  },
+  {
+    "player_id": 10155,
+    "name": "I. Petrov",
+    "birth_year": 1997
+  },
+  {
+    "player_id": 10156,
+    "name": "S. Safin",
+    "birth_year": 1992
+  },
+  {
+    "player_id": 10157,
+    "name": "D. Ivanov",
+    "birth_year": 2000
+  },
+  {
+    "player_id": 10158,
+    "name": "E. Mishin",
+    "birth_year": 2003
+  },
+  {
+    "player_id": 10159,
+    "name": "C. Savchenko",
+    "birth_year": 2001
+  },
+  {
+    "player_id": 10160,
+    "name": "S. Eliseev",
+    "birth_year": 1989
+  },
+  {
+    "player_id": 10161,
+    "name": "O. Fedorov",
+    "birth_year": 1997
+  },
+  {
+    "player_id": 10162,
+    "name": "Q. Belov",
+    "birth_year": 1999
+  },
+  {
+    "player_id": 10163,
+    "name": "S. Zakirov",
+    "birth_year": 1994
+  },
+  {
+    "player_id": 10164,
+    "name": "H. Zhuravlyov",
+    "birth_year": 1993
+  },
+  {
+    "player_id": 10165,
+    "name": "W. Pozdnyakov",
+    "birth_year": 1990
+  },
+  {
+    "player_id": 10166,
+    "name": "I. Potapov",
+    "birth_year": 1993
+  },
+  {
+    "player_id": 10167,
+    "name": "S. Vinokurov",
+    "birth_year": 2000
+  },
+  {
+    "player_id": 10168,
+    "name": "A. Zakharov",
+    "birth_year": 1996
+  },
+  {
+    "player_id": 10169,
+    "name": "S. Kulik",
+    "birth_year": 1998
+  },
+  {
+    "player_id": 10170,
+    "name": "D. Nekrasov",
+    "birth_year": 1998
+  },
+  {
+    "player_id": 10171,
+    "name": "J. Kuzmin",
+    "birth_year": 1992
+  },
+  {
+    "player_id": 10172,
+    "name": "V. Kharchenko",
+    "birth_year": 1991
+  },
+  {
+    "player_id": 10173,
+    "name": "E. Chernov",
+    "birth_year": 1999
+  },
+  {
+    "player_id": 10174,
+    "name": "A. Nekrasov",
+    "birth_year": 1997
+  },
+  {
+    "player_id": 10175,
+    "name": "J. Belov",
+    "birth_year": 1989
+  },
+  {
+    "player_id": 10176,
+    "name": "T. Stepanov",
+    "birth_year": 1989
+  },
+  {
+    "player_id": 10177,
+    "name": "P. Krylov",
+    "birth_year": 2000
+  },
+  {
+    "player_id": 10178,
+    "name": "S. Lebedev",
+    "birth_year": 2002
+  },
+  {
+    "player_id": 10179,
+    "name": "K. Zakharov",
+    "birth_year": 2002
+  },
+  {
+    "player_id": 10180,
+    "name": "A. Garaev",
+    "birth_year": 1993
+  },
+  {
+    "player_id": 10181,
+    "name": "V. Markin",
+    "birth_year": 2003
+  },
+  {
+    "player_id": 10182,
+    "name": "M. Shpak",
+    "birth_year": 1997
+  },
+  {
+    "player_id": 10183,
+    "name": "A. Abramov",
+    "birth_year": 2002
+  },
+  {
+    "player_id": 10184,
+    "name": "B. Fedorov",
+    "birth_year": 2001
+  },
+  {
+    "player_id": 10185,
+    "name": "H. Selivanov",
+    "birth_year": 1998
+  },
+  {
+    "player_id": 10186,
+    "name": "B. Voronov",
+    "birth_year": 2000
+  },
+  {
+    "player_id": 10187,
+    "name": "S. Magomedov",
+    "birth_year": 2002
+  },
+  {
+    "player_id": 10188,
+    "name": "G. Aleksandrov",
+    "birth_year": 2002
+  },
+  {
+    "player_id": 10189,
+    "name": "J. Tokarev",
+    "birth_year": 1996
+  },
+  {
+    "player_id": 10190,
+    "name": "R. Shishkin",
+    "birth_year": 2000
+  },
+  {
+    "player_id": 10191,
+    "name": "F. Semyonov",
+    "birth_year": 1994
+  },
+  {
+    "player_id": 10192,
+    "name": "F. Kuznetsov",
+    "birth_year": 1991
+  },
+  {
+    "player_id": 10193,
+    "name": "D. Kravchenko",
+    "birth_year": 1996
+  },
+  {
+    "player_id": 10194,
+    "name": "C. Makarov",
+    "birth_year": 1996
+  },
+  {
+    "player_id": 10195,
+    "name": "I. Frolov",
+    "birth_year": 2002
+  },
+  {
+    "player_id": 10196,
+    "name": "O. Kuznetsov",
+    "birth_year": 1993
+  },
+  {
+    "player_id": 10197,
+    "name": "S. Novikov",
+    "birth_year": 1999
+  },
+  {
+    "player_id": 10198,
+    "name": "K. Obukhov",
+    "birth_year": 1990
+  },
+  {
+    "player_id": 10199,
+    "name": "J. Suslov",
+    "birth_year": 2001
+  },
+  {
+    "player_id": 10200,
+    "name": "H. Orlov",
+    "birth_year": 1991
+  },
+  {
+    "player_id": 10201,
+    "name": "T. Zhdanov",
+    "birth_year": 1993
+  },
+  {
+    "player_id": 10202,
+    "name": "S. Kotov",
+    "birth_year": 1995
+  },
+  {
+    "player_id": 10203,
+    "name": "S. Gaytukaev",
+    "birth_year": 1997
+  },
+  {
+    "player_id": 10204,
+    "name": "J. Bykov",
+    "birth_year": 1996
+  },
+  {
+    "player_id": 10205,
+    "name": "N. Kalashnikov",
+    "birth_year": 1991
+  },
+  {
+    "player_id": 10206,
+    "name": "A. Romanenko",
+    "birth_year": 1989
+  },
+  {
+    "player_id": 10207,
+    "name": "K. Fedorov",
+    "birth_year": 2000
+  },
+  {
+    "player_id": 10208,
+    "name": "S. Volkov",
+    "birth_year": 1989
+  },
+  {
+    "player_id": 10209,
+    "name": "A. Shevchenko",
+    "birth_year": 1997
+  },
+  {
+    "player_id": 10210,
+    "name": "G. Mikhaylov",
+    "birth_year": 2001
+  },
+  {
+    "player_id": 10211,
+    "name": "M. Kozlov",
+    "birth_year": 1998
+  },
+  {
+    "player_id": 10212,
+    "name": "T. Smirnov",
+    "birth_year": 1996
+  },
+  {
+    "player_id": 10213,
+    "name": "O. Martynov",
+    "birth_year": 1991
+  },
+  {
+    "player_id": 10214,
+    "name": "C. Permyakov",
+    "birth_year": 2003
+  },
+  {
+    "player_id": 10215,
+    "name": "A. Kurbanov",
+    "birth_year": 2002
+  },
+  {
+    "player_id": 10216,
+    "name": "J. Novikov",
+    "birth_year": 1995
+  },
+  {
+    "player_id": 10217,
+    "name": "S. Danilov",
+    "birth_year": 1997
+  },
+  {
+    "player_id": 10218,
+    "name": "T. Ovchinnikov",
+    "birth_year": 1989
+  },
+  {
+    "player_id": 10219,
+    "name": "D. Danilov",
+    "birth_year": 2002
+  },
+  {
+    "player_id": 10220,
+    "name": "N. Magomedov",
+    "birth_year": 2003
+  },
+  {
+    "player_id": 10221,
+    "name": "F. Kotov",
+    "birth_year": 1992
+  },
+  {
+    "player_id": 10222,
+    "name": "N. Volodin",
+    "birth_year": 2000
+  },
+  {
+    "player_id": 10223,
+    "name": "M. Knyazev",
+    "birth_year": 1996
+  },
+  {
+    "player_id": 10224,
+    "name": "S. Filimonov",
+    "birth_year": 2001
+  },
+  {
+    "player_id": 10225,
+    "name": "F. Makarov",
+    "birth_year": 2001
+  },
+  {
+    "player_id": 10226,
+    "name": "P. Kovalenko",
+    "birth_year": 1990
+  },
+  {
+    "player_id": 10227,
+    "name": "N. Ivanov",
+    "birth_year": 1992
+  },
+  {
+    "player_id": 10228,
+    "name": "R. Mironov",
+    "birth_year": 1992
+  },
+  {
+    "player_id": 10229,
+    "name": "M. Zotov",
+    "birth_year": 1993
+  },
+  {
+    "player_id": 10230,
+    "name": "Z. Popov",
+    "birth_year": 1993
+  },
+  {
+    "player_id": 10231,
+    "name": "F. Anisimov",
+    "birth_year": 1996
+  },
+  {
+    "player_id": 10232,
+    "name": "A. Filatov",
+    "birth_year": 1994
+  },
+  {
+    "player_id": 10233,
+    "name": "A. Kostin",
+    "birth_year": 1992
+  },
+  {
+    "player_id": 10234,
+    "name": "E. Novikov",
+    "birth_year": 1997
+  },
+  {
+    "player_id": 10235,
+    "name": "Y. Fedorov",
+    "birth_year": 1994
+  },
+  {
+    "player_id": 10236,
+    "name": "B. Magomedov",
+    "birth_year": 1993
+  },
+  {
+    "player_id": 10237,
+    "name": "R. Maslov",
+    "birth_year": 1994
+  },
+  {
+    "player_id": 10238,
+    "name": "T. Zorin",
+    "birth_year": 1995
+  },
+  {
+    "player_id": 10239,
+    "name": "E. Vasilev",
+    "birth_year": 1998
+  },
+  {
+    "player_id": 10240,
+    "name": "E. Gordeev",
+    "birth_year": 1993
+  },
+  {
+    "player_id": 10241,
+    "name": "H. Dmitriev",
+    "birth_year": 1995
+  },
+  {
+    "player_id": 10242,
+    "name": "H. Zaytsev",
+    "birth_year": 1991
+  },
+  {
+    "player_id": 10243,
+    "name": "A. Pavlov",
+    "birth_year": 1995
+  },
+  {
+    "player_id": 10244,
+    "name": "Y. Tikhonov",
+    "birth_year": 1991
+  },
+  {
+    "player_id": 10245,
+    "name": "G. Semenov",
+    "birth_year": 1992
+  },
+  {
+    "player_id": 10246,
+    "name": "A. Zubkov",
+    "birth_year": 1993
+  },
+  {
+    "player_id": 10247,
+    "name": "S. Belov",
+    "birth_year": 1995
+  },
+  {
+    "player_id": 10248,
+    "name": "K. Mironov",
+    "birth_year": 1998
+  },
+  {
+    "player_id": 10249,
+    "name": "M. Smirnov",
+    "birth_year": 1999
+  },
+  {
+    "player_id": 10250,
+    "name": "H. Smirnov",
+    "birth_year": 1999
+  },
+  {
+    "player_id": 10251,
+    "name": "A. Evdokimov",
+    "birth_year": 1991
+  },
+  {
+    "player_id": 10252,
+    "name": "T. Volkov",
+    "birth_year": 2002
+  },
+  {
+    "player_id": 10253,
+    "name": "L. Nikolaev",
+    "birth_year": 1993
+  },
+  {
+    "player_id": 10254,
+    "name": "H. Kuznetsov",
+    "birth_year": 1992
+  },
+  {
+    "player_id": 10255,
+    "name": "C. Lebedev",
+    "birth_year": 2000
+  },
+  {
+    "player_id": 10256,
+    "name": "U. Grigoryev",
+    "birth_year": 1999
+  },
+  {
+    "player_id": 10257,
+    "name": "B. Permyakov",
+    "birth_year": 2000
+  },
+  {
+    "player_id": 10258,
+    "name": "S. Nikiforov",
+    "birth_year": 2001
+  },
+  {
+    "player_id": 10259,
+    "name": "O. Kiselev",
+    "birth_year": 1989
+  },
+  {
+    "player_id": 10260,
+    "name": "L. Kotov",
+    "birth_year": 1989
+  },
+  {
+    "player_id": 10261,
+    "name": "K. Drozdov",
+    "birth_year": 1997
+  },
+  {
+    "player_id": 10262,
+    "name": "K. Dementev",
+    "birth_year": 2001
+  },
+  {
+    "player_id": 10263,
+    "name": "M. Ermakov",
+    "birth_year": 1997
+  },
+  {
+    "player_id": 10264,
+    "name": "S. Petrov",
+    "birth_year": 2002
+  },
+  {
+    "player_id": 10265,
+    "name": "L. Fokin",
+    "birth_year": 2000
+  },
+  {
+    "player_id": 10266,
+    "name": "V. Evseev",
+    "birth_year": 1991
+  },
+  {
+    "player_id": 10267,
+    "name": "R. Vakhrushev",
+    "birth_year": 1991
+  },
+  {
+    "player_id": 10268,
+    "name": "S. Nikolaenko",
+    "birth_year": 1991
+  },
+  {
+    "player_id": 10269,
+    "name": "S. Rusakov",
+    "birth_year": 2000
+  },
+  {
+    "player_id": 10270,
+    "name": "C. Ivanov",
+    "birth_year": 2001
+  },
+  {
+    "player_id": 10271,
+    "name": "J. Kryukov",
+    "birth_year": 1993
+  },
+  {
+    "player_id": 10272,
+    "name": "A. Kudryashov",
+    "birth_year": 1996
+  },
+  {
+    "player_id": 10273,
+    "name": "Y. Kalinin",
+    "birth_year": 2001
+  },
+  {
+    "player_id": 10274,
+    "name": "A. Petrov",
+    "birth_year": 1992
+  },
+  {
+    "player_id": 10275,
+    "name": "J. Maltsev",
+    "birth_year": 1993
+  },
+  {
+    "player_id": 10276,
+    "name": "R. Sergeev",
+    "birth_year": 1992
+  },
+  {
+    "player_id": 10277,
+    "name": "V. Kondratev",
+    "birth_year": 2003
+  },
+  {
+    "player_id": 10278,
+    "name": "O. Yakovlev",
+    "birth_year": 2002
+  },
+  {
+    "player_id": 10279,
+    "name": "D. Smirnov",
+    "birth_year": 1994
+  },
+  {
+    "player_id": 10280,
+    "name": "T. Bondarev",
+    "birth_year": 1998
+  },
+  {
+    "player_id": 10281,
+    "name": "N. Ermolaev",
+    "birth_year": 1999
+  },
+  {
+    "player_id": 10282,
+    "name": "S. Sergeev",
+    "birth_year": 1993
+  },
+  {
+    "player_id": 10283,
+    "name": "A. Novikov",
+    "birth_year": 1991
+  },
+  {
+    "player_id": 10284,
+    "name": "A. Tarasov",
+    "birth_year": 1989
+  },
+  {
+    "player_id": 10285,
+    "name": "G. Shishkin",
+    "birth_year": 1992
+  },
+  {
+    "player_id": 10286,
+    "name": "R. Nazarenko",
+    "birth_year": 1999
+  },
+  {
+    "player_id": 10287,
+    "name": "W. Nikiforov",
+    "birth_year": 1993
+  },
+  {
+    "player_id": 10288,
+    "name": "W. Vasilev",
+    "birth_year": 2000
+  },
+  {
+    "player_id": 10289,
+    "name": "K. Kuzmin",
+    "birth_year": 1990
+  },
+  {
+    "player_id": 10290,
+    "name": "T. Potapov",
+    "birth_year": 1989
+  },
+  {
+    "player_id": 10291,
+    "name": "N. Maximov",
+    "birth_year": 2003
+  },
+  {
+    "player_id": 10292,
+    "name": "S. Biryukov",
+    "birth_year": 2001
+  },
+  {
+    "player_id": 10293,
+    "name": "S. Borisov",
+    "birth_year": 1989
+  },
+  {
+    "player_id": 10294,
+    "name": "Z. Kryukov",
+    "birth_year": 1999
+  },
+  {
+    "player_id": 10295,
+    "name": "J. Karpov",
+    "birth_year": 2000
+  },
+  {
+    "player_id": 10296,
+    "name": "A. Ponomarev",
+    "birth_year": 1999
+  },
+  {
+    "player_id": 10297,
+    "name": "K. Belyakov",
+    "birth_year": 1997
+  },
+  {
+    "player_id": 10298,
+    "name": "J. Popov",
+    "birth_year": 1998
+  },
+  {
+    "player_id": 10299,
+    "name": "B. Vasilyev",
+    "birth_year": 1999
+  },
+  {
+    "player_id": 10300,
+    "name": "L. Kuznetsov",
+    "birth_year": 1999
+  },
+  {
+    "player_id": 10301,
+    "name": "P. Kalugin",
+    "birth_year": 1998
+  },
+  {
+    "player_id": 10302,
+    "name": "A. Naumov",
+    "birth_year": 1996
+  },
+  {
+    "player_id": 10303,
+    "name": "P. Mikhaylov",
+    "birth_year": 1989
+  },
+  {
+    "player_id": 10304,
+    "name": "C. Vlasov",
+    "birth_year": 2001
+  },
+  {
+    "player_id": 10305,
+    "name": "S. Lyubimov",
+    "birth_year": 1993
+  },
+  {
+    "player_id": 10306,
+    "name": "K. Mitrofanov",
+    "birth_year": 1991
+  },
+  {
+    "player_id": 10307,
+    "name": "O. Sokolov",
+    "birth_year": 1997
+  },
+  {
+    "player_id": 10308,
+    "name": "G. Bychkov",
+    "birth_year": 1989
+  },
+  {
+    "player_id": 10309,
+    "name": "S. Kondratenko",
+    "birth_year": 1991
+  },
+  {
+    "player_id": 10310,
+    "name": "B. Bykov",
+    "birth_year": 1997
+  },
+  {
+    "player_id": 10311,
+    "name": "N. Ivanov",
+    "birth_year": 1996
+  },
+  {
+    "player_id": 10312,
+    "name": "A. Magomedov",
+    "birth_year": 1992
+  },
+  {
+    "player_id": 10313,
+    "name": "J. Vorobyov",
+    "birth_year": 1990
+  },
+  {
+    "player_id": 10314,
+    "name": "N. Ermolaev",
+    "birth_year": 1998
+  },
+  {
+    "player_id": 10315,
+    "name": "N. Koshkin",
+    "birth_year": 1989
+  },
+  {
+    "player_id": 10316,
+    "name": "D. Vinogradov",
+    "birth_year": 1996
+  },
+  {
+    "player_id": 10317,
+    "name": "A. Zotov",
+    "birth_year": 1992
+  },
+  {
+    "player_id": 10318,
+    "name": "S. Korolev",
+    "birth_year": 2000
+  },
+  {
+    "player_id": 10319,
+    "name": "C. Chernyshev",
+    "birth_year": 1995
+  },
+  {
+    "player_id": 10320,
+    "name": "M. Timofeev",
+    "birth_year": 1994
+  },
+  {
+    "player_id": 10321,
+    "name": "T. Solovyov",
+    "birth_year": 1997
+  },
+  {
+    "player_id": 10322,
+    "name": "S. Kuznetsov",
+    "birth_year": 1995
+  },
+  {
+    "player_id": 10323,
+    "name": "M. Antonov",
+    "birth_year": 1994
+  },
+  {
+    "player_id": 10324,
+    "name": "M. Zhukov",
+    "birth_year": 2001
+  },
+  {
+    "player_id": 10325,
+    "name": "M. Belyaev",
+    "birth_year": 1992
+  },
+  {
+    "player_id": 10326,
+    "name": "A. Morozov",
+    "birth_year": 1998
+  },
+  {
+    "player_id": 10327,
+    "name": "A. Kruglov",
+    "birth_year": 1991
+  },
+  {
+    "player_id": 10328,
+    "name": "N. Ivanov",
+    "birth_year": 2001
+  },
+  {
+    "player_id": 10329,
+    "name": "M. Filippov",
+    "birth_year": 1996
+  },
+  {
+    "player_id": 10330,
+    "name": "K. Medvedev",
+    "birth_year": 1990
+  },
+  {
+    "player_id": 10331,
+    "name": "N. Melnikov",
+    "birth_year": 1991
+  },
+  {
+    "player_id": 10332,
+    "name": "V. Morozov",
+    "birth_year": 1995
+  },
+  {
+    "player_id": 10333,
+    "name": "D. Kireev",
+    "birth_year": 1989
+  },
+  {
+    "player_id": 10334,
+    "name": "R. Selivanov",
+    "birth_year": 1994
+  },
+  {
+    "player_id": 10335,
+    "name": "R. Grigorev",
+    "birth_year": 2000
+  },
+  {
+    "player_id": 10336,
+    "name": "T. Kuznetsov",
+    "birth_year": 1990
+  },
+  {
+    "player_id": 10337,
+    "name": "Y. Kim",
+    "birth_year": 2001
+  },
+  {
+    "player_id": 10338,
+    "name": "D. Kuzmenko",
+    "birth_year": 1994
+  },
+  {
+    "player_id": 10339,
+    "name": "H. Naumov",
+    "birth_year": 1993
+  },
+  {
+    "player_id": 10340,
+    "name": "A. Moiseev",
+    "birth_year": 1995
+  },
+  {
+    "player_id": 10341,
+    "name": "M. Fomin",
+    "birth_year": 1993
+  },
+  {
+    "player_id": 10342,
+    "name": "T. Naumov",
+    "birth_year": 1989
+  },
+  {
+    "player_id": 10343,
+    "name": "L. Ibragimov",
+    "birth_year": 1993
+  },
+  {
+    "player_id": 10344,
+    "name": "I. Serebryakov",
+    "birth_year": 1994
+  },
+  {
+    "player_id": 10345,
+    "name": "J. Nechaev",
+    "birth_year": 1992
+  },
+  {
+    "player_id": 10346,
+    "name": "J. Medvedev",
+    "birth_year": 2002
+  },
+  {
+    "player_id": 10347,
+    "name": "S. Gasanov",
+    "birth_year": 1989
+  },
+  {
+    "player_id": 10348,
+    "name": "C. Vorobev",
+    "birth_year": 1993
+  },
+  {
+    "player_id": 10349,
+    "name": "V. Davydov",
+    "birth_year": 1994
+  },
+  {
+    "player_id": 10350,
+    "name": "U. Dolgov",
+    "birth_year": 1996
+  },
+  {
+    "player_id": 10351,
+    "name": "E. Kharchenko",
+    "birth_year": 2000
+  },
+  {
+    "player_id": 10352,
+    "name": "O. Ivanov",
+    "birth_year": 1996
+  },
+  {
+    "player_id": 10353,
+    "name": "D. Samoylov",
+    "birth_year": 2001
+  },
+  {
+    "player_id": 10354,
+    "name": "B. Mayorov",
+    "birth_year": 1989
+  },
+  {
+    "player_id": 10355,
+    "name": "M. Pakhomov",
+    "birth_year": 2003
+  },
+  {
+    "player_id": 10356,
+    "name": "F. Petrenko",
+    "birth_year": 2003
+  },
+  {
+    "player_id": 10357,
+    "name": "J. Aleksandrov",
+    "birth_year": 2000
+  },
+  {
+    "player_id": 10358,
+    "name": "J. Kireev",
+    "birth_year": 1989
+  },
+  {
+    "player_id": 10359,
+    "name": "B. Fomin",
+    "birth_year": 2000
+  },
+  {
+    "player_id": 10360,
+    "name": "M. Vasilyev",
+    "birth_year": 1995
+  },
+  {
+    "player_id": 10361,
+    "name": "S. Kiselyov",
+    "birth_year": 2001
+  },
+  {
+    "player_id": 10362,
+    "name": "J. Arutyunyan",
+    "birth_year": 1995
+  },
+  {
+    "player_id": 10363,
+    "name": "M. Ivanov",
+    "birth_year": 1994
+  },
+  {
+    "player_id": 10364,
+    "name": "M. Aliev",
+    "birth_year": 1999
+  },
+  {
+    "player_id": 10365,
+    "name": "D. Vershinin",
+    "birth_year": 1999
+  },
+  {
+    "player_id": 10366,
+    "name": "M. Borisov",
+    "birth_year": 1989
+  },
+  {
+    "player_id": 10367,
+    "name": "F. Frolov",
+    "birth_year": 1999
+  },
+  {
+    "player_id": 10368,
+    "name": "S. Borisov",
+    "birth_year": 1993
+  },
+  {
+    "player_id": 10369,
+    "name": "T. Makarov",
+    "birth_year": 2000
+  },
+  {
+    "player_id": 10370,
+    "name": "B. Nikolaev",
+    "birth_year": 1996
+  },
+  {
+    "player_id": 10371,
+    "name": "V. Popov",
+    "birth_year": 1995
+  },
+  {
+    "player_id": 10372,
+    "name": "Y. Osipov",
+    "birth_year": 1992
+  },
+  {
+    "player_id": 10373,
+    "name": "C. Andreev",
+    "birth_year": 1992
+  },
+  {
+    "player_id": 10374,
+    "name": "U. Makarenko",
+    "birth_year": 2000
+  },
+  {
+    "player_id": 10375,
+    "name": "C. Nikolaev",
+    "birth_year": 2000
+  },
+  {
+    "player_id": 10376,
+    "name": "J. Evseev",
+    "birth_year": 1990
+  },
+  {
+    "player_id": 10377,
+    "name": "N. Fedotov",
+    "birth_year": 1992
+  },
+  {
+    "player_id": 10378,
+    "name": "E. Lebedev",
+    "birth_year": 2002
+  },
+  {
+    "player_id": 10379,
+    "name": "S. Naumov",
+    "birth_year": 2003
+  },
+  {
+    "player_id": 10380,
+    "name": "H. Bondarenko",
+    "birth_year": 1999
+  },
+  {
+    "player_id": 10381,
+    "name": "Y. Ivanov",
+    "birth_year": 1990
+  },
+  {
+    "player_id": 10382,
+    "name": "E. Omelchenko",
+    "birth_year": 1990
+  },
+  {
+    "player_id": 10383,
+    "name": "C. Vasilenko",
+    "birth_year": 1992
+  },
+  {
+    "player_id": 10384,
+    "name": "Z. Shubin",
+    "birth_year": 1996
+  },
+  {
+    "player_id": 10385,
+    "name": "S. Gorbunov",
+    "birth_year": 2003
+  },
+  {
+    "player_id": 10386,
+    "name": "M. Agafonov",
+    "birth_year": 1997
+  },
+  {
+    "player_id": 10387,
+    "name": "U. Bogdanov",
+    "birth_year": 1998
+  },
+  {
+    "player_id": 10388,
+    "name": "N. Aliev",
+    "birth_year": 1998
+  },
+  {
+    "player_id": 10389,
+    "name": "Y. Timoshenko",
+    "birth_year": 1997
+  },
+  {
+    "player_id": 10390,
+    "name": "E. Nikulin",
+    "birth_year": 2002
+  },
+  {
+    "player_id": 10391,
+    "name": "T. Yudin",
+    "birth_year": 1996
+  },
+  {
+    "player_id": 10392,
+    "name": "K. Vasilev",
+    "birth_year": 1997
+  },
+  {
+    "player_id": 10393,
+    "name": "C. Dyomin",
+    "birth_year": 1998
+  },
+  {
+    "player_id": 10394,
+    "name": "S. Lebedev",
+    "birth_year": 1996
+  },
+  {
+    "player_id": 10395,
+    "name": "S. Tretyakov",
+    "birth_year": 1998
+  },
+  {
+    "player_id": 10396,
+    "name": "Y. Medvedev",
+    "birth_year": 1993
+  },
+  {
+    "player_id": 10397,
+    "name": "H. Lebedev",
+    "birth_year": 2001
+  },
+  {
+    "player_id": 10398,
+    "name": "N. Ilin",
+    "birth_year": 2002
+  },
+  {
+    "player_id": 10399,
+    "name": "Y. Kuznetsov",
+    "birth_year": 1995
+  },
+  {
+    "player_id": 10400,
+    "name": "D. Kapustin",
+    "birth_year": 1989
+  },
+  {
+    "player_id": 10401,
+    "name": "M. Kotov",
+    "birth_year": 2001
+  },
+  {
+    "player_id": 10402,
+    "name": "C. Savelev",
+    "birth_year": 1996
+  },
+  {
+    "player_id": 10403,
+    "name": "T. Nazarov",
+    "birth_year": 1993
+  },
+  {
+    "player_id": 10404,
+    "name": "N. Kuzmin",
+    "birth_year": 2002
+  },
+  {
+    "player_id": 10405,
+    "name": "N. Gasanov",
+    "birth_year": 1995
+  },
+  {
+    "player_id": 10406,
+    "name": "A. Timofeev",
+    "birth_year": 1991
+  },
+  {
+    "player_id": 10407,
+    "name": "W. Pavlov",
+    "birth_year": 2002
+  },
+  {
+    "player_id": 10408,
+    "name": "T. Kovalenko",
+    "birth_year": 1990
+  },
+  {
+    "player_id": 10409,
+    "name": "B. Ivanov",
+    "birth_year": 1991
+  },
+  {
+    "player_id": 10410,
+    "name": "C. Shevchenko",
+    "birth_year": 1989
+  },
+  {
+    "player_id": 10411,
+    "name": "A. Popov",
+    "birth_year": 1998
+  },
+  {
+    "player_id": 10412,
+    "name": "R. Novikov",
+    "birth_year": 1995
+  },
+  {
+    "player_id": 10413,
+    "name": "D. Kuznetsov",
+    "birth_year": 1995
+  },
+  {
+    "player_id": 10414,
+    "name": "L. Rubtsov",
+    "birth_year": 2003
+  },
+  {
+    "player_id": 10415,
+    "name": "P. Koval",
+    "birth_year": 2001
+  },
+  {
+    "player_id": 10416,
+    "name": "E. Kovalenko",
+    "birth_year": 1990
+  },
+  {
+    "player_id": 10417,
+    "name": "T. Orlov",
+    "birth_year": 1995
+  },
+  {
+    "player_id": 10418,
+    "name": "B. Ivanov",
+    "birth_year": 1989
+  },
+  {
+    "player_id": 10419,
+    "name": "A. Demidov",
+    "birth_year": 1994
+  },
+  {
+    "player_id": 10420,
+    "name": "F. Ageev",
+    "birth_year": 2000
+  },
+  {
+    "player_id": 10421,
+    "name": "K. Kovalenko",
+    "birth_year": 2002
+  },
+  {
+    "player_id": 10422,
+    "name": "Y. Shakirov",
+    "birth_year": 1995
+  },
+  {
+    "player_id": 10423,
+    "name": "H. Mikhaylov",
+    "birth_year": 1998
+  },
+  {
+    "player_id": 10424,
+    "name": "B. Zaytsev",
+    "birth_year": 2002
+  },
+  {
+    "player_id": 10425,
+    "name": "T. Shpak",
+    "birth_year": 1996
+  },
+  {
+    "player_id": 10426,
+    "name": "I. Yunusov",
+    "birth_year": 2000
+  },
+  {
+    "player_id": 10427,
+    "name": "M. Kharitonov",
+    "birth_year": 2001
+  },
+  {
+    "player_id": 10428,
+    "name": "R. Pavlenko",
+    "birth_year": 1989
+  },
+  {
+    "player_id": 10429,
+    "name": "T. Ivanov",
+    "birth_year": 1999
+  },
+  {
+    "player_id": 10430,
+    "name": "K. Konovalov",
+    "birth_year": 1998
+  },
+  {
+    "player_id": 10431,
+    "name": "N. Vlasenko",
+    "birth_year": 2003
+  },
+  {
+    "player_id": 10432,
+    "name": "P. Vasilev",
+    "birth_year": 1994
+  },
+  {
+    "player_id": 10433,
+    "name": "Y. Kravchenko",
+    "birth_year": 1991
+  },
+  {
+    "player_id": 10434,
+    "name": "L. Belyaev",
+    "birth_year": 1991
+  },
+  {
+    "player_id": 10435,
+    "name": "S. Sultanov",
+    "birth_year": 1993
+  },
+  {
+    "player_id": 10436,
+    "name": "S. Tarasov",
+    "birth_year": 2000
+  },
+  {
+    "player_id": 10437,
+    "name": "E. Morozov",
+    "birth_year": 1989
+  },
+  {
+    "player_id": 10438,
+    "name": "M. Samsonov",
+    "birth_year": 1998
+  },
+  {
+    "player_id": 10439,
+    "name": "M. Osipov",
+    "birth_year": 1994
+  },
+  {
+    "player_id": 10440,
+    "name": "O. Maltsev",
+    "birth_year": 1997
+  },
+  {
+    "player_id": 10441,
+    "name": "S. Korotkov",
+    "birth_year": 1998
+  },
+  {
+    "player_id": 10442,
+    "name": "E. Kuzmin",
+    "birth_year": 1992
+  },
+  {
+    "player_id": 10443,
+    "name": "S. Pakhomov",
+    "birth_year": 1999
+  },
+  {
+    "player_id": 10444,
+    "name": "K. Prikhodko",
+    "birth_year": 1995
+  },
+  {
+    "player_id": 10445,
+    "name": "A. Kolesnikov",
+    "birth_year": 1991
+  },
+  {
+    "player_id": 10446,
+    "name": "M. Mayorov",
+    "birth_year": 1998
+  },
+  {
+    "player_id": 10447,
+    "name": "B. Vasilev",
+    "birth_year": 1997
+  },
+  {
+    "player_id": 10448,
+    "name": "A. Kuznetsov",
+    "birth_year": 1993
+  },
+  {
+    "player_id": 10449,
+    "name": "C. Voronin",
+    "birth_year": 2001
+  },
+  {
+    "player_id": 10450,
+    "name": "L. Kondratev",
+    "birth_year": 1990
+  },
+  {
+    "player_id": 10451,
+    "name": "V. Grishin",
+    "birth_year": 1993
+  },
+  {
+    "player_id": 10452,
+    "name": "B. Danilov",
+    "birth_year": 2003
+  },
+  {
+    "player_id": 10453,
+    "name": "H. Orlov",
+    "birth_year": 2002
+  },
+  {
+    "player_id": 10454,
+    "name": "K. Martynov",
+    "birth_year": 1997
+  },
+  {
+    "player_id": 10455,
+    "name": "S. Zakharov",
+    "birth_year": 1990
+  },
+  {
+    "player_id": 10456,
+    "name": "Z. Orlov",
+    "birth_year": 1996
+  },
+  {
+    "player_id": 10457,
+    "name": "A. Bashtaev",
+    "birth_year": 1999
+  },
+  {
+    "player_id": 10458,
+    "name": "T. Kovalenko",
+    "birth_year": 1995
+  },
+  {
+    "player_id": 10459,
+    "name": "K. Sidorov",
+    "birth_year": 1990
+  },
+  {
+    "player_id": 10460,
+    "name": "D. Malinin",
+    "birth_year": 1999
+  },
+  {
+    "player_id": 10461,
+    "name": "R. Baranov",
+    "birth_year": 1992
+  },
+  {
+    "player_id": 10462,
+    "name": "A. Korol",
+    "birth_year": 1992
+  },
+  {
+    "player_id": 10463,
+    "name": "G. Mironov",
+    "birth_year": 1997
+  },
+  {
+    "player_id": 10464,
+    "name": "B. Fedoseev",
+    "birth_year": 1989
+  },
+  {
+    "player_id": 10465,
+    "name": "T. Popov",
+    "birth_year": 2001
+  },
+  {
+    "player_id": 10466,
+    "name": "E. Alexandrovn",
+    "birth_year": 1990
+  },
+  {
+    "player_id": 10467,
+    "name": "S. Sidorov",
+    "birth_year": 1993
+  },
+  {
+    "player_id": 10468,
+    "name": "H. Marchenko",
+    "birth_year": 1995
+  },
+  {
+    "player_id": 10469,
+    "name": "T. Markov",
+    "birth_year": 2000
+  },
+  {
+    "player_id": 10470,
+    "name": "V. Permyakov",
+    "birth_year": 1989
+  },
+  {
+    "player_id": 10471,
+    "name": "P. Usmanov",
+    "birth_year": 1990
+  },
+  {
+    "player_id": 10472,
+    "name": "L. Samoylov",
+    "birth_year": 1998
+  },
+  {
+    "player_id": 10473,
+    "name": "J. Egorov",
+    "birth_year": 1994
+  },
+  {
+    "player_id": 10474,
+    "name": "R. Chernykh",
+    "birth_year": 1998
+  },
+  {
+    "player_id": 10475,
+    "name": "S. Magomedov",
+    "birth_year": 2001
+  },
+  {
+    "player_id": 10476,
+    "name": "V. Panin",
+    "birth_year": 2003
+  },
+  {
+    "player_id": 10477,
+    "name": "E. Kotov",
+    "birth_year": 2002
+  },
+  {
+    "player_id": 10478,
+    "name": "A. Bychkov",
+    "birth_year": 1995
+  },
+  {
+    "player_id": 10479,
+    "name": "E. Golubev",
+    "birth_year": 1998
+  },
+  {
+    "player_id": 10480,
+    "name": "R. Bogdanov",
+    "birth_year": 1989
+  },
+  {
+    "player_id": 10481,
+    "name": "P. Sokolov",
+    "birth_year": 1993
+  },
+  {
+    "player_id": 10482,
+    "name": "P. Zuev",
+    "birth_year": 2001
+  },
+  {
+    "player_id": 10483,
+    "name": "J. Abramov",
+    "birth_year": 1990
+  },
+  {
+    "player_id": 10484,
+    "name": "M. Makarov",
+    "birth_year": 1993
+  },
+  {
+    "player_id": 10485,
+    "name": "I. Lebedev",
+    "birth_year": 2003
+  },
+  {
+    "player_id": 10486,
+    "name": "K. Umarov",
+    "birth_year": 1993
+  },
+  {
+    "player_id": 10487,
+    "name": "K. Volk",
+    "birth_year": 1998
+  },
+  {
+    "player_id": 10488,
+    "name": "A. Solovev",
+    "birth_year": 1995
+  },
+  {
+    "player_id": 10489,
+    "name": "V. Agapov",
+    "birth_year": 1991
+  },
+  {
+    "player_id": 10490,
+    "name": "T. Sokolov",
+    "birth_year": 1989
+  },
+  {
+    "player_id": 10491,
+    "name": "C. Danilov",
+    "birth_year": 2001
+  },
+  {
+    "player_id": 10492,
+    "name": "S. Latypov",
+    "birth_year": 2000
+  },
+  {
+    "player_id": 10493,
+    "name": "T. Simonov",
+    "birth_year": 1998
+  },
+  {
+    "player_id": 10494,
+    "name": "K. Sorokin",
+    "birth_year": 1992
+  },
+  {
+    "player_id": 10495,
+    "name": "A. Nikitin",
+    "birth_year": 1996
+  },
+  {
+    "player_id": 10496,
+    "name": "L. Mikheev",
+    "birth_year": 1995
+  },
+  {
+    "player_id": 10497,
+    "name": "V. Maslov",
+    "birth_year": 1998
+  },
+  {
+    "player_id": 10498,
+    "name": "S. Shevchenko",
+    "birth_year": 2003
+  },
+  {
+    "player_id": 10499,
+    "name": "N. Petrov",
+    "birth_year": 1989
+  },
+  {
+    "player_id": 10500,
+    "name": "A. Maltsev",
+    "birth_year": 1994
+  },
+  {
+    "player_id": 10501,
+    "name": "S. Ivanov",
+    "birth_year": 2002
+  },
+  {
+    "player_id": 10502,
+    "name": "E. Loginov",
+    "birth_year": 1990
+  },
+  {
+    "player_id": 10503,
+    "name": "S. Demidov",
+    "birth_year": 1997
+  },
+  {
+    "player_id": 10504,
+    "name": "T. Ivanov",
+    "birth_year": 1999
+  },
+  {
+    "player_id": 10505,
+    "name": "A. Ermakov",
+    "birth_year": 2000
+  },
+  {
+    "player_id": 10506,
+    "name": "S. Semyonov",
+    "birth_year": 1999
+  },
+  {
+    "player_id": 10507,
+    "name": "M. Eryomenko",
+    "birth_year": 1991
+  },
+  {
+    "player_id": 10508,
+    "name": "E. Safonov",
+    "birth_year": 2003
+  },
+  {
+    "player_id": 10509,
+    "name": "N. Korshunov",
+    "birth_year": 1992
+  },
+  {
+    "player_id": 10510,
+    "name": "D. Zakirov",
+    "birth_year": 1990
+  },
+  {
+    "player_id": 10511,
+    "name": "J. Belyakov",
+    "birth_year": 1999
+  },
+  {
+    "player_id": 10512,
+    "name": "S. Dorofeev",
+    "birth_year": 2002
+  },
+  {
+    "player_id": 10513,
+    "name": "B. Matveev",
+    "birth_year": 1996
+  },
+  {
+    "player_id": 10514,
+    "name": "M. Abramov",
+    "birth_year": 1991
+  },
+  {
+    "player_id": 10515,
+    "name": "K. Davydov",
+    "birth_year": 1994
+  },
+  {
+    "player_id": 10516,
+    "name": "J. Makarov",
+    "birth_year": 1992
+  },
+  {
+    "player_id": 10517,
+    "name": "T. Kalinin",
+    "birth_year": 1992
+  },
+  {
+    "player_id": 10518,
+    "name": "L. Mikhaylov",
+    "birth_year": 1996
+  },
+  {
+    "player_id": 10519,
+    "name": "R. Kuznetsov",
+    "birth_year": 1995
+  },
+  {
+    "player_id": 10520,
+    "name": "M. Nikolaevich",
+    "birth_year": 1992
+  },
+  {
+    "player_id": 10521,
+    "name": "K. Mikhaylov",
+    "birth_year": 2002
+  },
+  {
+    "player_id": 10522,
+    "name": "A. Tokarev",
+    "birth_year": 1998
+  },
+  {
+    "player_id": 10523,
+    "name": "S. Trofimov",
+    "birth_year": 2001
+  },
+  {
+    "player_id": 10524,
+    "name": "P. Popov",
+    "birth_year": 1992
+  },
+  {
+    "player_id": 10525,
+    "name": "S. Vasilev",
+    "birth_year": 1998
+  },
+  {
+    "player_id": 10526,
+    "name": "S. Naumov",
+    "birth_year": 2001
+  },
+  {
+    "player_id": 10527,
+    "name": "G. Bondarenko",
+    "birth_year": 1991
+  },
+  {
+    "player_id": 10528,
+    "name": "P. Safronov",
+    "birth_year": 1989
+  },
+  {
+    "player_id": 10529,
+    "name": "N. Shakirov",
+    "birth_year": 1994
+  },
+  {
+    "player_id": 10530,
+    "name": "C. Sidorenko",
+    "birth_year": 2003
+  },
+  {
+    "player_id": 10531,
+    "name": "T. Medvedev",
+    "birth_year": 2001
+  },
+  {
+    "player_id": 10532,
+    "name": "V. Chernikov",
+    "birth_year": 2003
+  },
+  {
+    "player_id": 10533,
+    "name": "J. Omarov",
+    "birth_year": 1993
+  },
+  {
+    "player_id": 10534,
+    "name": "D. Makarov",
+    "birth_year": 2001
+  },
+  {
+    "player_id": 10535,
+    "name": "J. Fedotov",
+    "birth_year": 1990
+  },
+  {
+    "player_id": 10536,
+    "name": "M. Kazakov",
+    "birth_year": 1991
+  },
+  {
+    "player_id": 10537,
+    "name": "K. Tkachenko",
+    "birth_year": 1991
+  },
+  {
+    "player_id": 10538,
+    "name": "T. Smirnov",
+    "birth_year": 1992
+  },
+  {
+    "player_id": 10539,
+    "name": "T. Kulikov",
+    "birth_year": 1989
+  },
+  {
+    "player_id": 10540,
+    "name": "S. Gerasimov",
+    "birth_year": 1999
+  },
+  {
+    "player_id": 10541,
+    "name": "K. Smirnov",
+    "birth_year": 1992
+  },
+  {
+    "player_id": 10542,
+    "name": "F. Chernykh",
+    "birth_year": 1993
+  },
+  {
+    "player_id": 10543,
+    "name": "W. Kozlov",
+    "birth_year": 1991
+  },
+  {
+    "player_id": 10544,
+    "name": "K. Bolshakov",
+    "birth_year": 1989
+  },
+  {
+    "player_id": 10545,
+    "name": "S. Alexeev",
+    "birth_year": 1989
+  },
+  {
+    "player_id": 10546,
+    "name": "B. Antonov",
+    "birth_year": 1999
+  },
+  {
+    "player_id": 10547,
+    "name": "N. Vetrov",
+    "birth_year": 1994
+  },
+  {
+    "player_id": 10548,
+    "name": "J. Ivanov",
+    "birth_year": 1996
+  },
+  {
+    "player_id": 10549,
+    "name": "J. Gusev",
+    "birth_year": 1997
+  },
+  {
+    "player_id": 10550,
+    "name": "N. Tarasov",
+    "birth_year": 2003
+  },
+  {
+    "player_id": 10551,
+    "name": "T. Nikolaev",
+    "birth_year": 1990
+  },
+  {
+    "player_id": 10552,
+    "name": "V. Kotov",
+    "birth_year": 1990
+  },
+  {
+    "player_id": 10553,
+    "name": "T. Mironov",
+    "birth_year": 2002
+  },
+  {
+    "player_id": 10554,
+    "name": "G. Vasilev",
+    "birth_year": 1994
+  },
+  {
+    "player_id": 10555,
+    "name": "S. Karpov",
+    "birth_year": 1996
+  },
+  {
+    "player_id": 10556,
+    "name": "V. Ovsyannikov",
+    "birth_year": 1990
+  },
+  {
+    "player_id": 10557,
+    "name": "N. Loshakov",
+    "birth_year": 1992
+  },
+  {
+    "player_id": 10558,
+    "name": "N. Magomadov",
+    "birth_year": 1996
+  },
+  {
+    "player_id": 10559,
+    "name": "M. Chernyshov",
+    "birth_year": 2003
+  },
+  {
+    "player_id": 10560,
+    "name": "M. Kazantsev",
+    "birth_year": 1999
+  },
+  {
+    "player_id": 10561,
+    "name": "B. Tarasov",
+    "birth_year": 1990
+  },
+  {
+    "player_id": 10562,
+    "name": "N. Ageev",
+    "birth_year": 1993
+  },
+  {
+    "player_id": 10563,
+    "name": "S. Sorokin",
+    "birth_year": 1993
+  },
+  {
+    "player_id": 10564,
+    "name": "Y. Aleksandrovich",
+    "birth_year": 1989
+  },
+  {
+    "player_id": 10565,
+    "name": "J. Ivanov",
+    "birth_year": 2002
+  },
+  {
+    "player_id": 10566,
+    "name": "S. Aliev",
+    "birth_year": 1990
+  },
+  {
+    "player_id": 10567,
+    "name": "B. Belyaev",
+    "birth_year": 1997
+  },
+  {
+    "player_id": 10568,
+    "name": "J. Shestakov",
+    "birth_year": 1990
+  },
+  {
+    "player_id": 10569,
+    "name": "A. Kovalyov",
+    "birth_year": 2003
+  },
+  {
+    "player_id": 10570,
+    "name": "E. Korolyov",
+    "birth_year": 2002
+  },
+  {
+    "player_id": 10571,
+    "name": "M. Belyaev",
+    "birth_year": 1991
+  },
+  {
+    "player_id": 10572,
+    "name": "W. Kuznetsov",
+    "birth_year": 1994
+  },
+  {
+    "player_id": 10573,
+    "name": "R. Simonov",
+    "birth_year": 1995
+  },
+  {
+    "player_id": 10574,
+    "name": "M. Oleynik",
+    "birth_year": 1994
+  },
+  {
+    "player_id": 10575,
+    "name": "A. Naumov",
+    "birth_year": 1995
+  },
+  {
+    "player_id": 10576,
+    "name": "T. Plotnikov",
+    "birth_year": 1999
+  },
+  {
+    "player_id": 10577,
+    "name": "T. Zaytsev",
+    "birth_year": 2003
+  },
+  {
+    "player_id": 10578,
+    "name": "R. Eliseev",
+    "birth_year": 2003
+  },
+  {
+    "player_id": 10579,
+    "name": "E. Bondarenko",
+    "birth_year": 1990
+  },
+  {
+    "player_id": 10580,
+    "name": "R. Krasilnikov",
+    "birth_year": 1998
+  },
+  {
+    "player_id": 10581,
+    "name": "J. Leonov",
+    "birth_year": 1994
+  },
+  {
+    "player_id": 10582,
+    "name": "T. Pronin",
+    "birth_year": 1994
+  },
+  {
+    "player_id": 10583,
+    "name": "F. Goncharov",
+    "birth_year": 1994
+  },
+  {
+    "player_id": 10584,
+    "name": "P. Biryukov",
+    "birth_year": 1998
+  },
+  {
+    "player_id": 10585,
+    "name": "K. Ivanov",
+    "birth_year": 1990
+  },
+  {
+    "player_id": 10586,
+    "name": "N. Antonenko",
+    "birth_year": 1991
+  },
+  {
+    "player_id": 10587,
+    "name": "L. Sokolov",
+    "birth_year": 1995
+  },
+  {
+    "player_id": 10588,
+    "name": "A. Smirnov",
+    "birth_year": 1999
+  },
+  {
+    "player_id": 10589,
+    "name": "S. Aliev",
+    "birth_year": 2002
+  },
+  {
+    "player_id": 10590,
+    "name": "I. Andreevich",
+    "birth_year": 1993
+  },
+  {
+    "player_id": 10591,
+    "name": "D. Ignatenko",
+    "birth_year": 2000
+  },
+  {
+    "player_id": 10592,
+    "name": "L. Fyodorov",
+    "birth_year": 2001
+  },
+  {
+    "player_id": 10593,
+    "name": "S. Ivanov",
+    "birth_year": 1994
+  },
+  {
+    "player_id": 10594,
+    "name": "T. Bondarev",
+    "birth_year": 1995
+  },
+  {
+    "player_id": 10595,
+    "name": "R. Fyodorov",
+    "birth_year": 1999
+  },
+  {
+    "player_id": 10596,
+    "name": "M. Kuznetsov",
+    "birth_year": 1998
+  },
+  {
+    "player_id": 10597,
+    "name": "J. Smirnov",
+    "birth_year": 1993
+  },
+  {
+    "player_id": 10598,
+    "name": "H. Dmitriev",
+    "birth_year": 1995
+  },
+  {
+    "player_id": 10599,
+    "name": "P. Bulatov",
+    "birth_year": 1993
+  },
+  {
+    "player_id": 10600,
+    "name": "O. Belov",
+    "birth_year": 1999
+  },
+  {
+    "player_id": 10601,
+    "name": "T. Grigoryan",
+    "birth_year": 1998
+  },
+  {
+    "player_id": 10602,
+    "name": "O. Petrov",
+    "birth_year": 1991
+  },
+  {
+    "player_id": 10603,
+    "name": "T. Litvinenko",
+    "birth_year": 2003
+  },
+  {
+    "player_id": 10604,
+    "name": "F. Veselov",
+    "birth_year": 1989
+  },
+  {
+    "player_id": 10605,
+    "name": "B. Petrov",
+    "birth_year": 2003
+  },
+  {
+    "player_id": 10606,
+    "name": "M. Tyurin",
+    "birth_year": 1994
+  },
+  {
+    "player_id": 10607,
+    "name": "K. Timofeev",
+    "birth_year": 1995
+  },
+  {
+    "player_id": 10608,
+    "name": "S. Ilin",
+    "birth_year": 1995
+  },
+  {
+    "player_id": 10609,
+    "name": "L. Sidorov",
+    "birth_year": 1989
+  },
+  {
+    "player_id": 10610,
+    "name": "U. Chistyakov",
+    "birth_year": 2001
+  },
+  {
+    "player_id": 10611,
+    "name": "A. Grigoryev",
+    "birth_year": 1997
+  },
+  {
+    "player_id": 10612,
+    "name": "D. Vasilev",
+    "birth_year": 1991
+  },
+  {
+    "player_id": 10613,
+    "name": "A. Sergeev",
+    "birth_year": 1992
+  },
+  {
+    "player_id": 10614,
+    "name": "M. Kot",
+    "birth_year": 2001
+  },
+  {
+    "player_id": 10615,
+    "name": "G. Ramazanov",
+    "birth_year": 2001
+  },
+  {
+    "player_id": 10616,
+    "name": "N. Grigoryev",
+    "birth_year": 1999
+  },
+  {
+    "player_id": 10617,
+    "name": "B. Pavlov",
+    "birth_year": 2001
+  },
+  {
+    "player_id": 10618,
+    "name": "R. Shishkin",
+    "birth_year": 1991
+  },
+  {
+    "player_id": 10619,
+    "name": "P. Rodin",
+    "birth_year": 1999
+  },
+  {
+    "player_id": 10620,
+    "name": "T. Viktorovich",
+    "birth_year": 1991
+  },
+  {
+    "player_id": 10621,
+    "name": "R. Chernykh",
+    "birth_year": 2002
+  },
+  {
+    "player_id": 10622,
+    "name": "A. Smirnov",
+    "birth_year": 1995
+  },
+  {
+    "player_id": 10623,
+    "name": "Y. Kuznetsov",
+    "birth_year": 1989
+  },
+  {
+    "player_id": 10624,
+    "name": "P. Morozov",
+    "birth_year": 1991
+  },
+  {
+    "player_id": 10625,
+    "name": "D. Mikhaylov",
+    "birth_year": 2000
+  },
+  {
+    "player_id": 10626,
+    "name": "A. Kalinin",
+    "birth_year": 1999
+  },
+  {
+    "player_id": 10627,
+    "name": "E. Titov",
+    "birth_year": 1991
+  },
+  {
+    "player_id": 10628,
+    "name": "S. Prokopenko",
+    "birth_year": 1996
+  },
+  {
+    "player_id": 10629,
+    "name": "G. Filatov",
+    "birth_year": 1992
+  },
+  {
+    "player_id": 10630,
+    "name": "H. Pronin",
+    "birth_year": 2003
+  },
+  {
+    "player_id": 10631,
+    "name": "K. Rozhkov",
+    "birth_year": 1993
+  },
+  {
+    "player_id": 10632,
+    "name": "K. Golovin",
+    "birth_year": 1990
+  },
+  {
+    "player_id": 10633,
+    "name": "A. Trofimov",
+    "birth_year": 1999
+  },
+  {
+    "player_id": 10634,
+    "name": "J. Zavyalov",
+    "birth_year": 1991
+  },
+  {
+    "player_id": 10635,
+    "name": "S. Belousov",
+    "birth_year": 1996
+  },
+  {
+    "player_id": 10636,
+    "name": "N. Romanov",
+    "birth_year": 1995
+  },
+  {
+    "player_id": 10637,
+    "name": "R. Lis",
+    "birth_year": 1994
+  },
+  {
+    "player_id": 10638,
+    "name": "D. Timofeev",
+    "birth_year": 1995
+  },
+  {
+    "player_id": 10639,
+    "name": "N. Mamaev",
+    "birth_year": 1994
+  },
+  {
+    "player_id": 10640,
+    "name": "G. Isaev",
+    "birth_year": 1994
+  },
+  {
+    "player_id": 10641,
+    "name": "L. Bykov",
+    "birth_year": 2003
+  },
+  {
+    "player_id": 10642,
+    "name": "S. Arutyunyan",
+    "birth_year": 2003
+  },
+  {
+    "player_id": 10643,
+    "name": "S. Novikov",
+    "birth_year": 1989
+  },
+  {
+    "player_id": 10644,
+    "name": "T. Ivanov",
+    "birth_year": 1993
+  },
+  {
+    "player_id": 10645,
+    "name": "A. Valiev",
+    "birth_year": 1998
+  },
+  {
+    "player_id": 10646,
+    "name": "A. Efremov",
+    "birth_year": 1991
+  },
+  {
+    "player_id": 10647,
+    "name": "B. Kalinin",
+    "birth_year": 1994
+  },
+  {
+    "player_id": 10648,
+    "name": "R. Kirillov",
+    "birth_year": 1992
+  },
+  {
+    "player_id": 10649,
+    "name": "G. Boyko",
+    "birth_year": 1989
+  },
+  {
+    "player_id": 10650,
+    "name": "N. Panchenko",
+    "birth_year": 1991
+  },
+  {
+    "player_id": 10651,
+    "name": "C. Kuznetsov",
+    "birth_year": 1990
+  },
+  {
+    "player_id": 10652,
+    "name": "C. Lebedev",
+    "birth_year": 1994
+  },
+  {
+    "player_id": 10653,
+    "name": "K. Efimov",
+    "birth_year": 1995
+  },
+  {
+    "player_id": 10654,
+    "name": "S. Evdokimov",
+    "birth_year": 2001
+  },
+  {
+    "player_id": 10655,
+    "name": "D. Ivanov",
+    "birth_year": 1995
+  },
+  {
+    "player_id": 10656,
+    "name": "J. Voronin",
+    "birth_year": 1998
+  },
+  {
+    "player_id": 10657,
+    "name": "M. Korolyov",
+    "birth_year": 2001
+  },
+  {
+    "player_id": 10658,
+    "name": "A. Ivanov",
+    "birth_year": 1993
+  },
+  {
+    "player_id": 10659,
+    "name": "R. Alekseev",
+    "birth_year": 1996
+  },
+  {
+    "player_id": 10660,
+    "name": "M. Usmanov",
+    "birth_year": 1995
+  },
+  {
+    "player_id": 10661,
+    "name": "J. Nikolaev",
+    "birth_year": 2000
+  },
+  {
+    "player_id": 10662,
+    "name": "A. Kiselyov",
+    "birth_year": 1990
+  },
+  {
+    "player_id": 10663,
+    "name": "N. Tretyakov",
+    "birth_year": 1993
+  },
+  {
+    "player_id": 10664,
+    "name": "D. Kravchenko",
+    "birth_year": 2002
+  },
+  {
+    "player_id": 10665,
+    "name": "V. Gusev",
+    "birth_year": 1992
+  },
+  {
+    "player_id": 10666,
+    "name": "M. Tarasov",
+    "birth_year": 2003
+  },
+  {
+    "player_id": 10667,
+    "name": "B. Ilchenko",
+    "birth_year": 1990
+  },
+  {
+    "player_id": 10668,
+    "name": "G. Stepanov",
+    "birth_year": 1990
+  },
+  {
+    "player_id": 10669,
+    "name": "L. Fedotov",
+    "birth_year": 1993
+  },
+  {
+    "player_id": 10670,
+    "name": "R. Sukhov",
+    "birth_year": 1993
+  },
+  {
+    "player_id": 10671,
+    "name": "F. Maksimov",
+    "birth_year": 1996
+  },
+  {
+    "player_id": 10672,
+    "name": "O. Sokolov",
+    "birth_year": 1989
+  },
+  {
+    "player_id": 10673,
+    "name": "K. Shilov",
+    "birth_year": 1992
+  },
+  {
+    "player_id": 10674,
+    "name": "J. Volkov",
+    "birth_year": 1993
+  },
+  {
+    "player_id": 10675,
+    "name": "P. Kireev",
+    "birth_year": 1993
+  },
+  {
+    "player_id": 10676,
+    "name": "B. Tkachenko",
+    "birth_year": 2000
+  },
+  {
+    "player_id": 10677,
+    "name": "N. Makarov",
+    "birth_year": 1996
+  },
+  {
+    "player_id": 10678,
+    "name": "N. Kovalchuk",
+    "birth_year": 2002
+  },
+  {
+    "player_id": 10679,
+    "name": "B. Matveev",
+    "birth_year": 2003
+  },
+  {
+    "player_id": 10680,
+    "name": "M. Vinogradov",
+    "birth_year": 1998
+  },
+  {
+    "player_id": 10681,
+    "name": "G. Kononov",
+    "birth_year": 1998
+  },
+  {
+    "player_id": 10682,
+    "name": "I. Kazakov",
+    "birth_year": 1999
+  },
+  {
+    "player_id": 10683,
+    "name": "T. Lukyanov",
+    "birth_year": 2003
+  },
+  {
+    "player_id": 10684,
+    "name": "A. Yunusov",
+    "birth_year": 1991
+  },
+  {
+    "player_id": 10685,
+    "name": "A. Plotnikov",
+    "birth_year": 1999
+  },
+  {
+    "player_id": 10686,
+    "name": "L. Aleksandrov",
+    "birth_year": 1997
+  },
+  {
+    "player_id": 10687,
+    "name": "M. Kuzin",
+    "birth_year": 1997
+  },
+  {
+    "player_id": 10688,
+    "name": "P. Vasilenko",
+    "birth_year": 1989
+  },
+  {
+    "player_id": 10689,
+    "name": "A. Ramazanov",
+    "birth_year": 1996
+  },
+  {
+    "player_id": 10690,
+    "name": "P. Mikhaylov",
+    "birth_year": 1991
+  },
+  {
+    "player_id": 10691,
+    "name": "G. Vinogradov",
+    "birth_year": 1992
+  },
+  {
+    "player_id": 10692,
+    "name": "A. Petrov",
+    "birth_year": 2003
+  },
+  {
+    "player_id": 10693,
+    "name": "K. Sokolov",
+    "birth_year": 1999
+  },
+  {
+    "player_id": 10694,
+    "name": "S. Orlov",
+    "birth_year": 1998
+  },
+  {
+    "player_id": 10695,
+    "name": "R. Tretyakov",
+    "birth_year": 2003
+  },
+  {
+    "player_id": 10696,
+    "name": "T. Magomedov",
+    "birth_year": 1992
+  },
+  {
+    "player_id": 10697,
+    "name": "L. Danilov",
+    "birth_year": 1992
+  },
+  {
+    "player_id": 10698,
+    "name": "L. Tyurin",
+    "birth_year": 1997
+  },
+  {
+    "player_id": 10699,
+    "name": "Z. Sinitsyn",
+    "birth_year": 1995
+  },
+  {
+    "player_id": 10700,
+    "name": "A. Antonov",
+    "birth_year": 1993
+  },
+  {
+    "player_id": 10701,
+    "name": "L. Akhmedov",
+    "birth_year": 2003
+  },
+  {
+    "player_id": 10702,
+    "name": "N. Krylov",
+    "birth_year": 2003
+  },
+  {
+    "player_id": 10703,
+    "name": "A. Petrov",
+    "birth_year": 1993
+  },
+  {
+    "player_id": 10704,
+    "name": "R. Bogdanov",
+    "birth_year": 1997
+  },
+  {
+    "player_id": 10705,
+    "name": "M. Bocharov",
+    "birth_year": 1993
+  },
+  {
+    "player_id": 10706,
+    "name": "V. Karpenko",
+    "birth_year": 2001
+  },
+  {
+    "player_id": 10707,
+    "name": "F. Mikhaylov",
+    "birth_year": 1989
+  },
+  {
+    "player_id": 10708,
+    "name": "M. Samoylov",
+    "birth_year": 1994
+  },
+  {
+    "player_id": 10709,
+    "name": "M. Sedov",
+    "birth_year": 2002
+  },
+  {
+    "player_id": 10710,
+    "name": "B. Zaytsev",
+    "birth_year": 2001
+  },
+  {
+    "player_id": 10711,
+    "name": "E. Mitrofanov",
+    "birth_year": 1997
+  },
+  {
+    "player_id": 10712,
+    "name": "P. Grigorev",
+    "birth_year": 1994
+  },
+  {
+    "player_id": 10713,
+    "name": "N. Safonov",
+    "birth_year": 2002
+  },
+  {
+    "player_id": 10714,
+    "name": "G. Simonov",
+    "birth_year": 1991
+  },
+  {
+    "player_id": 10715,
+    "name": "P. Zaytsev",
+    "birth_year": 1994
+  },
+  {
+    "player_id": 10716,
+    "name": "L. Gusev",
+    "birth_year": 1989
+  },
+  {
+    "player_id": 10717,
+    "name": "G. Volkov",
+    "birth_year": 1995
+  },
+  {
+    "player_id": 10718,
+    "name": "N. Fedoseev",
+    "birth_year": 1995
+  },
+  {
+    "player_id": 10719,
+    "name": "D. Laptev",
+    "birth_year": 1997
+  },
+  {
+    "player_id": 10720,
+    "name": "B. Gordeev",
+    "birth_year": 1990
+  },
+  {
+    "player_id": 10721,
+    "name": "M. Vershinin",
+    "birth_year": 1996
+  },
+  {
+    "player_id": 10722,
+    "name": "A. Medvedev",
+    "birth_year": 1990
+  },
+  {
+    "player_id": 10723,
+    "name": "F. Serov",
+    "birth_year": 1989
+  },
+  {
+    "player_id": 10724,
+    "name": "S. Sokolov",
+    "birth_year": 1998
+  },
+  {
+    "player_id": 10725,
+    "name": "A. Yudin",
+    "birth_year": 1991
+  },
+  {
+    "player_id": 10726,
+    "name": "C. Petukhov",
+    "birth_year": 1995
+  },
+  {
+    "player_id": 10727,
+    "name": "B. Kovalchuk",
+    "birth_year": 1997
+  },
+  {
+    "player_id": 10728,
+    "name": "A. Tarasov",
+    "birth_year": 1990
+  },
+  {
+    "player_id": 10729,
+    "name": "T. Lapin",
+    "birth_year": 1995
+  },
+  {
+    "player_id": 10730,
+    "name": "P. Shvets",
+    "birth_year": 1991
+  },
+  {
+    "player_id": 10731,
+    "name": "R. Nikitin",
+    "birth_year": 2002
+  },
+  {
+    "player_id": 10732,
+    "name": "Z. Li",
+    "birth_year": 2000
+  },
+  {
+    "player_id": 10733,
+    "name": "S. Sergeev",
+    "birth_year": 1990
+  },
+  {
+    "player_id": 10734,
+    "name": "L. Belov",
+    "birth_year": 1999
+  },
+  {
+    "player_id": 10735,
+    "name": "F. Makarov",
+    "birth_year": 1999
+  },
+  {
+    "player_id": 10736,
+    "name": "G. Mukhin",
+    "birth_year": 1991
+  },
+  {
+    "player_id": 10737,
+    "name": "E. Popov",
+    "birth_year": 2002
+  },
+  {
+    "player_id": 10738,
+    "name": "K. Volkov",
+    "birth_year": 2003
+  },
+  {
+    "player_id": 10739,
+    "name": "M. Merkulov",
+    "birth_year": 1995
+  },
+  {
+    "player_id": 10740,
+    "name": "P. Antonov",
+    "birth_year": 1997
+  },
+  {
+    "player_id": 10741,
+    "name": "D. Vorobev",
+    "birth_year": 1995
+  },
+  {
+    "player_id": 10742,
+    "name": "S. Shestakov",
+    "birth_year": 1992
+  },
+  {
+    "player_id": 10743,
+    "name": "T. Gusev",
+    "birth_year": 2002
+  },
+  {
+    "player_id": 10744,
+    "name": "N. Alekseev",
+    "birth_year": 2001
+  },
+  {
+    "player_id": 10745,
+    "name": "M. Karimov",
+    "birth_year": 1999
+  },
+  {
+    "player_id": 10746,
+    "name": "K. Bychkov",
+    "birth_year": 1995
+  },
+  {
+    "player_id": 10747,
+    "name": "D. Nechaev",
+    "birth_year": 2002
+  },
+  {
+    "player_id": 10748,
+    "name": "V. Malyshev",
+    "birth_year": 2002
+  },
+  {
+    "player_id": 10749,
+    "name": "M. Magomedov",
+    "birth_year": 1993
+  },
+  {
+    "player_id": 10750,
+    "name": "A. Shubin",
+    "birth_year": 1999
+  },
+  {
+    "player_id": 10751,
+    "name": "S. Zakharov",
+    "birth_year": 2002
+  },
+  {
+    "player_id": 10752,
+    "name": "A. Goncharov",
+    "birth_year": 1996
+  },
+  {
+    "player_id": 10753,
+    "name": "S. Romanov",
+    "birth_year": 1996
+  },
+  {
+    "player_id": 10754,
+    "name": "B. Galkin",
+    "birth_year": 1991
+  },
+  {
+    "player_id": 10755,
+    "name": "S. Smirnov",
+    "birth_year": 1995
+  },
+  {
+    "player_id": 10756,
+    "name": "K. Ramazanov",
+    "birth_year": 1998
+  },
+  {
+    "player_id": 10757,
+    "name": "I. Romanov",
+    "birth_year": 1994
+  },
+  {
+    "player_id": 10758,
+    "name": "S. Krylov",
+    "birth_year": 1993
+  },
+  {
+    "player_id": 10759,
+    "name": "N. Kiselyov",
+    "birth_year": 2003
+  },
+  {
+    "player_id": 10760,
+    "name": "A. Ivanov",
+    "birth_year": 2002
+  },
+  {
+    "player_id": 10761,
+    "name": "C. Grigorev",
+    "birth_year": 1998
+  },
+  {
+    "player_id": 10762,
+    "name": "M. Volkov",
+    "birth_year": 1992
+  },
+  {
+    "player_id": 10763,
+    "name": "T. Lukyanov",
+    "birth_year": 1996
+  },
+  {
+    "player_id": 10764,
+    "name": "E. Ivanov",
+    "birth_year": 1993
+  },
+  {
+    "player_id": 10765,
+    "name": "C. Solovev",
+    "birth_year": 1997
+  },
+  {
+    "player_id": 10766,
+    "name": "T. Vorontsov",
+    "birth_year": 1990
+  },
+  {
+    "player_id": 10767,
+    "name": "J. Sergeevich",
+    "birth_year": 1991
+  },
+  {
+    "player_id": 10768,
+    "name": "Y. Sorokin",
+    "birth_year": 1990
+  },
+  {
+    "player_id": 10769,
+    "name": "L. Zhukov",
+    "birth_year": 2001
+  },
+  {
+    "player_id": 10770,
+    "name": "J. Ushakov",
+    "birth_year": 1989
+  },
+  {
+    "player_id": 10771,
+    "name": "D. Malkov",
+    "birth_year": 1998
+  },
+  {
+    "player_id": 10772,
+    "name": "G. Kuznetsov",
+    "birth_year": 1989
+  },
+  {
+    "player_id": 10773,
+    "name": "S. Sadykov",
+    "birth_year": 1995
+  },
+  {
+    "player_id": 10774,
+    "name": "N. Belyaev",
+    "birth_year": 1996
+  },
+  {
+    "player_id": 10775,
+    "name": "N. Lukyanov",
+    "birth_year": 2001
+  },
+  {
+    "player_id": 10776,
+    "name": "P. Kovalenko",
+    "birth_year": 1992
+  },
+  {
+    "player_id": 10777,
+    "name": "G. Gromov",
+    "birth_year": 2003
+  },
+  {
+    "player_id": 10778,
+    "name": "A. Martynov",
+    "birth_year": 1991
+  },
+  {
+    "player_id": 10779,
+    "name": "R. Losev",
+    "birth_year": 1998
+  },
+  {
+    "player_id": 10780,
+    "name": "C. Rudakov",
+    "birth_year": 1991
+  },
+  {
+    "player_id": 10781,
+    "name": "K. Gerasimenko",
+    "birth_year": 1991
+  },
+  {
+    "player_id": 10782,
+    "name": "A. Kazantsev",
+    "birth_year": 2002
+  },
+  {
+    "player_id": 10783,
+    "name": "S. Kot",
+    "birth_year": 1993
+  },
+  {
+    "player_id": 10784,
+    "name": "S. Volkov",
+    "birth_year": 1992
+  },
+  {
+    "player_id": 10785,
+    "name": "I. Skvortsov",
+    "birth_year": 2003
+  },
+  {
+    "player_id": 10786,
+    "name": "A. Petrov",
+    "birth_year": 2002
+  },
+  {
+    "player_id": 10787,
+    "name": "A. Konstantinov",
+    "birth_year": 1992
+  },
+  {
+    "player_id": 10788,
+    "name": "Y. Trofimov",
+    "birth_year": 1991
+  },
+  {
+    "player_id": 10789,
+    "name": "V. Ponomarenko",
+    "birth_year": 1994
+  },
+  {
+    "player_id": 10790,
+    "name": "B. Kochetkov",
+    "birth_year": 1996
+  },
+  {
+    "player_id": 10791,
+    "name": "A. Zykov",
+    "birth_year": 1993
+  },
+  {
+    "player_id": 10792,
+    "name": "A. Sergeevn",
+    "birth_year": 1996
+  },
+  {
+    "player_id": 10793,
+    "name": "K. Rybakov",
+    "birth_year": 1992
+  },
+  {
+    "player_id": 10794,
+    "name": "W. Golubev",
+    "birth_year": 1998
+  },
+  {
+    "player_id": 10795,
+    "name": "G. Litvinov",
+    "birth_year": 1996
+  },
+  {
+    "player_id": 10796,
+    "name": "A. Makarov",
+    "birth_year": 1989
+  },
+  {
+    "player_id": 10797,
+    "name": "P. Kurbanov",
+    "birth_year": 1998
+  },
+  {
+    "player_id": 10798,
+    "name": "M. Aliev",
+    "birth_year": 2003
+  },
+  {
+    "player_id": 10799,
+    "name": "B. Kuznetsov",
+    "birth_year": 1999
+  },
+  {
+    "player_id": 10800,
+    "name": "W. Fedorov",
+    "birth_year": 2003
+  }
+]

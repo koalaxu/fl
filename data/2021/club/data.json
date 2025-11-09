@@ -1,0 +1,2162 @@
+[
+  {
+    "club_id": 1,
+    "country_id": 1,
+    "name": "Manchester City"
+  },
+  {
+    "club_id": 2,
+    "country_id": 1,
+    "name": "Manchester United"
+  },
+  {
+    "club_id": 3,
+    "country_id": 1,
+    "name": "Liverpool"
+  },
+  {
+    "club_id": 4,
+    "country_id": 1,
+    "name": "Chelsea"
+  },
+  {
+    "club_id": 5,
+    "country_id": 1,
+    "name": "Leicester City"
+  },
+  {
+    "club_id": 6,
+    "country_id": 1,
+    "name": "West Ham United"
+  },
+  {
+    "club_id": 7,
+    "country_id": 1,
+    "name": "Tottenham Hotspur"
+  },
+  {
+    "club_id": 8,
+    "country_id": 1,
+    "name": "Arsenal"
+  },
+  {
+    "club_id": 9,
+    "country_id": 1,
+    "name": "Leeds United"
+  },
+  {
+    "club_id": 10,
+    "country_id": 1,
+    "name": "Everton"
+  },
+  {
+    "club_id": 11,
+    "country_id": 1,
+    "name": "Aston Villa"
+  },
+  {
+    "club_id": 12,
+    "country_id": 1,
+    "name": "Newcastle United"
+  },
+  {
+    "club_id": 13,
+    "country_id": 1,
+    "name": "Wolverhampton Wanderers"
+  },
+  {
+    "club_id": 14,
+    "country_id": 1,
+    "name": "Crystal Palace"
+  },
+  {
+    "club_id": 15,
+    "country_id": 1,
+    "name": "Southampton"
+  },
+  {
+    "club_id": 16,
+    "country_id": 1,
+    "name": "Brighton \u0026 Hove Albion"
+  },
+  {
+    "club_id": 17,
+    "country_id": 1,
+    "name": "Burnley"
+  },
+  {
+    "club_id": 18,
+    "country_id": 1,
+    "name": "Fulham"
+  },
+  {
+    "club_id": 19,
+    "country_id": 1,
+    "name": "West Bromwich Albion"
+  },
+  {
+    "club_id": 20,
+    "country_id": 1,
+    "name": "Sheffield United"
+  },
+  {
+    "club_id": 21,
+    "country_id": 1,
+    "name": "Norwich City"
+  },
+  {
+    "club_id": 22,
+    "country_id": 1,
+    "name": "Watford"
+  },
+  {
+    "club_id": 23,
+    "country_id": 1,
+    "name": "Brentford"
+  },
+  {
+    "club_id": 24,
+    "country_id": 1,
+    "name": "Swansea City"
+  },
+  {
+    "club_id": 25,
+    "country_id": 1,
+    "name": "Barnsley"
+  },
+  {
+    "club_id": 26,
+    "country_id": 1,
+    "name": "Bournemouth"
+  },
+  {
+    "club_id": 27,
+    "country_id": 1,
+    "name": "Reading"
+  },
+  {
+    "club_id": 28,
+    "country_id": 1,
+    "name": "Cardiff City"
+  },
+  {
+    "club_id": 29,
+    "country_id": 1,
+    "name": "Queens Park Rangers"
+  },
+  {
+    "club_id": 30,
+    "country_id": 1,
+    "name": "Middlesbrough"
+  },
+  {
+    "club_id": 31,
+    "country_id": 1,
+    "name": "Millwall"
+  },
+  {
+    "club_id": 32,
+    "country_id": 1,
+    "name": "Luton Town"
+  },
+  {
+    "club_id": 33,
+    "country_id": 1,
+    "name": "Preston North End"
+  },
+  {
+    "club_id": 34,
+    "country_id": 1,
+    "name": "Stoke City"
+  },
+  {
+    "club_id": 35,
+    "country_id": 1,
+    "name": "Blackburn Rovers"
+  },
+  {
+    "club_id": 36,
+    "country_id": 1,
+    "name": "Coventry City"
+  },
+  {
+    "club_id": 37,
+    "country_id": 2,
+    "name": "Internazionale"
+  },
+  {
+    "club_id": 38,
+    "country_id": 2,
+    "name": "Milan"
+  },
+  {
+    "club_id": 39,
+    "country_id": 2,
+    "name": "Atalanta"
+  },
+  {
+    "club_id": 40,
+    "country_id": 2,
+    "name": "Juventus"
+  },
+  {
+    "club_id": 41,
+    "country_id": 2,
+    "name": "Napoli"
+  },
+  {
+    "club_id": 42,
+    "country_id": 2,
+    "name": "Lazio"
+  },
+  {
+    "club_id": 43,
+    "country_id": 2,
+    "name": "Roma"
+  },
+  {
+    "club_id": 44,
+    "country_id": 2,
+    "name": "Sassuolo"
+  },
+  {
+    "club_id": 45,
+    "country_id": 2,
+    "name": "Sampdoria"
+  },
+  {
+    "club_id": 46,
+    "country_id": 2,
+    "name": "Hellas Verona"
+  },
+  {
+    "club_id": 47,
+    "country_id": 2,
+    "name": "Genoa"
+  },
+  {
+    "club_id": 48,
+    "country_id": 2,
+    "name": "Bologna"
+  },
+  {
+    "club_id": 49,
+    "country_id": 2,
+    "name": "Fiorentina"
+  },
+  {
+    "club_id": 50,
+    "country_id": 2,
+    "name": "Udinese"
+  },
+  {
+    "club_id": 51,
+    "country_id": 2,
+    "name": "Spezia"
+  },
+  {
+    "club_id": 52,
+    "country_id": 2,
+    "name": "Cagliari"
+  },
+  {
+    "club_id": 53,
+    "country_id": 2,
+    "name": "Torino"
+  },
+  {
+    "club_id": 54,
+    "country_id": 2,
+    "name": "Benevento"
+  },
+  {
+    "club_id": 55,
+    "country_id": 2,
+    "name": "Crotone"
+  },
+  {
+    "club_id": 56,
+    "country_id": 2,
+    "name": "Parma"
+  },
+  {
+    "club_id": 57,
+    "country_id": 2,
+    "name": "Empoli"
+  },
+  {
+    "club_id": 58,
+    "country_id": 2,
+    "name": "Salernitana"
+  },
+  {
+    "club_id": 59,
+    "country_id": 2,
+    "name": "Monza"
+  },
+  {
+    "club_id": 60,
+    "country_id": 2,
+    "name": "Lecce"
+  },
+  {
+    "club_id": 61,
+    "country_id": 2,
+    "name": "Venezia"
+  },
+  {
+    "club_id": 62,
+    "country_id": 2,
+    "name": "Cittadella"
+  },
+  {
+    "club_id": 63,
+    "country_id": 2,
+    "name": "Brescia"
+  },
+  {
+    "club_id": 64,
+    "country_id": 2,
+    "name": "Chievo"
+  },
+  {
+    "club_id": 65,
+    "country_id": 2,
+    "name": "SPAL"
+  },
+  {
+    "club_id": 66,
+    "country_id": 2,
+    "name": "Frosinone"
+  },
+  {
+    "club_id": 67,
+    "country_id": 2,
+    "name": "Reggina"
+  },
+  {
+    "club_id": 68,
+    "country_id": 2,
+    "name": "Vicenza"
+  },
+  {
+    "club_id": 69,
+    "country_id": 2,
+    "name": "Cremonese"
+  },
+  {
+    "club_id": 70,
+    "country_id": 2,
+    "name": "Pisa"
+  },
+  {
+    "club_id": 71,
+    "country_id": 2,
+    "name": "Pordenone"
+  },
+  {
+    "club_id": 72,
+    "country_id": 2,
+    "name": "Ascoli"
+  },
+  {
+    "club_id": 73,
+    "country_id": 3,
+    "name": "Atlético Madrid"
+  },
+  {
+    "club_id": 74,
+    "country_id": 3,
+    "name": "Real Madrid"
+  },
+  {
+    "club_id": 75,
+    "country_id": 3,
+    "name": "Barcelona"
+  },
+  {
+    "club_id": 76,
+    "country_id": 3,
+    "name": "Sevilla"
+  },
+  {
+    "club_id": 77,
+    "country_id": 3,
+    "name": "Real Sociedad"
+  },
+  {
+    "club_id": 78,
+    "country_id": 3,
+    "name": "Real Betis"
+  },
+  {
+    "club_id": 79,
+    "country_id": 3,
+    "name": "Villarreal"
+  },
+  {
+    "club_id": 80,
+    "country_id": 3,
+    "name": "Celta Vigo"
+  },
+  {
+    "club_id": 81,
+    "country_id": 3,
+    "name": "Granada"
+  },
+  {
+    "club_id": 82,
+    "country_id": 3,
+    "name": "Athletic Bilbao"
+  },
+  {
+    "club_id": 83,
+    "country_id": 3,
+    "name": "Osasuna"
+  },
+  {
+    "club_id": 84,
+    "country_id": 3,
+    "name": "Cádiz"
+  },
+  {
+    "club_id": 85,
+    "country_id": 3,
+    "name": "Valencia"
+  },
+  {
+    "club_id": 86,
+    "country_id": 3,
+    "name": "Levante"
+  },
+  {
+    "club_id": 87,
+    "country_id": 3,
+    "name": "Getafe"
+  },
+  {
+    "club_id": 88,
+    "country_id": 3,
+    "name": "Alavés"
+  },
+  {
+    "club_id": 89,
+    "country_id": 3,
+    "name": "Elche"
+  },
+  {
+    "club_id": 90,
+    "country_id": 3,
+    "name": "Huesca"
+  },
+  {
+    "club_id": 91,
+    "country_id": 3,
+    "name": "Valladolid"
+  },
+  {
+    "club_id": 92,
+    "country_id": 3,
+    "name": "Eibar"
+  },
+  {
+    "club_id": 93,
+    "country_id": 3,
+    "name": "Espanyol"
+  },
+  {
+    "club_id": 94,
+    "country_id": 3,
+    "name": "Mallorca"
+  },
+  {
+    "club_id": 95,
+    "country_id": 3,
+    "name": "Leganés"
+  },
+  {
+    "club_id": 96,
+    "country_id": 3,
+    "name": "Almería"
+  },
+  {
+    "club_id": 97,
+    "country_id": 3,
+    "name": "Girona"
+  },
+  {
+    "club_id": 98,
+    "country_id": 3,
+    "name": "Rayo Vallecano"
+  },
+  {
+    "club_id": 99,
+    "country_id": 3,
+    "name": "Sporting Gijón"
+  },
+  {
+    "club_id": 100,
+    "country_id": 3,
+    "name": "Ponferradina"
+  },
+  {
+    "club_id": 101,
+    "country_id": 3,
+    "name": "Las Palmas"
+  },
+  {
+    "club_id": 102,
+    "country_id": 3,
+    "name": "Mirandés"
+  },
+  {
+    "club_id": 103,
+    "country_id": 3,
+    "name": "Fuenlabrada"
+  },
+  {
+    "club_id": 104,
+    "country_id": 3,
+    "name": "Málaga"
+  },
+  {
+    "club_id": 105,
+    "country_id": 3,
+    "name": "Oviedo"
+  },
+  {
+    "club_id": 106,
+    "country_id": 3,
+    "name": "Tenerife"
+  },
+  {
+    "club_id": 107,
+    "country_id": 3,
+    "name": "Zaragoza"
+  },
+  {
+    "club_id": 108,
+    "country_id": 3,
+    "name": "Cartagena"
+  },
+  {
+    "club_id": 109,
+    "country_id": 4,
+    "name": "Bayern Munich"
+  },
+  {
+    "club_id": 110,
+    "country_id": 4,
+    "name": "RB Leipzig"
+  },
+  {
+    "club_id": 111,
+    "country_id": 4,
+    "name": "Borussia Dortmund"
+  },
+  {
+    "club_id": 112,
+    "country_id": 4,
+    "name": "VfL Wolfsburg"
+  },
+  {
+    "club_id": 113,
+    "country_id": 4,
+    "name": "Eintracht Frankfurt"
+  },
+  {
+    "club_id": 114,
+    "country_id": 4,
+    "name": "Bayer Leverkusen"
+  },
+  {
+    "club_id": 115,
+    "country_id": 4,
+    "name": "Union Berlin"
+  },
+  {
+    "club_id": 116,
+    "country_id": 4,
+    "name": "Borussia Mönchengladbach"
+  },
+  {
+    "club_id": 117,
+    "country_id": 4,
+    "name": "VfB Stuttgart"
+  },
+  {
+    "club_id": 118,
+    "country_id": 4,
+    "name": "SC Freiburg"
+  },
+  {
+    "club_id": 119,
+    "country_id": 4,
+    "name": "1899 Hoffenheim"
+  },
+  {
+    "club_id": 120,
+    "country_id": 4,
+    "name": "Mainz 05"
+  },
+  {
+    "club_id": 121,
+    "country_id": 4,
+    "name": "FC Augsburg"
+  },
+  {
+    "club_id": 122,
+    "country_id": 4,
+    "name": "Hertha BSC"
+  },
+  {
+    "club_id": 123,
+    "country_id": 4,
+    "name": "Arminia Bielefeld"
+  },
+  {
+    "club_id": 124,
+    "country_id": 4,
+    "name": "FC Köln"
+  },
+  {
+    "club_id": 125,
+    "country_id": 4,
+    "name": "Werder Bremen"
+  },
+  {
+    "club_id": 126,
+    "country_id": 4,
+    "name": "Schalke 04"
+  },
+  {
+    "club_id": 127,
+    "country_id": 4,
+    "name": "VfL Bochum"
+  },
+  {
+    "club_id": 128,
+    "country_id": 4,
+    "name": "Greuther Fürth"
+  },
+  {
+    "club_id": 129,
+    "country_id": 4,
+    "name": "Holstein Kiel"
+  },
+  {
+    "club_id": 130,
+    "country_id": 4,
+    "name": "Hamburger SV"
+  },
+  {
+    "club_id": 131,
+    "country_id": 4,
+    "name": "Fortuna Düsseldorf"
+  },
+  {
+    "club_id": 132,
+    "country_id": 4,
+    "name": "Karlsruher SC"
+  },
+  {
+    "club_id": 133,
+    "country_id": 4,
+    "name": "Darmstadt 98"
+  },
+  {
+    "club_id": 134,
+    "country_id": 4,
+    "name": "1. FC Heidenheim"
+  },
+  {
+    "club_id": 135,
+    "country_id": 4,
+    "name": "SC Paderborn"
+  },
+  {
+    "club_id": 136,
+    "country_id": 4,
+    "name": "FC St. Pauli"
+  },
+  {
+    "club_id": 137,
+    "country_id": 4,
+    "name": "1. FC Nürnberg"
+  },
+  {
+    "club_id": 138,
+    "country_id": 4,
+    "name": "Erzgebirge Aue"
+  },
+  {
+    "club_id": 139,
+    "country_id": 4,
+    "name": "Hannover 96"
+  },
+  {
+    "club_id": 140,
+    "country_id": 4,
+    "name": "Jahn Regensburg"
+  },
+  {
+    "club_id": 141,
+    "country_id": 4,
+    "name": "SV Sandhausen"
+  },
+  {
+    "club_id": 142,
+    "country_id": 4,
+    "name": "VfL Osnabrück"
+  },
+  {
+    "club_id": 143,
+    "country_id": 4,
+    "name": "Eintracht Braunschweig"
+  },
+  {
+    "club_id": 144,
+    "country_id": 4,
+    "name": "Würzburger Kickers"
+  },
+  {
+    "club_id": 145,
+    "country_id": 5,
+    "name": "Lille"
+  },
+  {
+    "club_id": 146,
+    "country_id": 5,
+    "name": "Paris Saint-Germain"
+  },
+  {
+    "club_id": 147,
+    "country_id": 5,
+    "name": "Monaco"
+  },
+  {
+    "club_id": 148,
+    "country_id": 5,
+    "name": "Lyon"
+  },
+  {
+    "club_id": 149,
+    "country_id": 5,
+    "name": "Marseille"
+  },
+  {
+    "club_id": 150,
+    "country_id": 5,
+    "name": "Rennes"
+  },
+  {
+    "club_id": 151,
+    "country_id": 5,
+    "name": "Lens"
+  },
+  {
+    "club_id": 152,
+    "country_id": 5,
+    "name": "Montpellier"
+  },
+  {
+    "club_id": 153,
+    "country_id": 5,
+    "name": "Nice"
+  },
+  {
+    "club_id": 154,
+    "country_id": 5,
+    "name": "Metz"
+  },
+  {
+    "club_id": 155,
+    "country_id": 5,
+    "name": "Saint-Étienne"
+  },
+  {
+    "club_id": 156,
+    "country_id": 5,
+    "name": "Bordeaux"
+  },
+  {
+    "club_id": 157,
+    "country_id": 5,
+    "name": "Angers"
+  },
+  {
+    "club_id": 158,
+    "country_id": 5,
+    "name": "Reims"
+  },
+  {
+    "club_id": 159,
+    "country_id": 5,
+    "name": "Strasbourg"
+  },
+  {
+    "club_id": 160,
+    "country_id": 5,
+    "name": "Lorient"
+  },
+  {
+    "club_id": 161,
+    "country_id": 5,
+    "name": "Brest"
+  },
+  {
+    "club_id": 162,
+    "country_id": 5,
+    "name": "Nantes"
+  },
+  {
+    "club_id": 163,
+    "country_id": 5,
+    "name": "Nîmes"
+  },
+  {
+    "club_id": 164,
+    "country_id": 5,
+    "name": "Dijon"
+  },
+  {
+    "club_id": 165,
+    "country_id": 5,
+    "name": "Paris FC"
+  },
+  {
+    "club_id": 166,
+    "country_id": 5,
+    "name": "Caen"
+  },
+  {
+    "club_id": 167,
+    "country_id": 5,
+    "name": "Auxerre"
+  },
+  {
+    "club_id": 168,
+    "country_id": 5,
+    "name": "Toulouse"
+  },
+  {
+    "club_id": 169,
+    "country_id": 5,
+    "name": "Ajaccio"
+  },
+  {
+    "club_id": 170,
+    "country_id": 5,
+    "name": "Le Havre"
+  },
+  {
+    "club_id": 171,
+    "country_id": 5,
+    "name": "Nîmes"
+  },
+  {
+    "club_id": 172,
+    "country_id": 5,
+    "name": "Sochaux"
+  },
+  {
+    "club_id": 173,
+    "country_id": 5,
+    "name": "Pau"
+  },
+  {
+    "club_id": 174,
+    "country_id": 5,
+    "name": "Rodez"
+  },
+  {
+    "club_id": 175,
+    "country_id": 5,
+    "name": "Valenciennes"
+  },
+  {
+    "club_id": 176,
+    "country_id": 5,
+    "name": "Guingamp"
+  },
+  {
+    "club_id": 177,
+    "country_id": 5,
+    "name": "Bastia"
+  },
+  {
+    "club_id": 178,
+    "country_id": 5,
+    "name": "Quevilly-Rouen"
+  },
+  {
+    "club_id": 179,
+    "country_id": 5,
+    "name": "Dunkerque"
+  },
+  {
+    "club_id": 180,
+    "country_id": 5,
+    "name": "Niort"
+  },
+  {
+    "club_id": 181,
+    "country_id": 6,
+    "name": "Ajax"
+  },
+  {
+    "club_id": 182,
+    "country_id": 6,
+    "name": "PSV Eindhoven"
+  },
+  {
+    "club_id": 183,
+    "country_id": 6,
+    "name": "AZ"
+  },
+  {
+    "club_id": 184,
+    "country_id": 6,
+    "name": "Vitesse"
+  },
+  {
+    "club_id": 185,
+    "country_id": 6,
+    "name": "Feyenoord"
+  },
+  {
+    "club_id": 186,
+    "country_id": 6,
+    "name": "Utrecht"
+  },
+  {
+    "club_id": 187,
+    "country_id": 6,
+    "name": "Groningen"
+  },
+  {
+    "club_id": 188,
+    "country_id": 6,
+    "name": "Sparta Rotterdam"
+  },
+  {
+    "club_id": 189,
+    "country_id": 6,
+    "name": "Heracles Almelo"
+  },
+  {
+    "club_id": 190,
+    "country_id": 6,
+    "name": "Twente"
+  },
+  {
+    "club_id": 191,
+    "country_id": 6,
+    "name": "Fortuna Sittard"
+  },
+  {
+    "club_id": 192,
+    "country_id": 6,
+    "name": "Heerenveen"
+  },
+  {
+    "club_id": 193,
+    "country_id": 6,
+    "name": "PEC Zwolle"
+  },
+  {
+    "club_id": 194,
+    "country_id": 6,
+    "name": "Willem II"
+  },
+  {
+    "club_id": 195,
+    "country_id": 6,
+    "name": "RKC Waalwijk"
+  },
+  {
+    "club_id": 196,
+    "country_id": 6,
+    "name": "Emmen"
+  },
+  {
+    "club_id": 197,
+    "country_id": 6,
+    "name": "VVV-Venlo"
+  },
+  {
+    "club_id": 198,
+    "country_id": 6,
+    "name": "ADO Den Haag"
+  },
+  {
+    "club_id": 199,
+    "country_id": 6,
+    "name": "SC Cambuur"
+  },
+  {
+    "club_id": 200,
+    "country_id": 6,
+    "name": "Go Ahead Eagles"
+  },
+  {
+    "club_id": 201,
+    "country_id": 6,
+    "name": "De Graafschap"
+  },
+  {
+    "club_id": 202,
+    "country_id": 6,
+    "name": "Almere City FC"
+  },
+  {
+    "club_id": 203,
+    "country_id": 6,
+    "name": "NAC Breda"
+  },
+  {
+    "club_id": 204,
+    "country_id": 6,
+    "name": "FC Volendam"
+  },
+  {
+    "club_id": 205,
+    "country_id": 6,
+    "name": "N.E.C."
+  },
+  {
+    "club_id": 206,
+    "country_id": 6,
+    "name": "Roda JC Kerkrade"
+  },
+  {
+    "club_id": 207,
+    "country_id": 6,
+    "name": "Excelsior"
+  },
+  {
+    "club_id": 208,
+    "country_id": 6,
+    "name": "TOP Oss"
+  },
+  {
+    "club_id": 209,
+    "country_id": 6,
+    "name": "MVV Maastricht"
+  },
+  {
+    "club_id": 210,
+    "country_id": 6,
+    "name": "Helmond Sport"
+  },
+  {
+    "club_id": 211,
+    "country_id": 6,
+    "name": "Telstar"
+  },
+  {
+    "club_id": 212,
+    "country_id": 6,
+    "name": "Jong PSV"
+  },
+  {
+    "club_id": 213,
+    "country_id": 6,
+    "name": "FC Eindhoven"
+  },
+  {
+    "club_id": 214,
+    "country_id": 6,
+    "name": "Jong Ajax"
+  },
+  {
+    "club_id": 215,
+    "country_id": 6,
+    "name": "Jong AZ"
+  },
+  {
+    "club_id": 216,
+    "country_id": 6,
+    "name": "Jong FC Utrecht"
+  },
+  {
+    "club_id": 217,
+    "country_id": 7,
+    "name": "Sporting CP"
+  },
+  {
+    "club_id": 218,
+    "country_id": 7,
+    "name": "Porto"
+  },
+  {
+    "club_id": 219,
+    "country_id": 7,
+    "name": "Benfica"
+  },
+  {
+    "club_id": 220,
+    "country_id": 7,
+    "name": "Braga"
+  },
+  {
+    "club_id": 221,
+    "country_id": 7,
+    "name": "Paços de Ferreira"
+  },
+  {
+    "club_id": 222,
+    "country_id": 7,
+    "name": "Santa Clara"
+  },
+  {
+    "club_id": 223,
+    "country_id": 7,
+    "name": "Vitória de Guimarães"
+  },
+  {
+    "club_id": 224,
+    "country_id": 7,
+    "name": "Moreirense"
+  },
+  {
+    "club_id": 225,
+    "country_id": 7,
+    "name": "Famalicão"
+  },
+  {
+    "club_id": 226,
+    "country_id": 7,
+    "name": "Belenenses SAD"
+  },
+  {
+    "club_id": 227,
+    "country_id": 7,
+    "name": "Gil Vicente"
+  },
+  {
+    "club_id": 228,
+    "country_id": 7,
+    "name": "Tondela"
+  },
+  {
+    "club_id": 229,
+    "country_id": 7,
+    "name": "Boavista"
+  },
+  {
+    "club_id": 230,
+    "country_id": 7,
+    "name": "Portimonense"
+  },
+  {
+    "club_id": 231,
+    "country_id": 7,
+    "name": "Marítimo"
+  },
+  {
+    "club_id": 232,
+    "country_id": 7,
+    "name": "Rio Ave"
+  },
+  {
+    "club_id": 233,
+    "country_id": 7,
+    "name": "Farense"
+  },
+  {
+    "club_id": 234,
+    "country_id": 7,
+    "name": "Nacional"
+  },
+  {
+    "club_id": 235,
+    "country_id": 7,
+    "name": "Estoril"
+  },
+  {
+    "club_id": 236,
+    "country_id": 7,
+    "name": "Vizela"
+  },
+  {
+    "club_id": 237,
+    "country_id": 7,
+    "name": "Arouca"
+  },
+  {
+    "club_id": 238,
+    "country_id": 7,
+    "name": "Académica"
+  },
+  {
+    "club_id": 239,
+    "country_id": 7,
+    "name": "Feirense"
+  },
+  {
+    "club_id": 240,
+    "country_id": 7,
+    "name": "Chaves"
+  },
+  {
+    "club_id": 241,
+    "country_id": 7,
+    "name": "Penafiel"
+  },
+  {
+    "club_id": 242,
+    "country_id": 7,
+    "name": "Benfica B"
+  },
+  {
+    "club_id": 243,
+    "country_id": 7,
+    "name": "Casa Pia"
+  },
+  {
+    "club_id": 244,
+    "country_id": 7,
+    "name": "Leixões"
+  },
+  {
+    "club_id": 245,
+    "country_id": 7,
+    "name": "Cova da Piedade"
+  },
+  {
+    "club_id": 246,
+    "country_id": 7,
+    "name": "Mafra"
+  },
+  {
+    "club_id": 247,
+    "country_id": 7,
+    "name": "Sp. Covilhã"
+  },
+  {
+    "club_id": 248,
+    "country_id": 7,
+    "name": "Académico de Viseu"
+  },
+  {
+    "club_id": 249,
+    "country_id": 7,
+    "name": "Varzim"
+  },
+  {
+    "club_id": 250,
+    "country_id": 7,
+    "name": "Porto B"
+  },
+  {
+    "club_id": 251,
+    "country_id": 7,
+    "name": "Vilafranquense"
+  },
+  {
+    "club_id": 252,
+    "country_id": 7,
+    "name": "Oliveirense"
+  },
+  {
+    "club_id": 253,
+    "country_id": 8,
+    "name": "Club Brugge"
+  },
+  {
+    "club_id": 254,
+    "country_id": 8,
+    "name": "Antwerp"
+  },
+  {
+    "club_id": 255,
+    "country_id": 8,
+    "name": "Anderlecht"
+  },
+  {
+    "club_id": 256,
+    "country_id": 8,
+    "name": "Genk"
+  },
+  {
+    "club_id": 257,
+    "country_id": 8,
+    "name": "Oostende"
+  },
+  {
+    "club_id": 258,
+    "country_id": 8,
+    "name": "Standard Liège"
+  },
+  {
+    "club_id": 259,
+    "country_id": 8,
+    "name": "Gent"
+  },
+  {
+    "club_id": 260,
+    "country_id": 8,
+    "name": "Mechelen"
+  },
+  {
+    "club_id": 261,
+    "country_id": 8,
+    "name": "Beerschot"
+  },
+  {
+    "club_id": 262,
+    "country_id": 8,
+    "name": "Zulte Waregem"
+  },
+  {
+    "club_id": 263,
+    "country_id": 8,
+    "name": "OH Leuven"
+  },
+  {
+    "club_id": 264,
+    "country_id": 8,
+    "name": "Eupen"
+  },
+  {
+    "club_id": 265,
+    "country_id": 8,
+    "name": "Charleroi"
+  },
+  {
+    "club_id": 266,
+    "country_id": 8,
+    "name": "Kortrijk"
+  },
+  {
+    "club_id": 267,
+    "country_id": 8,
+    "name": "Sint-Truiden"
+  },
+  {
+    "club_id": 268,
+    "country_id": 8,
+    "name": "Cercle Brugge"
+  },
+  {
+    "club_id": 269,
+    "country_id": 8,
+    "name": "Waasland-Beveren"
+  },
+  {
+    "club_id": 270,
+    "country_id": 8,
+    "name": "Excel Mouscron"
+  },
+  {
+    "club_id": 271,
+    "country_id": 8,
+    "name": "Union SG"
+  },
+  {
+    "club_id": 272,
+    "country_id": 8,
+    "name": "Seraing"
+  },
+  {
+    "club_id": 273,
+    "country_id": 8,
+    "name": "Lommel"
+  },
+  {
+    "club_id": 274,
+    "country_id": 8,
+    "name": "Westerlo"
+  },
+  {
+    "club_id": 275,
+    "country_id": 8,
+    "name": "Deinze"
+  },
+  {
+    "club_id": 276,
+    "country_id": 8,
+    "name": "RWDM47"
+  },
+  {
+    "club_id": 277,
+    "country_id": 8,
+    "name": "Lierse Kempenzonen"
+  },
+  {
+    "club_id": 278,
+    "country_id": 8,
+    "name": "Club NXT"
+  },
+  {
+    "club_id": 279,
+    "country_id": 8,
+    "name": "Tessenderlo"
+  },
+  {
+    "club_id": 280,
+    "country_id": 8,
+    "name": "Tienen"
+  },
+  {
+    "club_id": 281,
+    "country_id": 8,
+    "name": "Heist"
+  },
+  {
+    "club_id": 282,
+    "country_id": 8,
+    "name": "Sint-Eloois-Winkel"
+  },
+  {
+    "club_id": 283,
+    "country_id": 8,
+    "name": "Francs Borains"
+  },
+  {
+    "club_id": 284,
+    "country_id": 8,
+    "name": "Knokke"
+  },
+  {
+    "club_id": 285,
+    "country_id": 8,
+    "name": "Visé"
+  },
+  {
+    "club_id": 286,
+    "country_id": 8,
+    "name": "Olympic Charleroi CF"
+  },
+  {
+    "club_id": 287,
+    "country_id": 8,
+    "name": "Patro Eisden Maasmechelen"
+  },
+  {
+    "club_id": 288,
+    "country_id": 8,
+    "name": "RFC Liège"
+  },
+  {
+    "club_id": 289,
+    "country_id": 9,
+    "name": "Rangers"
+  },
+  {
+    "club_id": 290,
+    "country_id": 9,
+    "name": "Celtic"
+  },
+  {
+    "club_id": 291,
+    "country_id": 9,
+    "name": "Hibernian"
+  },
+  {
+    "club_id": 292,
+    "country_id": 9,
+    "name": "Aberdeen"
+  },
+  {
+    "club_id": 293,
+    "country_id": 9,
+    "name": "St Johnstone"
+  },
+  {
+    "club_id": 294,
+    "country_id": 9,
+    "name": "Livingston"
+  },
+  {
+    "club_id": 295,
+    "country_id": 9,
+    "name": "St Mirren"
+  },
+  {
+    "club_id": 296,
+    "country_id": 9,
+    "name": "Motherwell"
+  },
+  {
+    "club_id": 297,
+    "country_id": 9,
+    "name": "Dundee United"
+  },
+  {
+    "club_id": 298,
+    "country_id": 9,
+    "name": "Ross County"
+  },
+  {
+    "club_id": 299,
+    "country_id": 9,
+    "name": "Kilmarnock"
+  },
+  {
+    "club_id": 300,
+    "country_id": 9,
+    "name": "Hamilton Academical"
+  },
+  {
+    "club_id": 301,
+    "country_id": 9,
+    "name": "Heart of Midlothian"
+  },
+  {
+    "club_id": 302,
+    "country_id": 9,
+    "name": "Dundee"
+  },
+  {
+    "club_id": 303,
+    "country_id": 9,
+    "name": "Raith Rovers"
+  },
+  {
+    "club_id": 304,
+    "country_id": 9,
+    "name": "Dunfermline Athletic"
+  },
+  {
+    "club_id": 305,
+    "country_id": 9,
+    "name": "Inverness Caledonian Thistle"
+  },
+  {
+    "club_id": 306,
+    "country_id": 9,
+    "name": "Queen of the South"
+  },
+  {
+    "club_id": 307,
+    "country_id": 9,
+    "name": "Arbroath"
+  },
+  {
+    "club_id": 308,
+    "country_id": 9,
+    "name": "Ayr United"
+  },
+  {
+    "club_id": 309,
+    "country_id": 9,
+    "name": "Greenock Morton"
+  },
+  {
+    "club_id": 310,
+    "country_id": 9,
+    "name": "Alloa Athletic"
+  },
+  {
+    "club_id": 311,
+    "country_id": 9,
+    "name": "Partick Thistle"
+  },
+  {
+    "club_id": 312,
+    "country_id": 9,
+    "name": "Airdrieonians"
+  },
+  {
+    "club_id": 313,
+    "country_id": 9,
+    "name": "Cove Rangers"
+  },
+  {
+    "club_id": 314,
+    "country_id": 9,
+    "name": "Montrose"
+  },
+  {
+    "club_id": 315,
+    "country_id": 9,
+    "name": "Falkirk"
+  },
+  {
+    "club_id": 316,
+    "country_id": 9,
+    "name": "East Fife"
+  },
+  {
+    "club_id": 317,
+    "country_id": 9,
+    "name": "Peterhead"
+  },
+  {
+    "club_id": 318,
+    "country_id": 9,
+    "name": "Clyde"
+  },
+  {
+    "club_id": 319,
+    "country_id": 9,
+    "name": "Dumbarton"
+  },
+  {
+    "club_id": 320,
+    "country_id": 9,
+    "name": "Forfar Athletic"
+  },
+  {
+    "club_id": 321,
+    "country_id": 9,
+    "name": "Queen\u0027s Park"
+  },
+  {
+    "club_id": 322,
+    "country_id": 9,
+    "name": "Edinburgh City"
+  },
+  {
+    "club_id": 323,
+    "country_id": 9,
+    "name": "Elgin City"
+  },
+  {
+    "club_id": 324,
+    "country_id": 9,
+    "name": "Stranraer"
+  },
+  {
+    "club_id": 325,
+    "country_id": 10,
+    "name": "Olympiacos"
+  },
+  {
+    "club_id": 326,
+    "country_id": 10,
+    "name": "Aris Thessaloniki"
+  },
+  {
+    "club_id": 327,
+    "country_id": 10,
+    "name": "AEK Athens"
+  },
+  {
+    "club_id": 328,
+    "country_id": 10,
+    "name": "PAOK"
+  },
+  {
+    "club_id": 329,
+    "country_id": 10,
+    "name": "Panathinaikos"
+  },
+  {
+    "club_id": 330,
+    "country_id": 10,
+    "name": "Asteras Tripolis"
+  },
+  {
+    "club_id": 331,
+    "country_id": 10,
+    "name": "Volos"
+  },
+  {
+    "club_id": 332,
+    "country_id": 10,
+    "name": "PAS Giannina"
+  },
+  {
+    "club_id": 333,
+    "country_id": 10,
+    "name": "Apollon Smyrnis"
+  },
+  {
+    "club_id": 334,
+    "country_id": 10,
+    "name": "Atromitos"
+  },
+  {
+    "club_id": 335,
+    "country_id": 10,
+    "name": "Lamia"
+  },
+  {
+    "club_id": 336,
+    "country_id": 10,
+    "name": "Panetolikos"
+  },
+  {
+    "club_id": 337,
+    "country_id": 10,
+    "name": "OFI"
+  },
+  {
+    "club_id": 338,
+    "country_id": 10,
+    "name": "AEL"
+  },
+  {
+    "club_id": 339,
+    "country_id": 10,
+    "name": "Ionikos"
+  },
+  {
+    "club_id": 340,
+    "country_id": 10,
+    "name": "Xanthi"
+  },
+  {
+    "club_id": 341,
+    "country_id": 10,
+    "name": "Levadiakos"
+  },
+  {
+    "club_id": 342,
+    "country_id": 10,
+    "name": "Ergotelis"
+  },
+  {
+    "club_id": 343,
+    "country_id": 10,
+    "name": "Chania"
+  },
+  {
+    "club_id": 344,
+    "country_id": 10,
+    "name": "Diagoras Rodos"
+  },
+  {
+    "club_id": 345,
+    "country_id": 10,
+    "name": "Panachaiki"
+  },
+  {
+    "club_id": 346,
+    "country_id": 10,
+    "name": "Trikala"
+  },
+  {
+    "club_id": 347,
+    "country_id": 10,
+    "name": "Apollon Larissa"
+  },
+  {
+    "club_id": 348,
+    "country_id": 10,
+    "name": "Doxa Drama"
+  },
+  {
+    "club_id": 349,
+    "country_id": 10,
+    "name": "Karaiskakis"
+  },
+  {
+    "club_id": 350,
+    "country_id": 10,
+    "name": "O.F. Ierapetra"
+  },
+  {
+    "club_id": 351,
+    "country_id": 10,
+    "name": "Orfeas Xanthi"
+  },
+  {
+    "club_id": 352,
+    "country_id": 10,
+    "name": "Iraklis"
+  },
+  {
+    "club_id": 353,
+    "country_id": 10,
+    "name": "Aetos Orfano"
+  },
+  {
+    "club_id": 354,
+    "country_id": 10,
+    "name": "Pandramaikos"
+  },
+  {
+    "club_id": 355,
+    "country_id": 10,
+    "name": "Alexandroupoli"
+  },
+  {
+    "club_id": 356,
+    "country_id": 10,
+    "name": "Apollon Paralimnio"
+  },
+  {
+    "club_id": 357,
+    "country_id": 10,
+    "name": "Nestos Chrysoupoli"
+  },
+  {
+    "club_id": 358,
+    "country_id": 10,
+    "name": "Megas Alexandros Orfanio"
+  },
+  {
+    "club_id": 359,
+    "country_id": 10,
+    "name": "Aris Avato"
+  },
+  {
+    "club_id": 360,
+    "country_id": 10,
+    "name": "Ethnikos Sochos"
+  },
+  {
+    "club_id": 361,
+    "country_id": 11,
+    "name": "Beşiktaş"
+  },
+  {
+    "club_id": 362,
+    "country_id": 11,
+    "name": "Galatasaray"
+  },
+  {
+    "club_id": 363,
+    "country_id": 11,
+    "name": "Fenerbahçe"
+  },
+  {
+    "club_id": 364,
+    "country_id": 11,
+    "name": "Trabzonspor"
+  },
+  {
+    "club_id": 365,
+    "country_id": 11,
+    "name": "Sivasspor"
+  },
+  {
+    "club_id": 366,
+    "country_id": 11,
+    "name": "Hatayspor"
+  },
+  {
+    "club_id": 367,
+    "country_id": 11,
+    "name": "Alanyaspor"
+  },
+  {
+    "club_id": 368,
+    "country_id": 11,
+    "name": "Fatih Karagümrük"
+  },
+  {
+    "club_id": 369,
+    "country_id": 11,
+    "name": "Gaziantep"
+  },
+  {
+    "club_id": 370,
+    "country_id": 11,
+    "name": "Göztepe"
+  },
+  {
+    "club_id": 371,
+    "country_id": 11,
+    "name": "Konyaspor"
+  },
+  {
+    "club_id": 372,
+    "country_id": 11,
+    "name": "İstanbul Başakşehir"
+  },
+  {
+    "club_id": 373,
+    "country_id": 11,
+    "name": "Çaykur Rizespor"
+  },
+  {
+    "club_id": 374,
+    "country_id": 11,
+    "name": "Kasımpaşa"
+  },
+  {
+    "club_id": 375,
+    "country_id": 11,
+    "name": "Yeni Malatyaspor"
+  },
+  {
+    "club_id": 376,
+    "country_id": 11,
+    "name": "Antalyaspor"
+  },
+  {
+    "club_id": 377,
+    "country_id": 11,
+    "name": "Kayserispor"
+  },
+  {
+    "club_id": 378,
+    "country_id": 11,
+    "name": "BB Erzurumspor"
+  },
+  {
+    "club_id": 379,
+    "country_id": 11,
+    "name": "Ankaragücü"
+  },
+  {
+    "club_id": 380,
+    "country_id": 11,
+    "name": "Gençlerbirliği"
+  },
+  {
+    "club_id": 381,
+    "country_id": 11,
+    "name": "Denizlispor"
+  },
+  {
+    "club_id": 382,
+    "country_id": 11,
+    "name": "Adana Demirspor"
+  },
+  {
+    "club_id": 383,
+    "country_id": 11,
+    "name": "Giresunspor"
+  },
+  {
+    "club_id": 384,
+    "country_id": 11,
+    "name": "Samsunspor"
+  },
+  {
+    "club_id": 385,
+    "country_id": 11,
+    "name": "İstanbulspor"
+  },
+  {
+    "club_id": 386,
+    "country_id": 11,
+    "name": "Altay"
+  },
+  {
+    "club_id": 387,
+    "country_id": 11,
+    "name": "Altınordu"
+  },
+  {
+    "club_id": 388,
+    "country_id": 11,
+    "name": "Ankara Keçiörengücü"
+  },
+  {
+    "club_id": 389,
+    "country_id": 11,
+    "name": "Ümraniyespor"
+  },
+  {
+    "club_id": 390,
+    "country_id": 11,
+    "name": "Tuzlaspor"
+  },
+  {
+    "club_id": 391,
+    "country_id": 11,
+    "name": "Bursaspor"
+  },
+  {
+    "club_id": 392,
+    "country_id": 11,
+    "name": "Bandırmaspor"
+  },
+  {
+    "club_id": 393,
+    "country_id": 11,
+    "name": "Boluspor"
+  },
+  {
+    "club_id": 394,
+    "country_id": 11,
+    "name": "Balıkesirspor"
+  },
+  {
+    "club_id": 395,
+    "country_id": 11,
+    "name": "Adanaspor"
+  },
+  {
+    "club_id": 396,
+    "country_id": 11,
+    "name": "Menemenspor"
+  },
+  {
+    "club_id": 397,
+    "country_id": 12,
+    "name": "Zenit Saint Petersburg"
+  },
+  {
+    "club_id": 398,
+    "country_id": 12,
+    "name": "Spartak Moscow"
+  },
+  {
+    "club_id": 399,
+    "country_id": 12,
+    "name": "Lokomotiv Moscow"
+  },
+  {
+    "club_id": 400,
+    "country_id": 12,
+    "name": "Rubin Kazan"
+  },
+  {
+    "club_id": 401,
+    "country_id": 12,
+    "name": "Sochi"
+  },
+  {
+    "club_id": 402,
+    "country_id": 12,
+    "name": "CSKA Moscow"
+  },
+  {
+    "club_id": 403,
+    "country_id": 12,
+    "name": "Dynamo Moscow"
+  },
+  {
+    "club_id": 404,
+    "country_id": 12,
+    "name": "Khimki"
+  },
+  {
+    "club_id": 405,
+    "country_id": 12,
+    "name": "Rostov"
+  },
+  {
+    "club_id": 406,
+    "country_id": 12,
+    "name": "Krasnodar"
+  },
+  {
+    "club_id": 407,
+    "country_id": 12,
+    "name": "Akhmat Grozny"
+  },
+  {
+    "club_id": 408,
+    "country_id": 12,
+    "name": "Ural Yekaterinburg"
+  },
+  {
+    "club_id": 409,
+    "country_id": 12,
+    "name": "Ufa"
+  },
+  {
+    "club_id": 410,
+    "country_id": 12,
+    "name": "Arsenal Tula"
+  },
+  {
+    "club_id": 411,
+    "country_id": 12,
+    "name": "Rotor Volgograd"
+  },
+  {
+    "club_id": 412,
+    "country_id": 12,
+    "name": "Tambov"
+  },
+  {
+    "club_id": 413,
+    "country_id": 12,
+    "name": "Krylia Sovetov Samara"
+  },
+  {
+    "club_id": 414,
+    "country_id": 12,
+    "name": "Orenburg"
+  },
+  {
+    "club_id": 415,
+    "country_id": 12,
+    "name": "Nizhny Novgorod"
+  },
+  {
+    "club_id": 416,
+    "country_id": 12,
+    "name": "Alania Vladikavkaz"
+  },
+  {
+    "club_id": 417,
+    "country_id": 12,
+    "name": "Baltika Kaliningrad"
+  },
+  {
+    "club_id": 418,
+    "country_id": 12,
+    "name": "Torpedo Moscow"
+  },
+  {
+    "club_id": 419,
+    "country_id": 12,
+    "name": "Neftekhimik Nizhnekamsk"
+  },
+  {
+    "club_id": 420,
+    "country_id": 12,
+    "name": "Veles Moscow"
+  },
+  {
+    "club_id": 421,
+    "country_id": 12,
+    "name": "Fakel Voronezh"
+  },
+  {
+    "club_id": 422,
+    "country_id": 12,
+    "name": "Yenisey Krasnoyarsk"
+  },
+  {
+    "club_id": 423,
+    "country_id": 12,
+    "name": "SKA-Khabarovsk"
+  },
+  {
+    "club_id": 424,
+    "country_id": 12,
+    "name": "Chayka Peschanokopskoye"
+  },
+  {
+    "club_id": 425,
+    "country_id": 12,
+    "name": "Volgar Astrakhan"
+  },
+  {
+    "club_id": 426,
+    "country_id": 12,
+    "name": "Spartak-2 Moscow"
+  },
+  {
+    "club_id": 427,
+    "country_id": 12,
+    "name": "Tekstilshchik Ivanovo"
+  },
+  {
+    "club_id": 428,
+    "country_id": 12,
+    "name": "Krasnodar-2"
+  },
+  {
+    "club_id": 429,
+    "country_id": 12,
+    "name": "Akron Tolyatti"
+  },
+  {
+    "club_id": 430,
+    "country_id": 12,
+    "name": "Tom Tomsk"
+  },
+  {
+    "club_id": 431,
+    "country_id": 12,
+    "name": "Irtysh Omsk"
+  },
+  {
+    "club_id": 432,
+    "country_id": 12,
+    "name": "Dynamo Bryansk"
+  }
+]

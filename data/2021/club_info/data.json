@@ -1,0 +1,4322 @@
+[
+  {
+    "club_id": 1,
+    "fund": 200000000,
+    "youth_training_level": 10,
+    "favorite_formation": "FORMATION_433",
+    "stadium_size": 55017,
+    "domestic_fans": 2500000,
+    "international_fans": 4000000,
+    "estimated_income": 263279436
+  },
+  {
+    "club_id": 2,
+    "fund": 100000000,
+    "youth_training_level": 10,
+    "favorite_formation": "FORMATION_433",
+    "stadium_size": 74140,
+    "domestic_fans": 3000000,
+    "international_fans": 5000000,
+    "estimated_income": 261790595
+  },
+  {
+    "club_id": 3,
+    "fund": 50000000,
+    "youth_training_level": 10,
+    "favorite_formation": "FORMATION_433",
+    "stadium_size": 53394,
+    "domestic_fans": 2800000,
+    "international_fans": 4500000,
+    "estimated_income": 208141650
+  },
+  {
+    "club_id": 4,
+    "fund": 120000000,
+    "youth_training_level": 10,
+    "favorite_formation": "FORMATION_343",
+    "stadium_size": 40834,
+    "domestic_fans": 2500000,
+    "international_fans": 3000000,
+    "estimated_income": 164773680
+  },
+  {
+    "club_id": 5,
+    "fund": 37302500,
+    "youth_training_level": 8,
+    "favorite_formation": "FORMATION_442",
+    "stadium_size": 74605,
+    "domestic_fans": 255000,
+    "international_fans": 441000,
+    "estimated_income": 120633954
+  },
+  {
+    "club_id": 6,
+    "fund": 36292000,
+    "youth_training_level": 10,
+    "favorite_formation": "FORMATION_343",
+    "stadium_size": 72584,
+    "domestic_fans": 209000,
+    "international_fans": 317000,
+    "estimated_income": 109203804
+  },
+  {
+    "club_id": 7,
+    "fund": 50000000,
+    "youth_training_level": 10,
+    "favorite_formation": "FORMATION_442",
+    "stadium_size": 62850,
+    "domestic_fans": 1500000,
+    "international_fans": 1500000,
+    "estimated_income": 118879078
+  },
+  {
+    "club_id": 8,
+    "fund": 100000000,
+    "youth_training_level": 10,
+    "favorite_formation": "FORMATION_451",
+    "stadium_size": 60704,
+    "domestic_fans": 2600000,
+    "international_fans": 3500000,
+    "estimated_income": 89808964
+  },
+  {
+    "club_id": 9,
+    "fund": 34569000,
+    "youth_training_level": 11,
+    "favorite_formation": "FORMATION_433",
+    "stadium_size": 69138,
+    "domestic_fans": 156000,
+    "international_fans": 205000,
+    "estimated_income": 90570913
+  },
+  {
+    "club_id": 10,
+    "fund": 31003500,
+    "youth_training_level": 10,
+    "favorite_formation": "FORMATION_442",
+    "stadium_size": 62007,
+    "domestic_fans": 98000,
+    "international_fans": 109000,
+    "estimated_income": 82275629
+  },
+  {
+    "club_id": 11,
+    "fund": 30049000,
+    "youth_training_level": 7,
+    "favorite_formation": "FORMATION_433",
+    "stadium_size": 60098,
+    "domestic_fans": 88000,
+    "international_fans": 96000,
+    "estimated_income": 80772467
+  },
+  {
+    "club_id": 12,
+    "fund": 30096000,
+    "youth_training_level": 9,
+    "favorite_formation": "FORMATION_442",
+    "stadium_size": 60192,
+    "domestic_fans": 88000,
+    "international_fans": 96000,
+    "estimated_income": 80813075
+  },
+  {
+    "club_id": 13,
+    "fund": 30223500,
+    "youth_training_level": 10,
+    "favorite_formation": "FORMATION_343",
+    "stadium_size": 60447,
+    "domestic_fans": 90000,
+    "international_fans": 98000,
+    "estimated_income": 80959105
+  },
+  {
+    "club_id": 14,
+    "fund": 26086000,
+    "youth_training_level": 10,
+    "favorite_formation": "FORMATION_442",
+    "stadium_size": 52172,
+    "domestic_fans": 61000,
+    "international_fans": 61000,
+    "estimated_income": 74903565
+  },
+  {
+    "club_id": 15,
+    "fund": 24863500,
+    "youth_training_level": 5,
+    "favorite_formation": "FORMATION_433",
+    "stadium_size": 49727,
+    "domestic_fans": 55000,
+    "international_fans": 54000,
+    "estimated_income": 72036574
+  },
+  {
+    "club_id": 16,
+    "fund": 24619000,
+    "youth_training_level": 9,
+    "favorite_formation": "FORMATION_343",
+    "stadium_size": 49238,
+    "domestic_fans": 54000,
+    "international_fans": 53000,
+    "estimated_income": 71807392
+  },
+  {
+    "club_id": 17,
+    "fund": 24995500,
+    "youth_training_level": 10,
+    "favorite_formation": "FORMATION_442",
+    "stadium_size": 49991,
+    "domestic_fans": 56000,
+    "international_fans": 55000,
+    "estimated_income": 73390509
+  },
+  {
+    "club_id": 18,
+    "fund": 25552500,
+    "youth_training_level": 10,
+    "favorite_formation": "FORMATION_451",
+    "stadium_size": 51105,
+    "domestic_fans": 58000,
+    "international_fans": 58000,
+    "estimated_income": 73916594
+  },
+  {
+    "club_id": 19,
+    "fund": 22468500,
+    "youth_training_level": 0,
+    "favorite_formation": "FORMATION_442",
+    "stadium_size": 44937,
+    "domestic_fans": 46000,
+    "international_fans": 44000,
+    "estimated_income": 21845714
+  },
+  {
+    "club_id": 20,
+    "fund": 22013000,
+    "youth_training_level": 9,
+    "favorite_formation": "FORMATION_442",
+    "stadium_size": 44026,
+    "domestic_fans": 45000,
+    "international_fans": 43000,
+    "estimated_income": 21434133
+  },
+  {
+    "club_id": 21,
+    "fund": 18500000,
+    "youth_training_level": 6,
+    "favorite_formation": "FORMATION_433",
+    "stadium_size": 38288,
+    "domestic_fans": 37000,
+    "international_fans": 35000,
+    "estimated_income": 18327297
+  },
+  {
+    "club_id": 22,
+    "fund": 20000000,
+    "youth_training_level": 2,
+    "favorite_formation": "FORMATION_433",
+    "stadium_size": 40812,
+    "domestic_fans": 40000,
+    "international_fans": 38000,
+    "estimated_income": 19653175
+  },
+  {
+    "club_id": 23,
+    "fund": 19500000,
+    "youth_training_level": 3,
+    "favorite_formation": "FORMATION_433",
+    "stadium_size": 39678,
+    "domestic_fans": 39000,
+    "international_fans": 36000,
+    "estimated_income": 19200183
+  },
+  {
+    "club_id": 24,
+    "fund": 19000000,
+    "youth_training_level": 5,
+    "favorite_formation": "FORMATION_343",
+    "stadium_size": 38760,
+    "domestic_fans": 38000,
+    "international_fans": 35000,
+    "estimated_income": 18762259
+  },
+  {
+    "club_id": 25,
+    "fund": 16000000,
+    "youth_training_level": 5,
+    "favorite_formation": "FORMATION_442",
+    "stadium_size": 32514,
+    "domestic_fans": 32000,
+    "international_fans": 29000,
+    "estimated_income": 16098399
+  },
+  {
+    "club_id": 26,
+    "fund": 13756500,
+    "youth_training_level": 5,
+    "favorite_formation": "FORMATION_343",
+    "stadium_size": 27513,
+    "domestic_fans": 28000,
+    "international_fans": 25000,
+    "estimated_income": 14100002
+  },
+  {
+    "club_id": 27,
+    "fund": 16000000,
+    "youth_training_level": 4,
+    "favorite_formation": "FORMATION_532",
+    "stadium_size": 32769,
+    "domestic_fans": 32000,
+    "international_fans": 29000,
+    "estimated_income": 16098399
+  },
+  {
+    "club_id": 28,
+    "fund": 12808500,
+    "youth_training_level": 2,
+    "favorite_formation": "FORMATION_343",
+    "stadium_size": 25617,
+    "domestic_fans": 27000,
+    "international_fans": 24000,
+    "estimated_income": 13262901
+  },
+  {
+    "club_id": 29,
+    "fund": 11951500,
+    "youth_training_level": 4,
+    "favorite_formation": "FORMATION_433",
+    "stadium_size": 23903,
+    "domestic_fans": 25000,
+    "international_fans": 23000,
+    "estimated_income": 12501461
+  },
+  {
+    "club_id": 30,
+    "fund": 12973000,
+    "youth_training_level": 5,
+    "favorite_formation": "FORMATION_433",
+    "stadium_size": 25946,
+    "domestic_fans": 27000,
+    "international_fans": 24000,
+    "estimated_income": 13405029
+  },
+  {
+    "club_id": 31,
+    "fund": 10278500,
+    "youth_training_level": 4,
+    "favorite_formation": "FORMATION_433",
+    "stadium_size": 20557,
+    "domestic_fans": 24000,
+    "international_fans": 21000,
+    "estimated_income": 11022892
+  },
+  {
+    "club_id": 32,
+    "fund": 11656500,
+    "youth_training_level": 2,
+    "favorite_formation": "FORMATION_532",
+    "stadium_size": 23313,
+    "domestic_fans": 25000,
+    "international_fans": 22000,
+    "estimated_income": 12243619
+  },
+  {
+    "club_id": 33,
+    "fund": 8686500,
+    "youth_training_level": 6,
+    "favorite_formation": "FORMATION_433",
+    "stadium_size": 17373,
+    "domestic_fans": 22000,
+    "international_fans": 19000,
+    "estimated_income": 9567501
+  },
+  {
+    "club_id": 34,
+    "fund": 9268000,
+    "youth_training_level": 6,
+    "favorite_formation": "FORMATION_442",
+    "stadium_size": 18536,
+    "domestic_fans": 23000,
+    "international_fans": 20000,
+    "estimated_income": 10075841
+  },
+  {
+    "club_id": 35,
+    "fund": 8618000,
+    "youth_training_level": 5,
+    "favorite_formation": "FORMATION_442",
+    "stadium_size": 17236,
+    "domestic_fans": 22000,
+    "international_fans": 19000,
+    "estimated_income": 9508317
+  },
+  {
+    "club_id": 36,
+    "fund": 6338500,
+    "youth_training_level": 4,
+    "favorite_formation": "FORMATION_442",
+    "stadium_size": 12677,
+    "domestic_fans": 20000,
+    "international_fans": 17000,
+    "estimated_income": 7490665
+  },
+  {
+    "club_id": 37,
+    "fund": 20000000,
+    "youth_training_level": 10,
+    "favorite_formation": "FORMATION_352",
+    "stadium_size": 75923,
+    "domestic_fans": 2800000,
+    "international_fans": 4000000,
+    "estimated_income": 105802986
+  },
+  {
+    "club_id": 38,
+    "fund": 20000000,
+    "youth_training_level": 10,
+    "favorite_formation": "FORMATION_442",
+    "stadium_size": 75923,
+    "domestic_fans": 2800000,
+    "international_fans": 4000000,
+    "estimated_income": 106082722
+  },
+  {
+    "club_id": 39,
+    "fund": 26560400,
+    "youth_training_level": 12,
+    "favorite_formation": "FORMATION_442_DIAMOND",
+    "stadium_size": 66401,
+    "domestic_fans": 102000,
+    "international_fans": 106000,
+    "estimated_income": 96706462
+  },
+  {
+    "club_id": 40,
+    "fund": 40000000,
+    "youth_training_level": 10,
+    "favorite_formation": "FORMATION_451",
+    "stadium_size": 41507,
+    "domestic_fans": 3000000,
+    "international_fans": 3500000,
+    "estimated_income": 96514564
+  },
+  {
+    "club_id": 41,
+    "fund": 25518000,
+    "youth_training_level": 10,
+    "favorite_formation": "FORMATION_433",
+    "stadium_size": 63795,
+    "domestic_fans": 87000,
+    "international_fans": 85000,
+    "estimated_income": 49600823
+  },
+  {
+    "club_id": 42,
+    "fund": 24962000,
+    "youth_training_level": 4,
+    "favorite_formation": "FORMATION_442",
+    "stadium_size": 62405,
+    "domestic_fans": 80000,
+    "international_fans": 77000,
+    "estimated_income": 48713841
+  },
+  {
+    "club_id": 43,
+    "fund": 25684000,
+    "youth_training_level": 6,
+    "favorite_formation": "FORMATION_442",
+    "stadium_size": 64210,
+    "domestic_fans": 89000,
+    "international_fans": 88000,
+    "estimated_income": 49819728
+  },
+  {
+    "club_id": 44,
+    "fund": 24240800,
+    "youth_training_level": 12,
+    "favorite_formation": "FORMATION_343",
+    "stadium_size": 60602,
+    "domestic_fans": 72000,
+    "international_fans": 67000,
+    "estimated_income": 34644562
+  },
+  {
+    "club_id": 45,
+    "fund": 21600000,
+    "youth_training_level": 10,
+    "favorite_formation": "FORMATION_442",
+    "stadium_size": 57011,
+    "domestic_fans": 60000,
+    "international_fans": 54000,
+    "estimated_income": 31761423
+  },
+  {
+    "club_id": 46,
+    "fund": 20520000,
+    "youth_training_level": 11,
+    "favorite_formation": "FORMATION_541",
+    "stadium_size": 55689,
+    "domestic_fans": 57000,
+    "international_fans": 50000,
+    "estimated_income": 30584097
+  },
+  {
+    "club_id": 47,
+    "fund": 24176000,
+    "youth_training_level": 11,
+    "favorite_formation": "FORMATION_442",
+    "stadium_size": 60440,
+    "domestic_fans": 72000,
+    "international_fans": 67000,
+    "estimated_income": 34588582
+  },
+  {
+    "club_id": 48,
+    "fund": 23691600,
+    "youth_training_level": 12,
+    "favorite_formation": "FORMATION_433",
+    "stadium_size": 59229,
+    "domestic_fans": 67000,
+    "international_fans": 62000,
+    "estimated_income": 33895086
+  },
+  {
+    "club_id": 49,
+    "fund": 20880000,
+    "youth_training_level": 11,
+    "favorite_formation": "FORMATION_442",
+    "stadium_size": 56121,
+    "domestic_fans": 58000,
+    "international_fans": 51000,
+    "estimated_income": 31087766
+  },
+  {
+    "club_id": 50,
+    "fund": 16560000,
+    "youth_training_level": 11,
+    "favorite_formation": "FORMATION_343",
+    "stadium_size": 50845,
+    "domestic_fans": 46000,
+    "international_fans": 39000,
+    "estimated_income": 26592157
+  },
+  {
+    "club_id": 51,
+    "fund": 19080000,
+    "youth_training_level": 8,
+    "favorite_formation": "FORMATION_442_DIAMOND",
+    "stadium_size": 54121,
+    "domestic_fans": 53000,
+    "international_fans": 46000,
+    "estimated_income": 29257607
+  },
+  {
+    "club_id": 52,
+    "fund": 14760000,
+    "youth_training_level": 13,
+    "favorite_formation": "FORMATION_343",
+    "stadium_size": 48010,
+    "domestic_fans": 41000,
+    "international_fans": 34000,
+    "estimated_income": 24557567
+  },
+  {
+    "club_id": 53,
+    "fund": 15120000,
+    "youth_training_level": 12,
+    "favorite_formation": "FORMATION_442",
+    "stadium_size": 48482,
+    "domestic_fans": 42000,
+    "international_fans": 35000,
+    "estimated_income": 24889190
+  },
+  {
+    "club_id": 54,
+    "fund": 15120000,
+    "youth_training_level": 7,
+    "favorite_formation": "FORMATION_442",
+    "stadium_size": 48679,
+    "domestic_fans": 42000,
+    "international_fans": 35000,
+    "estimated_income": 24889190
+  },
+  {
+    "club_id": 55,
+    "fund": 11880000,
+    "youth_training_level": 3,
+    "favorite_formation": "FORMATION_442",
+    "stadium_size": 41856,
+    "domestic_fans": 33000,
+    "international_fans": 27000,
+    "estimated_income": 11239901
+  },
+  {
+    "club_id": 56,
+    "fund": 11160000,
+    "youth_training_level": 5,
+    "favorite_formation": "FORMATION_343",
+    "stadium_size": 39784,
+    "domestic_fans": 31000,
+    "international_fans": 25000,
+    "estimated_income": 10600872
+  },
+  {
+    "club_id": 57,
+    "fund": 10440000,
+    "youth_training_level": 2,
+    "favorite_formation": "FORMATION_433",
+    "stadium_size": 37416,
+    "domestic_fans": 29000,
+    "international_fans": 23000,
+    "estimated_income": 9961842
+  },
+  {
+    "club_id": 58,
+    "fund": 10440000,
+    "youth_training_level": 3,
+    "favorite_formation": "FORMATION_442",
+    "stadium_size": 37869,
+    "domestic_fans": 29000,
+    "international_fans": 23000,
+    "estimated_income": 9961842
+  },
+  {
+    "club_id": 59,
+    "fund": 10800000,
+    "youth_training_level": 6,
+    "favorite_formation": "FORMATION_442_DIAMOND",
+    "stadium_size": 38963,
+    "domestic_fans": 30000,
+    "international_fans": 24000,
+    "estimated_income": 10285086
+  },
+  {
+    "club_id": 60,
+    "fund": 10800000,
+    "youth_training_level": 8,
+    "favorite_formation": "FORMATION_343",
+    "stadium_size": 38201,
+    "domestic_fans": 30000,
+    "international_fans": 23000,
+    "estimated_income": 10282593
+  },
+  {
+    "club_id": 61,
+    "fund": 9720000,
+    "youth_training_level": 2,
+    "favorite_formation": "FORMATION_442",
+    "stadium_size": 34806,
+    "domestic_fans": 27000,
+    "international_fans": 21000,
+    "estimated_income": 9322813
+  },
+  {
+    "club_id": 62,
+    "fund": 9000000,
+    "youth_training_level": 8,
+    "favorite_formation": "FORMATION_343",
+    "stadium_size": 32355,
+    "domestic_fans": 25000,
+    "international_fans": 19000,
+    "estimated_income": 8676328
+  },
+  {
+    "club_id": 63,
+    "fund": 8280000,
+    "youth_training_level": 1,
+    "favorite_formation": "FORMATION_451",
+    "stadium_size": 28702,
+    "domestic_fans": 23000,
+    "international_fans": 17000,
+    "estimated_income": 8037300
+  },
+  {
+    "club_id": 64,
+    "fund": 7920000,
+    "youth_training_level": 9,
+    "favorite_formation": "FORMATION_442",
+    "stadium_size": 26945,
+    "domestic_fans": 22000,
+    "international_fans": 17000,
+    "estimated_income": 7716550
+  },
+  {
+    "club_id": 65,
+    "fund": 7920000,
+    "youth_training_level": 2,
+    "favorite_formation": "FORMATION_442_DIAMOND",
+    "stadium_size": 27569,
+    "domestic_fans": 22000,
+    "international_fans": 17000,
+    "estimated_income": 7716550
+  },
+  {
+    "club_id": 66,
+    "fund": 7200000,
+    "youth_training_level": 1,
+    "favorite_formation": "FORMATION_352",
+    "stadium_size": 23204,
+    "domestic_fans": 20000,
+    "international_fans": 15000,
+    "estimated_income": 7070064
+  },
+  {
+    "club_id": 67,
+    "fund": 6480000,
+    "youth_training_level": 8,
+    "favorite_formation": "FORMATION_442",
+    "stadium_size": 18977,
+    "domestic_fans": 18000,
+    "international_fans": 13000,
+    "estimated_income": 6423580
+  },
+  {
+    "club_id": 68,
+    "fund": 7200000,
+    "youth_training_level": 2,
+    "favorite_formation": "FORMATION_442",
+    "stadium_size": 24155,
+    "domestic_fans": 20000,
+    "international_fans": 15000,
+    "estimated_income": 7070064
+  },
+  {
+    "club_id": 69,
+    "fund": 6120000,
+    "youth_training_level": 3,
+    "favorite_formation": "FORMATION_532",
+    "stadium_size": 15731,
+    "domestic_fans": 17000,
+    "international_fans": 12000,
+    "estimated_income": 6077625
+  },
+  {
+    "club_id": 70,
+    "fund": 4940400,
+    "youth_training_level": 5,
+    "favorite_formation": "FORMATION_343",
+    "stadium_size": 12351,
+    "domestic_fans": 16000,
+    "international_fans": 12000,
+    "estimated_income": 5041282
+  },
+  {
+    "club_id": 71,
+    "fund": 6120000,
+    "youth_training_level": 6,
+    "favorite_formation": "FORMATION_433",
+    "stadium_size": 15895,
+    "domestic_fans": 17000,
+    "international_fans": 13000,
+    "estimated_income": 6080118
+  },
+  {
+    "club_id": 72,
+    "fund": 5096000,
+    "youth_training_level": 3,
+    "favorite_formation": "FORMATION_343",
+    "stadium_size": 12740,
+    "domestic_fans": 16000,
+    "international_fans": 12000,
+    "estimated_income": 5175724
+  },
+  {
+    "club_id": 73,
+    "fund": 50000000,
+    "youth_training_level": 10,
+    "favorite_formation": "FORMATION_433",
+    "stadium_size": 68457,
+    "domestic_fans": 2000000,
+    "international_fans": 2500000,
+    "estimated_income": 167153674
+  },
+  {
+    "club_id": 74,
+    "fund": 50000000,
+    "youth_training_level": 12,
+    "favorite_formation": "FORMATION_433",
+    "stadium_size": 81044,
+    "domestic_fans": 3000000,
+    "international_fans": 4800000,
+    "estimated_income": 135599705
+  },
+  {
+    "club_id": 75,
+    "fund": 40000000,
+    "youth_training_level": 12,
+    "favorite_formation": "FORMATION_433",
+    "stadium_size": 99354,
+    "domestic_fans": 3000000,
+    "international_fans": 4800000,
+    "estimated_income": 117098135
+  },
+  {
+    "club_id": 76,
+    "fund": 28361250,
+    "youth_training_level": 9,
+    "favorite_formation": "FORMATION_442",
+    "stadium_size": 75630,
+    "domestic_fans": 314000,
+    "international_fans": 271000,
+    "estimated_income": 118225992
+  },
+  {
+    "club_id": 77,
+    "fund": 27694875,
+    "youth_training_level": 10,
+    "favorite_formation": "FORMATION_451",
+    "stadium_size": 73853,
+    "domestic_fans": 260000,
+    "international_fans": 194000,
+    "estimated_income": 70987990
+  },
+  {
+    "club_id": 78,
+    "fund": 26917875,
+    "youth_training_level": 11,
+    "favorite_formation": "FORMATION_442",
+    "stadium_size": 71781,
+    "domestic_fans": 213000,
+    "international_fans": 142000,
+    "estimated_income": 65037339
+  },
+  {
+    "club_id": 79,
+    "fund": 27140625,
+    "youth_training_level": 9,
+    "favorite_formation": "FORMATION_442",
+    "stadium_size": 72375,
+    "domestic_fans": 225000,
+    "international_fans": 155000,
+    "estimated_income": 65524544
+  },
+  {
+    "club_id": 80,
+    "fund": 22806375,
+    "youth_training_level": 10,
+    "favorite_formation": "FORMATION_433",
+    "stadium_size": 60817,
+    "domestic_fans": 101000,
+    "international_fans": 50000,
+    "estimated_income": 42868679
+  },
+  {
+    "club_id": 81,
+    "fund": 22185750,
+    "youth_training_level": 10,
+    "favorite_formation": "FORMATION_433",
+    "stadium_size": 59162,
+    "domestic_fans": 92000,
+    "international_fans": 45000,
+    "estimated_income": 41849740
+  },
+  {
+    "club_id": 82,
+    "fund": 21239625,
+    "youth_training_level": 9,
+    "favorite_formation": "FORMATION_433",
+    "stadium_size": 56639,
+    "domestic_fans": 82000,
+    "international_fans": 39000,
+    "estimated_income": 40528560
+  },
+  {
+    "club_id": 83,
+    "fund": 21385875,
+    "youth_training_level": 10,
+    "favorite_formation": "FORMATION_343",
+    "stadium_size": 57029,
+    "domestic_fans": 83000,
+    "international_fans": 40000,
+    "estimated_income": 40675928
+  },
+  {
+    "club_id": 84,
+    "fund": 20089125,
+    "youth_training_level": 11,
+    "favorite_formation": "FORMATION_343",
+    "stadium_size": 53571,
+    "domestic_fans": 71000,
+    "international_fans": 33000,
+    "estimated_income": 38684407
+  },
+  {
+    "club_id": 85,
+    "fund": 18937875,
+    "youth_training_level": 9,
+    "favorite_formation": "FORMATION_433",
+    "stadium_size": 50501,
+    "domestic_fans": 63000,
+    "international_fans": 28000,
+    "estimated_income": 37217436
+  },
+  {
+    "club_id": 86,
+    "fund": 19794375,
+    "youth_training_level": 12,
+    "favorite_formation": "FORMATION_442",
+    "stadium_size": 52785,
+    "domestic_fans": 69000,
+    "international_fans": 31000,
+    "estimated_income": 38387727
+  },
+  {
+    "club_id": 87,
+    "fund": 19350375,
+    "youth_training_level": 8,
+    "favorite_formation": "FORMATION_442",
+    "stadium_size": 51601,
+    "domestic_fans": 65000,
+    "international_fans": 30000,
+    "estimated_income": 37615851
+  },
+  {
+    "club_id": 88,
+    "fund": 18916875,
+    "youth_training_level": 11,
+    "favorite_formation": "FORMATION_442",
+    "stadium_size": 50445,
+    "domestic_fans": 62000,
+    "international_fans": 28000,
+    "estimated_income": 37188863
+  },
+  {
+    "club_id": 89,
+    "fund": 18807375,
+    "youth_training_level": 6,
+    "favorite_formation": "FORMATION_442",
+    "stadium_size": 50153,
+    "domestic_fans": 62000,
+    "international_fans": 28000,
+    "estimated_income": 37094255
+  },
+  {
+    "club_id": 90,
+    "fund": 18382125,
+    "youth_training_level": 8,
+    "favorite_formation": "FORMATION_433",
+    "stadium_size": 49019,
+    "domestic_fans": 59000,
+    "international_fans": 26000,
+    "estimated_income": 36000648
+  },
+  {
+    "club_id": 91,
+    "fund": 16023000,
+    "youth_training_level": 6,
+    "favorite_formation": "FORMATION_343",
+    "stadium_size": 42728,
+    "domestic_fans": 47000,
+    "international_fans": 20000,
+    "estimated_income": 15133755
+  },
+  {
+    "club_id": 92,
+    "fund": 16204875,
+    "youth_training_level": 3,
+    "favorite_formation": "FORMATION_442",
+    "stadium_size": 43213,
+    "domestic_fans": 48000,
+    "international_fans": 21000,
+    "estimated_income": 15296235
+  },
+  {
+    "club_id": 93,
+    "fund": 15805500,
+    "youth_training_level": 6,
+    "favorite_formation": "FORMATION_442",
+    "stadium_size": 42148,
+    "domestic_fans": 46000,
+    "international_fans": 20000,
+    "estimated_income": 14943240
+  },
+  {
+    "club_id": 94,
+    "fund": 15976500,
+    "youth_training_level": 6,
+    "favorite_formation": "FORMATION_451",
+    "stadium_size": 42604,
+    "domestic_fans": 47000,
+    "international_fans": 20000,
+    "estimated_income": 15093579
+  },
+  {
+    "club_id": 95,
+    "fund": 13813125,
+    "youth_training_level": 5,
+    "favorite_formation": "FORMATION_343",
+    "stadium_size": 36835,
+    "domestic_fans": 39000,
+    "international_fans": 16000,
+    "estimated_income": 13161995
+  },
+  {
+    "club_id": 96,
+    "fund": 12645375,
+    "youth_training_level": 0,
+    "favorite_formation": "FORMATION_442",
+    "stadium_size": 33721,
+    "domestic_fans": 36000,
+    "international_fans": 15000,
+    "estimated_income": 12122071
+  },
+  {
+    "club_id": 97,
+    "fund": 11680500,
+    "youth_training_level": 5,
+    "favorite_formation": "FORMATION_442",
+    "stadium_size": 31148,
+    "domestic_fans": 34000,
+    "international_fans": 14000,
+    "estimated_income": 11270253
+  },
+  {
+    "club_id": 98,
+    "fund": 12708375,
+    "youth_training_level": 4,
+    "favorite_formation": "FORMATION_343",
+    "stadium_size": 33889,
+    "domestic_fans": 36000,
+    "international_fans": 15000,
+    "estimated_income": 12176503
+  },
+  {
+    "club_id": 99,
+    "fund": 11076750,
+    "youth_training_level": 2,
+    "favorite_formation": "FORMATION_442",
+    "stadium_size": 29538,
+    "domestic_fans": 32000,
+    "international_fans": 13000,
+    "estimated_income": 10730449
+  },
+  {
+    "club_id": 100,
+    "fund": 11465625,
+    "youth_training_level": 6,
+    "favorite_formation": "FORMATION_442",
+    "stadium_size": 30575,
+    "domestic_fans": 33000,
+    "international_fans": 13000,
+    "estimated_income": 11079262
+  },
+  {
+    "club_id": 101,
+    "fund": 11503125,
+    "youth_training_level": 1,
+    "favorite_formation": "FORMATION_442",
+    "stadium_size": 30675,
+    "domestic_fans": 33000,
+    "international_fans": 13000,
+    "estimated_income": 11111662
+  },
+  {
+    "club_id": 102,
+    "fund": 10285875,
+    "youth_training_level": 2,
+    "favorite_formation": "FORMATION_442",
+    "stadium_size": 27429,
+    "domestic_fans": 31000,
+    "international_fans": 12000,
+    "estimated_income": 10031564
+  },
+  {
+    "club_id": 103,
+    "fund": 9070125,
+    "youth_training_level": 6,
+    "favorite_formation": "FORMATION_343",
+    "stadium_size": 24187,
+    "domestic_fans": 28000,
+    "international_fans": 11000,
+    "estimated_income": 8950166
+  },
+  {
+    "club_id": 104,
+    "fund": 9810000,
+    "youth_training_level": 4,
+    "favorite_formation": "FORMATION_343",
+    "stadium_size": 26160,
+    "domestic_fans": 30000,
+    "international_fans": 12000,
+    "estimated_income": 9607583
+  },
+  {
+    "club_id": 105,
+    "fund": 9436500,
+    "youth_training_level": 2,
+    "favorite_formation": "FORMATION_433",
+    "stadium_size": 25164,
+    "domestic_fans": 29000,
+    "international_fans": 12000,
+    "estimated_income": 9282284
+  },
+  {
+    "club_id": 106,
+    "fund": 6644250,
+    "youth_training_level": 2,
+    "favorite_formation": "FORMATION_343",
+    "stadium_size": 17718,
+    "domestic_fans": 24000,
+    "international_fans": 10000,
+    "estimated_income": 6785189
+  },
+  {
+    "club_id": 107,
+    "fund": 8050875,
+    "youth_training_level": 4,
+    "favorite_formation": "FORMATION_343",
+    "stadium_size": 21469,
+    "domestic_fans": 27000,
+    "international_fans": 10000,
+    "estimated_income": 8053964
+  },
+  {
+    "club_id": 108,
+    "fund": 4570125,
+    "youth_training_level": 5,
+    "favorite_formation": "FORMATION_442",
+    "stadium_size": 12187,
+    "domestic_fans": 22000,
+    "international_fans": 8000,
+    "estimated_income": 4951775
+  },
+  {
+    "club_id": 109,
+    "fund": 40000000,
+    "youth_training_level": 10,
+    "favorite_formation": "FORMATION_433",
+    "stadium_size": 75000,
+    "domestic_fans": 2800000,
+    "international_fans": 4000000,
+    "estimated_income": 170354905
+  },
+  {
+    "club_id": 110,
+    "fund": 47923200,
+    "youth_training_level": 11,
+    "favorite_formation": "FORMATION_343",
+    "stadium_size": 79872,
+    "domestic_fans": 284000,
+    "international_fans": 826000,
+    "estimated_income": 199704239
+  },
+  {
+    "club_id": 111,
+    "fund": 40000000,
+    "youth_training_level": 12,
+    "favorite_formation": "FORMATION_442_DIAMOND",
+    "stadium_size": 81365,
+    "domestic_fans": 2500000,
+    "international_fans": 3500000,
+    "estimated_income": 146852916
+  },
+  {
+    "club_id": 112,
+    "fund": 45025799,
+    "youth_training_level": 8,
+    "favorite_formation": "FORMATION_442",
+    "stadium_size": 75043,
+    "domestic_fans": 147000,
+    "international_fans": 187000,
+    "estimated_income": 89805723
+  },
+  {
+    "club_id": 113,
+    "fund": 42763799,
+    "youth_training_level": 13,
+    "favorite_formation": "FORMATION_433",
+    "stadium_size": 71273,
+    "domestic_fans": 102000,
+    "international_fans": 103000,
+    "estimated_income": 81665571
+  },
+  {
+    "club_id": 114,
+    "fund": 43621200,
+    "youth_training_level": 10,
+    "favorite_formation": "FORMATION_433",
+    "stadium_size": 72702,
+    "domestic_fans": 116000,
+    "international_fans": 126000,
+    "estimated_income": 83013425
+  },
+  {
+    "club_id": 115,
+    "fund": 41484000,
+    "youth_training_level": 10,
+    "favorite_formation": "FORMATION_433",
+    "stadium_size": 69140,
+    "domestic_fans": 85000,
+    "international_fans": 80000,
+    "estimated_income": 63846789
+  },
+  {
+    "club_id": 116,
+    "fund": 31200000,
+    "youth_training_level": 8,
+    "favorite_formation": "FORMATION_343",
+    "stadium_size": 61610,
+    "domestic_fans": 52000,
+    "international_fans": 41000,
+    "estimated_income": 52092545
+  },
+  {
+    "club_id": 117,
+    "fund": 35400000,
+    "youth_training_level": 9,
+    "favorite_formation": "FORMATION_442",
+    "stadium_size": 63588,
+    "domestic_fans": 59000,
+    "international_fans": 48000,
+    "estimated_income": 56173218
+  },
+  {
+    "club_id": 118,
+    "fund": 27000000,
+    "youth_training_level": 10,
+    "favorite_formation": "FORMATION_433",
+    "stadium_size": 58640,
+    "domestic_fans": 45000,
+    "international_fans": 34000,
+    "estimated_income": 47742574
+  },
+  {
+    "club_id": 119,
+    "fund": 24600000,
+    "youth_training_level": 7,
+    "favorite_formation": "FORMATION_343",
+    "stadium_size": 56667,
+    "domestic_fans": 41000,
+    "international_fans": 30000,
+    "estimated_income": 45295347
+  },
+  {
+    "club_id": 120,
+    "fund": 23400000,
+    "youth_training_level": 8,
+    "favorite_formation": "FORMATION_433",
+    "stadium_size": 55699,
+    "domestic_fans": 39000,
+    "international_fans": 28000,
+    "estimated_income": 44206383
+  },
+  {
+    "club_id": 121,
+    "fund": 19800000,
+    "youth_training_level": 12,
+    "favorite_formation": "FORMATION_433",
+    "stadium_size": 52015,
+    "domestic_fans": 33000,
+    "international_fans": 23000,
+    "estimated_income": 40414055
+  },
+  {
+    "club_id": 122,
+    "fund": 19200000,
+    "youth_training_level": 10,
+    "favorite_formation": "FORMATION_442",
+    "stadium_size": 50887,
+    "domestic_fans": 32000,
+    "international_fans": 22000,
+    "estimated_income": 39600275
+  },
+  {
+    "club_id": 123,
+    "fund": 20400000,
+    "youth_training_level": 12,
+    "favorite_formation": "FORMATION_433",
+    "stadium_size": 52797,
+    "domestic_fans": 34000,
+    "international_fans": 24000,
+    "estimated_income": 40958537
+  },
+  {
+    "club_id": 124,
+    "fund": 19800000,
+    "youth_training_level": 10,
+    "favorite_formation": "FORMATION_433",
+    "stadium_size": 52189,
+    "domestic_fans": 33000,
+    "international_fans": 24000,
+    "estimated_income": 40427216
+  },
+  {
+    "club_id": 125,
+    "fund": 16800000,
+    "youth_training_level": 7,
+    "favorite_formation": "FORMATION_433",
+    "stadium_size": 47824,
+    "domestic_fans": 28000,
+    "international_fans": 19000,
+    "estimated_income": 36549101
+  },
+  {
+    "club_id": 126,
+    "fund": 18000000,
+    "youth_training_level": 9,
+    "favorite_formation": "FORMATION_433",
+    "stadium_size": 49788,
+    "domestic_fans": 30000,
+    "international_fans": 21000,
+    "estimated_income": 37907363
+  },
+  {
+    "club_id": 127,
+    "fund": 13200000,
+    "youth_training_level": 6,
+    "favorite_formation": "FORMATION_343",
+    "stadium_size": 41366,
+    "domestic_fans": 22000,
+    "international_fans": 15000,
+    "estimated_income": 12601490
+  },
+  {
+    "club_id": 128,
+    "fund": 12600000,
+    "youth_training_level": 4,
+    "favorite_formation": "FORMATION_433",
+    "stadium_size": 39265,
+    "domestic_fans": 21000,
+    "international_fans": 14000,
+    "estimated_income": 12067770
+  },
+  {
+    "club_id": 129,
+    "fund": 12600000,
+    "youth_training_level": 2,
+    "favorite_formation": "FORMATION_442_DIAMOND",
+    "stadium_size": 38631,
+    "domestic_fans": 21000,
+    "international_fans": 13000,
+    "estimated_income": 12063819
+  },
+  {
+    "club_id": 130,
+    "fund": 12000000,
+    "youth_training_level": 1,
+    "favorite_formation": "FORMATION_433",
+    "stadium_size": 37159,
+    "domestic_fans": 20000,
+    "international_fans": 13000,
+    "estimated_income": 11534050
+  },
+  {
+    "club_id": 131,
+    "fund": 12000000,
+    "youth_training_level": 3,
+    "favorite_formation": "FORMATION_433",
+    "stadium_size": 37759,
+    "domestic_fans": 20000,
+    "international_fans": 13000,
+    "estimated_income": 11534050
+  },
+  {
+    "club_id": 132,
+    "fund": 10800000,
+    "youth_training_level": 6,
+    "favorite_formation": "FORMATION_433",
+    "stadium_size": 33915,
+    "domestic_fans": 18000,
+    "international_fans": 11000,
+    "estimated_income": 10466610
+  },
+  {
+    "club_id": 133,
+    "fund": 10200000,
+    "youth_training_level": 7,
+    "favorite_formation": "FORMATION_343",
+    "stadium_size": 32673,
+    "domestic_fans": 17000,
+    "international_fans": 11000,
+    "estimated_income": 9944499
+  },
+  {
+    "club_id": 134,
+    "fund": 9600000,
+    "youth_training_level": 5,
+    "favorite_formation": "FORMATION_442",
+    "stadium_size": 29967,
+    "domestic_fans": 16000,
+    "international_fans": 10000,
+    "estimated_income": 9403121
+  },
+  {
+    "club_id": 135,
+    "fund": 10200000,
+    "youth_training_level": 9,
+    "favorite_formation": "FORMATION_343",
+    "stadium_size": 31869,
+    "domestic_fans": 17000,
+    "international_fans": 11000,
+    "estimated_income": 9936841
+  },
+  {
+    "club_id": 136,
+    "fund": 9000000,
+    "youth_training_level": 5,
+    "favorite_formation": "FORMATION_343",
+    "stadium_size": 28154,
+    "domestic_fans": 15000,
+    "international_fans": 10000,
+    "estimated_income": 8873353
+  },
+  {
+    "club_id": 137,
+    "fund": 8400000,
+    "youth_training_level": 1,
+    "favorite_formation": "FORMATION_442",
+    "stadium_size": 25046,
+    "domestic_fans": 14000,
+    "international_fans": 9000,
+    "estimated_income": 8339633
+  },
+  {
+    "club_id": 138,
+    "fund": 8400000,
+    "youth_training_level": 6,
+    "favorite_formation": "FORMATION_343",
+    "stadium_size": 24415,
+    "domestic_fans": 14000,
+    "international_fans": 9000,
+    "estimated_income": 8331975
+  },
+  {
+    "club_id": 139,
+    "fund": 8400000,
+    "youth_training_level": 3,
+    "favorite_formation": "FORMATION_433",
+    "stadium_size": 24782,
+    "domestic_fans": 14000,
+    "international_fans": 9000,
+    "estimated_income": 8339633
+  },
+  {
+    "club_id": 140,
+    "fund": 8400000,
+    "youth_training_level": 4,
+    "favorite_formation": "FORMATION_433",
+    "stadium_size": 24186,
+    "domestic_fans": 14000,
+    "international_fans": 9000,
+    "estimated_income": 8331975
+  },
+  {
+    "club_id": 141,
+    "fund": 7800000,
+    "youth_training_level": 9,
+    "favorite_formation": "FORMATION_343",
+    "stadium_size": 22140,
+    "domestic_fans": 13000,
+    "international_fans": 8000,
+    "estimated_income": 7798255
+  },
+  {
+    "club_id": 142,
+    "fund": 7200000,
+    "youth_training_level": 5,
+    "favorite_formation": "FORMATION_532",
+    "stadium_size": 17890,
+    "domestic_fans": 12000,
+    "international_fans": 7000,
+    "estimated_income": 7230920
+  },
+  {
+    "club_id": 143,
+    "fund": 7200000,
+    "youth_training_level": 6,
+    "favorite_formation": "FORMATION_343",
+    "stadium_size": 15978,
+    "domestic_fans": 12000,
+    "international_fans": 7000,
+    "estimated_income": 7223262
+  },
+  {
+    "club_id": 144,
+    "fund": 6600000,
+    "youth_training_level": 7,
+    "favorite_formation": "FORMATION_433",
+    "stadium_size": 11969,
+    "domestic_fans": 11000,
+    "international_fans": 6000,
+    "estimated_income": 6681884
+  },
+  {
+    "club_id": 145,
+    "fund": 33137250,
+    "youth_training_level": 12,
+    "favorite_formation": "FORMATION_442",
+    "stadium_size": 77970,
+    "domestic_fans": 298000,
+    "international_fans": 308000,
+    "estimated_income": 137962994
+  },
+  {
+    "club_id": 146,
+    "fund": 100000000,
+    "youth_training_level": 9,
+    "favorite_formation": "FORMATION_433",
+    "stadium_size": 47929,
+    "domestic_fans": 3000000,
+    "international_fans": 4000000,
+    "estimated_income": 124456228
+  },
+  {
+    "club_id": 147,
+    "fund": 31703300,
+    "youth_training_level": 7,
+    "favorite_formation": "FORMATION_343",
+    "stadium_size": 74596,
+    "domestic_fans": 197000,
+    "international_fans": 139000,
+    "estimated_income": 123047135
+  },
+  {
+    "club_id": 148,
+    "fund": 29750000,
+    "youth_training_level": 9,
+    "favorite_formation": "FORMATION_442",
+    "stadium_size": 73408,
+    "domestic_fans": 175000,
+    "international_fans": 113000,
+    "estimated_income": 62393265
+  },
+  {
+    "club_id": 149,
+    "fund": 21080000,
+    "youth_training_level": 11,
+    "favorite_formation": "FORMATION_442",
+    "stadium_size": 69527,
+    "domestic_fans": 124000,
+    "international_fans": 67000,
+    "estimated_income": 49256682
+  },
+  {
+    "club_id": 150,
+    "fund": 21930000,
+    "youth_training_level": 10,
+    "favorite_formation": "FORMATION_343",
+    "stadium_size": 69946,
+    "domestic_fans": 129000,
+    "international_fans": 71000,
+    "estimated_income": 50235482
+  },
+  {
+    "club_id": 151,
+    "fund": 23460000,
+    "youth_training_level": 14,
+    "favorite_formation": "FORMATION_343",
+    "stadium_size": 70834,
+    "domestic_fans": 138000,
+    "international_fans": 79000,
+    "estimated_income": 39136055
+  },
+  {
+    "club_id": 152,
+    "fund": 23460000,
+    "youth_training_level": 12,
+    "favorite_formation": "FORMATION_442",
+    "stadium_size": 70773,
+    "domestic_fans": 138000,
+    "international_fans": 78000,
+    "estimated_income": 39122216
+  },
+  {
+    "club_id": 153,
+    "fund": 18870000,
+    "youth_training_level": 11,
+    "favorite_formation": "FORMATION_541",
+    "stadium_size": 68020,
+    "domestic_fans": 111000,
+    "international_fans": 57000,
+    "estimated_income": 34246487
+  },
+  {
+    "club_id": 154,
+    "fund": 14280000,
+    "youth_training_level": 10,
+    "favorite_formation": "FORMATION_442",
+    "stadium_size": 63726,
+    "domestic_fans": 84000,
+    "international_fans": 39000,
+    "estimated_income": 28416930
+  },
+  {
+    "club_id": 155,
+    "fund": 19040000,
+    "youth_training_level": 7,
+    "favorite_formation": "FORMATION_343",
+    "stadium_size": 68134,
+    "domestic_fans": 112000,
+    "international_fans": 58000,
+    "estimated_income": 34420534
+  },
+  {
+    "club_id": 156,
+    "fund": 12070000,
+    "youth_training_level": 7,
+    "favorite_formation": "FORMATION_442",
+    "stadium_size": 60968,
+    "domestic_fans": 71000,
+    "international_fans": 32000,
+    "estimated_income": 25718396
+  },
+  {
+    "club_id": 157,
+    "fund": 10710000,
+    "youth_training_level": 9,
+    "favorite_formation": "FORMATION_442_DIAMOND",
+    "stadium_size": 58491,
+    "domestic_fans": 63000,
+    "international_fans": 27000,
+    "estimated_income": 24108056
+  },
+  {
+    "club_id": 158,
+    "fund": 8330000,
+    "youth_training_level": 9,
+    "favorite_formation": "FORMATION_343",
+    "stadium_size": 53269,
+    "domestic_fans": 49000,
+    "international_fans": 20000,
+    "estimated_income": 20989839
+  },
+  {
+    "club_id": 159,
+    "fund": 7820000,
+    "youth_training_level": 9,
+    "favorite_formation": "FORMATION_343",
+    "stadium_size": 51899,
+    "domestic_fans": 46000,
+    "international_fans": 19000,
+    "estimated_income": 20495373
+  },
+  {
+    "club_id": 160,
+    "fund": 7820000,
+    "youth_training_level": 11,
+    "favorite_formation": "FORMATION_442",
+    "stadium_size": 51890,
+    "domestic_fans": 46000,
+    "international_fans": 19000,
+    "estimated_income": 20495373
+  },
+  {
+    "club_id": 161,
+    "fund": 7650000,
+    "youth_training_level": 7,
+    "favorite_formation": "FORMATION_433",
+    "stadium_size": 51190,
+    "domestic_fans": 45000,
+    "international_fans": 18000,
+    "estimated_income": 20061853
+  },
+  {
+    "club_id": 162,
+    "fund": 6970000,
+    "youth_training_level": 9,
+    "favorite_formation": "FORMATION_442",
+    "stadium_size": 48907,
+    "domestic_fans": 41000,
+    "international_fans": 16000,
+    "estimated_income": 18905610
+  },
+  {
+    "club_id": 163,
+    "fund": 5610000,
+    "youth_training_level": 2,
+    "favorite_formation": "FORMATION_442",
+    "stadium_size": 42543,
+    "domestic_fans": 33000,
+    "international_fans": 12000,
+    "estimated_income": 5772539
+  },
+  {
+    "club_id": 164,
+    "fund": 5780000,
+    "youth_training_level": 6,
+    "favorite_formation": "FORMATION_442",
+    "stadium_size": 43764,
+    "domestic_fans": 34000,
+    "international_fans": 13000,
+    "estimated_income": 5925293
+  },
+  {
+    "club_id": 165,
+    "fund": 5780000,
+    "youth_training_level": 8,
+    "favorite_formation": "FORMATION_442",
+    "stadium_size": 43153,
+    "domestic_fans": 34000,
+    "international_fans": 13000,
+    "estimated_income": 5925293
+  },
+  {
+    "club_id": 166,
+    "fund": 4930000,
+    "youth_training_level": 7,
+    "favorite_formation": "FORMATION_433",
+    "stadium_size": 38721,
+    "domestic_fans": 29000,
+    "international_fans": 11000,
+    "estimated_income": 5154881
+  },
+  {
+    "club_id": 167,
+    "fund": 4760000,
+    "youth_training_level": 3,
+    "favorite_formation": "FORMATION_433",
+    "stadium_size": 37648,
+    "domestic_fans": 28000,
+    "international_fans": 10000,
+    "estimated_income": 4994018
+  },
+  {
+    "club_id": 168,
+    "fund": 4590000,
+    "youth_training_level": 5,
+    "favorite_formation": "FORMATION_343",
+    "stadium_size": 35480,
+    "domestic_fans": 27000,
+    "international_fans": 10000,
+    "estimated_income": 4836348
+  },
+  {
+    "club_id": 169,
+    "fund": 4590000,
+    "youth_training_level": 6,
+    "favorite_formation": "FORMATION_433",
+    "stadium_size": 36174,
+    "domestic_fans": 27000,
+    "international_fans": 10000,
+    "estimated_income": 4836348
+  },
+  {
+    "club_id": 170,
+    "fund": 3910000,
+    "youth_training_level": 5,
+    "favorite_formation": "FORMATION_442",
+    "stadium_size": 30095,
+    "domestic_fans": 23000,
+    "international_fans": 8000,
+    "estimated_income": 4207389
+  },
+  {
+    "club_id": 171,
+    "fund": 4250000,
+    "youth_training_level": 4,
+    "favorite_formation": "FORMATION_442",
+    "stadium_size": 32838,
+    "domestic_fans": 25000,
+    "international_fans": 9000,
+    "estimated_income": 4525922
+  },
+  {
+    "club_id": 172,
+    "fund": 4080000,
+    "youth_training_level": 3,
+    "favorite_formation": "FORMATION_433",
+    "stadium_size": 31162,
+    "domestic_fans": 24000,
+    "international_fans": 8000,
+    "estimated_income": 4365060
+  },
+  {
+    "club_id": 173,
+    "fund": 4250000,
+    "youth_training_level": 3,
+    "favorite_formation": "FORMATION_442",
+    "stadium_size": 32636,
+    "domestic_fans": 25000,
+    "international_fans": 9000,
+    "estimated_income": 4525922
+  },
+  {
+    "club_id": 174,
+    "fund": 3570000,
+    "youth_training_level": 5,
+    "favorite_formation": "FORMATION_451",
+    "stadium_size": 27545,
+    "domestic_fans": 21000,
+    "international_fans": 8000,
+    "estimated_income": 3900155
+  },
+  {
+    "club_id": 175,
+    "fund": 3570000,
+    "youth_training_level": 5,
+    "favorite_formation": "FORMATION_442_DIAMOND",
+    "stadium_size": 27050,
+    "domestic_fans": 21000,
+    "international_fans": 7000,
+    "estimated_income": 3896963
+  },
+  {
+    "club_id": 176,
+    "fund": 3060000,
+    "youth_training_level": 8,
+    "favorite_formation": "FORMATION_433",
+    "stadium_size": 20628,
+    "domestic_fans": 18000,
+    "international_fans": 6000,
+    "estimated_income": 3412650
+  },
+  {
+    "club_id": 177,
+    "fund": 2890000,
+    "youth_training_level": 2,
+    "favorite_formation": "FORMATION_433",
+    "stadium_size": 17338,
+    "domestic_fans": 17000,
+    "international_fans": 6000,
+    "estimated_income": 3237946
+  },
+  {
+    "club_id": 178,
+    "fund": 2890000,
+    "youth_training_level": 5,
+    "favorite_formation": "FORMATION_343",
+    "stadium_size": 18633,
+    "domestic_fans": 17000,
+    "international_fans": 6000,
+    "estimated_income": 3237946
+  },
+  {
+    "club_id": 179,
+    "fund": 2890000,
+    "youth_training_level": 5,
+    "favorite_formation": "FORMATION_442",
+    "stadium_size": 16406,
+    "domestic_fans": 17000,
+    "international_fans": 6000,
+    "estimated_income": 3229837
+  },
+  {
+    "club_id": 180,
+    "fund": 2550000,
+    "youth_training_level": 3,
+    "favorite_formation": "FORMATION_433",
+    "stadium_size": 12651,
+    "domestic_fans": 15000,
+    "international_fans": 5000,
+    "estimated_income": 2911304
+  },
+  {
+    "club_id": 181,
+    "fund": 21500000,
+    "youth_training_level": 7,
+    "favorite_formation": "FORMATION_433",
+    "stadium_size": 79418,
+    "domestic_fans": 43000,
+    "international_fans": 440000,
+    "estimated_income": 140644432
+  },
+  {
+    "club_id": 182,
+    "fund": 13500000,
+    "youth_training_level": 7,
+    "favorite_formation": "FORMATION_343",
+    "stadium_size": 76240,
+    "domestic_fans": 27000,
+    "international_fans": 161000,
+    "estimated_income": 118688474
+  },
+  {
+    "club_id": 183,
+    "fund": 14500000,
+    "youth_training_level": 7,
+    "favorite_formation": "FORMATION_442",
+    "stadium_size": 76832,
+    "domestic_fans": 29000,
+    "international_fans": 185000,
+    "estimated_income": 35432568
+  },
+  {
+    "club_id": 184,
+    "fund": 8000000,
+    "youth_training_level": 5,
+    "favorite_formation": "FORMATION_433",
+    "stadium_size": 70863,
+    "domestic_fans": 16000,
+    "international_fans": 65000,
+    "estimated_income": 26855871
+  },
+  {
+    "club_id": 185,
+    "fund": 7500000,
+    "youth_training_level": 6,
+    "favorite_formation": "FORMATION_343",
+    "stadium_size": 70298,
+    "domestic_fans": 15000,
+    "international_fans": 61000,
+    "estimated_income": 26327520
+  },
+  {
+    "club_id": 186,
+    "fund": 7500000,
+    "youth_training_level": 9,
+    "favorite_formation": "FORMATION_433",
+    "stadium_size": 70630,
+    "domestic_fans": 15000,
+    "international_fans": 63000,
+    "estimated_income": 15763162
+  },
+  {
+    "club_id": 187,
+    "fund": 7000000,
+    "youth_training_level": 8,
+    "favorite_formation": "FORMATION_442",
+    "stadium_size": 69360,
+    "domestic_fans": 14000,
+    "international_fans": 55000,
+    "estimated_income": 15287330
+  },
+  {
+    "club_id": 188,
+    "fund": 5500000,
+    "youth_training_level": 5,
+    "favorite_formation": "FORMATION_442",
+    "stadium_size": 66150,
+    "domestic_fans": 11000,
+    "international_fans": 40000,
+    "estimated_income": 13834952
+  },
+  {
+    "club_id": 189,
+    "fund": 5000000,
+    "youth_training_level": 8,
+    "favorite_formation": "FORMATION_343",
+    "stadium_size": 64822,
+    "domestic_fans": 10000,
+    "international_fans": 35000,
+    "estimated_income": 12973471
+  },
+  {
+    "club_id": 190,
+    "fund": 4500000,
+    "youth_training_level": 6,
+    "favorite_formation": "FORMATION_451",
+    "stadium_size": 63642,
+    "domestic_fans": 9000,
+    "international_fans": 32000,
+    "estimated_income": 12521990
+  },
+  {
+    "club_id": 191,
+    "fund": 4500000,
+    "youth_training_level": 9,
+    "favorite_formation": "FORMATION_343",
+    "stadium_size": 62401,
+    "domestic_fans": 9000,
+    "international_fans": 29000,
+    "estimated_income": 12473022
+  },
+  {
+    "club_id": 192,
+    "fund": 3500000,
+    "youth_training_level": 6,
+    "favorite_formation": "FORMATION_433",
+    "stadium_size": 59098,
+    "domestic_fans": 7000,
+    "international_fans": 23000,
+    "estimated_income": 11501347
+  },
+  {
+    "club_id": 193,
+    "fund": 2500000,
+    "youth_training_level": 12,
+    "favorite_formation": "FORMATION_442",
+    "stadium_size": 53683,
+    "domestic_fans": 5000,
+    "international_fans": 17000,
+    "estimated_income": 10495314
+  },
+  {
+    "club_id": 194,
+    "fund": 3500000,
+    "youth_training_level": 7,
+    "favorite_formation": "FORMATION_442",
+    "stadium_size": 58193,
+    "domestic_fans": 7000,
+    "international_fans": 22000,
+    "estimated_income": 11496477
+  },
+  {
+    "club_id": 195,
+    "fund": 2000000,
+    "youth_training_level": 8,
+    "favorite_formation": "FORMATION_442",
+    "stadium_size": 48625,
+    "domestic_fans": 4000,
+    "international_fans": 13000,
+    "estimated_income": 9856752
+  },
+  {
+    "club_id": 196,
+    "fund": 2500000,
+    "youth_training_level": 11,
+    "favorite_formation": "FORMATION_433",
+    "stadium_size": 49955,
+    "domestic_fans": 5000,
+    "international_fans": 14000,
+    "estimated_income": 10446348
+  },
+  {
+    "club_id": 197,
+    "fund": 2500000,
+    "youth_training_level": 9,
+    "favorite_formation": "FORMATION_343",
+    "stadium_size": 50734,
+    "domestic_fans": 5000,
+    "international_fans": 15000,
+    "estimated_income": 10451218
+  },
+  {
+    "club_id": 198,
+    "fund": 2000000,
+    "youth_training_level": 8,
+    "favorite_formation": "FORMATION_442",
+    "stadium_size": 48173,
+    "domestic_fans": 4000,
+    "international_fans": 13000,
+    "estimated_income": 9856752
+  },
+  {
+    "club_id": 199,
+    "fund": 2000000,
+    "youth_training_level": 5,
+    "favorite_formation": "FORMATION_433",
+    "stadium_size": 44006,
+    "domestic_fans": 4000,
+    "international_fans": 11000,
+    "estimated_income": 2098766
+  },
+  {
+    "club_id": 200,
+    "fund": 2000000,
+    "youth_training_level": 7,
+    "favorite_formation": "FORMATION_442",
+    "stadium_size": 43732,
+    "domestic_fans": 4000,
+    "international_fans": 11000,
+    "estimated_income": 2098766
+  },
+  {
+    "club_id": 201,
+    "fund": 1500000,
+    "youth_training_level": 4,
+    "favorite_formation": "FORMATION_343",
+    "stadium_size": 38406,
+    "domestic_fans": 3000,
+    "international_fans": 9000,
+    "estimated_income": 1658915
+  },
+  {
+    "club_id": 202,
+    "fund": 1500000,
+    "youth_training_level": 4,
+    "favorite_formation": "FORMATION_442",
+    "stadium_size": 40265,
+    "domestic_fans": 3000,
+    "international_fans": 9000,
+    "estimated_income": 1659902
+  },
+  {
+    "club_id": 203,
+    "fund": 1500000,
+    "youth_training_level": 7,
+    "favorite_formation": "FORMATION_442",
+    "stadium_size": 35547,
+    "domestic_fans": 3000,
+    "international_fans": 8000,
+    "estimated_income": 1654982
+  },
+  {
+    "club_id": 204,
+    "fund": 1500000,
+    "youth_training_level": 3,
+    "favorite_formation": "FORMATION_343",
+    "stadium_size": 34114,
+    "domestic_fans": 3000,
+    "international_fans": 8000,
+    "estimated_income": 1653996
+  },
+  {
+    "club_id": 205,
+    "fund": 1500000,
+    "youth_training_level": 6,
+    "favorite_formation": "FORMATION_442",
+    "stadium_size": 35418,
+    "domestic_fans": 3000,
+    "international_fans": 8000,
+    "estimated_income": 1654982
+  },
+  {
+    "club_id": 206,
+    "fund": 1500000,
+    "youth_training_level": 6,
+    "favorite_formation": "FORMATION_442",
+    "stadium_size": 36618,
+    "domestic_fans": 3000,
+    "international_fans": 8000,
+    "estimated_income": 1655969
+  },
+  {
+    "club_id": 207,
+    "fund": 1000000,
+    "youth_training_level": 6,
+    "favorite_formation": "FORMATION_343",
+    "stadium_size": 32689,
+    "domestic_fans": 2000,
+    "international_fans": 7000,
+    "estimated_income": 1218079
+  },
+  {
+    "club_id": 208,
+    "fund": 1000000,
+    "youth_training_level": 2,
+    "favorite_formation": "FORMATION_352",
+    "stadium_size": 30165,
+    "domestic_fans": 2000,
+    "international_fans": 7000,
+    "estimated_income": 1216105
+  },
+  {
+    "club_id": 209,
+    "fund": 1000000,
+    "youth_training_level": 3,
+    "favorite_formation": "FORMATION_433",
+    "stadium_size": 31239,
+    "domestic_fans": 2000,
+    "international_fans": 7000,
+    "estimated_income": 1217092
+  },
+  {
+    "club_id": 210,
+    "fund": 1000000,
+    "youth_training_level": 4,
+    "favorite_formation": "FORMATION_343",
+    "stadium_size": 25649,
+    "domestic_fans": 2000,
+    "international_fans": 6000,
+    "estimated_income": 1212172
+  },
+  {
+    "club_id": 211,
+    "fund": 1000000,
+    "youth_training_level": 4,
+    "favorite_formation": "FORMATION_442",
+    "stadium_size": 26071,
+    "domestic_fans": 2000,
+    "international_fans": 6000,
+    "estimated_income": 1212172
+  },
+  {
+    "club_id": 212,
+    "fund": 1000000,
+    "youth_training_level": 7,
+    "favorite_formation": "FORMATION_433",
+    "stadium_size": 26784,
+    "domestic_fans": 2000,
+    "international_fans": 6000,
+    "estimated_income": 1213159
+  },
+  {
+    "club_id": 213,
+    "fund": 1000000,
+    "youth_training_level": 5,
+    "favorite_formation": "FORMATION_442",
+    "stadium_size": 23004,
+    "domestic_fans": 2000,
+    "international_fans": 5000,
+    "estimated_income": 1209226
+  },
+  {
+    "club_id": 214,
+    "fund": 1000000,
+    "youth_training_level": 4,
+    "favorite_formation": "FORMATION_433",
+    "stadium_size": 17068,
+    "domestic_fans": 2000,
+    "international_fans": 5000,
+    "estimated_income": 1197796
+  },
+  {
+    "club_id": 215,
+    "fund": 500000,
+    "youth_training_level": 7,
+    "favorite_formation": "FORMATION_343",
+    "stadium_size": 16674,
+    "domestic_fans": 1000,
+    "international_fans": 5000,
+    "estimated_income": 762850
+  },
+  {
+    "club_id": 216,
+    "fund": 1000000,
+    "youth_training_level": 2,
+    "favorite_formation": "FORMATION_442",
+    "stadium_size": 18957,
+    "domestic_fans": 2000,
+    "international_fans": 5000,
+    "estimated_income": 1207253
+  },
+  {
+    "club_id": 217,
+    "fund": 20790000,
+    "youth_training_level": 3,
+    "favorite_formation": "FORMATION_442",
+    "stadium_size": 76603,
+    "domestic_fans": 77000,
+    "international_fans": 148000,
+    "estimated_income": 121777300
+  },
+  {
+    "club_id": 218,
+    "fund": 15120000,
+    "youth_training_level": 4,
+    "favorite_formation": "FORMATION_343",
+    "stadium_size": 73875,
+    "domestic_fans": 56000,
+    "international_fans": 85000,
+    "estimated_income": 115424571
+  },
+  {
+    "club_id": 219,
+    "fund": 13500000,
+    "youth_training_level": 6,
+    "favorite_formation": "FORMATION_442",
+    "stadium_size": 72611,
+    "domestic_fans": 50000,
+    "international_fans": 70000,
+    "estimated_income": 28496139
+  },
+  {
+    "club_id": 220,
+    "fund": 9990000,
+    "youth_training_level": 2,
+    "favorite_formation": "FORMATION_442",
+    "stadium_size": 69239,
+    "domestic_fans": 37000,
+    "international_fans": 45000,
+    "estimated_income": 24592939
+  },
+  {
+    "club_id": 221,
+    "fund": 14040000,
+    "youth_training_level": 7,
+    "favorite_formation": "FORMATION_343",
+    "stadium_size": 72997,
+    "domestic_fans": 52000,
+    "international_fans": 74000,
+    "estimated_income": 29082123
+  },
+  {
+    "club_id": 222,
+    "fund": 9990000,
+    "youth_training_level": 5,
+    "favorite_formation": "FORMATION_442",
+    "stadium_size": 69139,
+    "domestic_fans": 37000,
+    "international_fans": 45000,
+    "estimated_income": 13660281
+  },
+  {
+    "club_id": 223,
+    "fund": 9180000,
+    "youth_training_level": 5,
+    "favorite_formation": "FORMATION_343",
+    "stadium_size": 68191,
+    "domestic_fans": 34000,
+    "international_fans": 41000,
+    "estimated_income": 12912152
+  },
+  {
+    "club_id": 224,
+    "fund": 9720000,
+    "youth_training_level": 4,
+    "favorite_formation": "FORMATION_343",
+    "stadium_size": 68593,
+    "domestic_fans": 36000,
+    "international_fans": 42000,
+    "estimated_income": 13399064
+  },
+  {
+    "club_id": 225,
+    "fund": 8100000,
+    "youth_training_level": 5,
+    "favorite_formation": "FORMATION_433",
+    "stadium_size": 66314,
+    "domestic_fans": 30000,
+    "international_fans": 34000,
+    "estimated_income": 11852105
+  },
+  {
+    "club_id": 226,
+    "fund": 8910000,
+    "youth_training_level": 2,
+    "favorite_formation": "FORMATION_451",
+    "stadium_size": 67407,
+    "domestic_fans": 33000,
+    "international_fans": 38000,
+    "estimated_income": 12650935
+  },
+  {
+    "club_id": 227,
+    "fund": 8100000,
+    "youth_training_level": 3,
+    "favorite_formation": "FORMATION_433",
+    "stadium_size": 66388,
+    "domestic_fans": 30000,
+    "international_fans": 34000,
+    "estimated_income": 11852105
+  },
+  {
+    "club_id": 228,
+    "fund": 5670000,
+    "youth_training_level": 2,
+    "favorite_formation": "FORMATION_541",
+    "stadium_size": 60442,
+    "domestic_fans": 21000,
+    "international_fans": 21000,
+    "estimated_income": 9245166
+  },
+  {
+    "club_id": 229,
+    "fund": 4860000,
+    "youth_training_level": 5,
+    "favorite_formation": "FORMATION_541",
+    "stadium_size": 57392,
+    "domestic_fans": 18000,
+    "international_fans": 17000,
+    "estimated_income": 8395633
+  },
+  {
+    "club_id": 230,
+    "fund": 4050000,
+    "youth_training_level": 4,
+    "favorite_formation": "FORMATION_442",
+    "stadium_size": 53622,
+    "domestic_fans": 15000,
+    "international_fans": 14000,
+    "estimated_income": 7553205
+  },
+  {
+    "club_id": 231,
+    "fund": 3510000,
+    "youth_training_level": 7,
+    "favorite_formation": "FORMATION_343",
+    "stadium_size": 50143,
+    "domestic_fans": 13000,
+    "international_fans": 12000,
+    "estimated_income": 7008487
+  },
+  {
+    "club_id": 232,
+    "fund": 3780000,
+    "youth_training_level": 5,
+    "favorite_formation": "FORMATION_442",
+    "stadium_size": 51135,
+    "domestic_fans": 14000,
+    "international_fans": 12000,
+    "estimated_income": 7248391
+  },
+  {
+    "club_id": 233,
+    "fund": 3240000,
+    "youth_training_level": 3,
+    "favorite_formation": "FORMATION_343",
+    "stadium_size": 48081,
+    "domestic_fans": 12000,
+    "international_fans": 11000,
+    "estimated_income": 6647703
+  },
+  {
+    "club_id": 234,
+    "fund": 3510000,
+    "youth_training_level": 5,
+    "favorite_formation": "FORMATION_433",
+    "stadium_size": 50859,
+    "domestic_fans": 13000,
+    "international_fans": 12000,
+    "estimated_income": 7008487
+  },
+  {
+    "club_id": 235,
+    "fund": 2700000,
+    "youth_training_level": 6,
+    "favorite_formation": "FORMATION_433",
+    "stadium_size": 43891,
+    "domestic_fans": 10000,
+    "international_fans": 9000,
+    "estimated_income": 2586679
+  },
+  {
+    "club_id": 236,
+    "fund": 2970000,
+    "youth_training_level": 1,
+    "favorite_formation": "FORMATION_442",
+    "stadium_size": 44821,
+    "domestic_fans": 11000,
+    "international_fans": 9000,
+    "estimated_income": 2823006
+  },
+  {
+    "club_id": 237,
+    "fund": 2430000,
+    "youth_training_level": 1,
+    "favorite_formation": "FORMATION_442",
+    "stadium_size": 39446,
+    "domestic_fans": 9000,
+    "international_fans": 8000,
+    "estimated_income": 2346824
+  },
+  {
+    "club_id": 238,
+    "fund": 2430000,
+    "youth_training_level": 4,
+    "favorite_formation": "FORMATION_343",
+    "stadium_size": 38532,
+    "domestic_fans": 9000,
+    "international_fans": 7000,
+    "estimated_income": 2344994
+  },
+  {
+    "club_id": 239,
+    "fund": 2160000,
+    "youth_training_level": 2,
+    "favorite_formation": "FORMATION_433",
+    "stadium_size": 36130,
+    "domestic_fans": 8000,
+    "international_fans": 7000,
+    "estimated_income": 2106970
+  },
+  {
+    "club_id": 240,
+    "fund": 1890000,
+    "youth_training_level": 1,
+    "favorite_formation": "FORMATION_343",
+    "stadium_size": 33162,
+    "domestic_fans": 7000,
+    "international_fans": 6000,
+    "estimated_income": 1868813
+  },
+  {
+    "club_id": 241,
+    "fund": 2160000,
+    "youth_training_level": 3,
+    "favorite_formation": "FORMATION_433",
+    "stadium_size": 36433,
+    "domestic_fans": 8000,
+    "international_fans": 7000,
+    "estimated_income": 2108668
+  },
+  {
+    "club_id": 242,
+    "fund": 1890000,
+    "youth_training_level": 1,
+    "favorite_formation": "FORMATION_343",
+    "stadium_size": 29523,
+    "domestic_fans": 7000,
+    "international_fans": 5000,
+    "estimated_income": 1863588
+  },
+  {
+    "club_id": 243,
+    "fund": 1890000,
+    "youth_training_level": 4,
+    "favorite_formation": "FORMATION_433",
+    "stadium_size": 30358,
+    "domestic_fans": 7000,
+    "international_fans": 6000,
+    "estimated_income": 1865418
+  },
+  {
+    "club_id": 244,
+    "fund": 1890000,
+    "youth_training_level": 4,
+    "favorite_formation": "FORMATION_442",
+    "stadium_size": 31425,
+    "domestic_fans": 7000,
+    "international_fans": 6000,
+    "estimated_income": 1867116
+  },
+  {
+    "club_id": 245,
+    "fund": 1890000,
+    "youth_training_level": 1,
+    "favorite_formation": "FORMATION_442",
+    "stadium_size": 29976,
+    "domestic_fans": 7000,
+    "international_fans": 6000,
+    "estimated_income": 1865418
+  },
+  {
+    "club_id": 246,
+    "fund": 1620000,
+    "youth_training_level": 4,
+    "favorite_formation": "FORMATION_532",
+    "stadium_size": 28527,
+    "domestic_fans": 6000,
+    "international_fans": 5000,
+    "estimated_income": 1628958
+  },
+  {
+    "club_id": 247,
+    "fund": 1620000,
+    "youth_training_level": 0,
+    "favorite_formation": "FORMATION_442",
+    "stadium_size": 26278,
+    "domestic_fans": 6000,
+    "international_fans": 5000,
+    "estimated_income": 1625563
+  },
+  {
+    "club_id": 248,
+    "fund": 1620000,
+    "youth_training_level": 2,
+    "favorite_formation": "FORMATION_532",
+    "stadium_size": 22883,
+    "domestic_fans": 6000,
+    "international_fans": 4000,
+    "estimated_income": 1622036
+  },
+  {
+    "club_id": 249,
+    "fund": 1620000,
+    "youth_training_level": 3,
+    "favorite_formation": "FORMATION_442",
+    "stadium_size": 24425,
+    "domestic_fans": 6000,
+    "international_fans": 5000,
+    "estimated_income": 1623866
+  },
+  {
+    "club_id": 250,
+    "fund": 1350000,
+    "youth_training_level": 2,
+    "favorite_formation": "FORMATION_451",
+    "stadium_size": 19010,
+    "domestic_fans": 5000,
+    "international_fans": 4000,
+    "estimated_income": 1384011
+  },
+  {
+    "club_id": 251,
+    "fund": 1350000,
+    "youth_training_level": 2,
+    "favorite_formation": "FORMATION_433",
+    "stadium_size": 14453,
+    "domestic_fans": 5000,
+    "international_fans": 4000,
+    "estimated_income": 1374212
+  },
+  {
+    "club_id": 252,
+    "fund": 1350000,
+    "youth_training_level": 0,
+    "favorite_formation": "FORMATION_442_DIAMOND",
+    "stadium_size": 18436,
+    "domestic_fans": 5000,
+    "international_fans": 4000,
+    "estimated_income": 1377607
+  },
+  {
+    "club_id": 253,
+    "fund": 33200000,
+    "youth_training_level": 5,
+    "favorite_formation": "FORMATION_442",
+    "stadium_size": 78511,
+    "domestic_fans": 83000,
+    "international_fans": 222000,
+    "estimated_income": 141475635
+  },
+  {
+    "club_id": 254,
+    "fund": 19600000,
+    "youth_training_level": 8,
+    "favorite_formation": "FORMATION_433",
+    "stadium_size": 74386,
+    "domestic_fans": 49000,
+    "international_fans": 80000,
+    "estimated_income": 122270082
+  },
+  {
+    "club_id": 255,
+    "fund": 14800000,
+    "youth_training_level": 2,
+    "favorite_formation": "FORMATION_442_DIAMOND",
+    "stadium_size": 71397,
+    "domestic_fans": 37000,
+    "international_fans": 51000,
+    "estimated_income": 31579425
+  },
+  {
+    "club_id": 256,
+    "fund": 16400000,
+    "youth_training_level": 9,
+    "favorite_formation": "FORMATION_343",
+    "stadium_size": 72518,
+    "domestic_fans": 41000,
+    "international_fans": 59000,
+    "estimated_income": 33322143
+  },
+  {
+    "club_id": 257,
+    "fund": 10400000,
+    "youth_training_level": 5,
+    "favorite_formation": "FORMATION_433",
+    "stadium_size": 67104,
+    "domestic_fans": 26000,
+    "international_fans": 31000,
+    "estimated_income": 26617402
+  },
+  {
+    "club_id": 258,
+    "fund": 8400000,
+    "youth_training_level": 5,
+    "favorite_formation": "FORMATION_442",
+    "stadium_size": 63966,
+    "domestic_fans": 21000,
+    "international_fans": 24000,
+    "estimated_income": 13430925
+  },
+  {
+    "club_id": 259,
+    "fund": 10000000,
+    "youth_training_level": 8,
+    "favorite_formation": "FORMATION_442",
+    "stadium_size": 66472,
+    "domestic_fans": 25000,
+    "international_fans": 29000,
+    "estimated_income": 15247625
+  },
+  {
+    "club_id": 260,
+    "fund": 6400000,
+    "youth_training_level": 6,
+    "favorite_formation": "FORMATION_433",
+    "stadium_size": 59267,
+    "domestic_fans": 16000,
+    "international_fans": 17000,
+    "estimated_income": 11382041
+  },
+  {
+    "club_id": 261,
+    "fund": 6400000,
+    "youth_training_level": 5,
+    "favorite_formation": "FORMATION_442_DIAMOND",
+    "stadium_size": 58607,
+    "domestic_fans": 16000,
+    "international_fans": 16000,
+    "estimated_income": 11370981
+  },
+  {
+    "club_id": 262,
+    "fund": 5600000,
+    "youth_training_level": 0,
+    "favorite_formation": "FORMATION_442",
+    "stadium_size": 55576,
+    "domestic_fans": 14000,
+    "international_fans": 13000,
+    "estimated_income": 10498104
+  },
+  {
+    "club_id": 263,
+    "fund": 6800000,
+    "youth_training_level": 4,
+    "favorite_formation": "FORMATION_343",
+    "stadium_size": 59377,
+    "domestic_fans": 17000,
+    "international_fans": 17000,
+    "estimated_income": 11738000
+  },
+  {
+    "club_id": 264,
+    "fund": 6000000,
+    "youth_training_level": 7,
+    "favorite_formation": "FORMATION_433",
+    "stadium_size": 57070,
+    "domestic_fans": 15000,
+    "international_fans": 15000,
+    "estimated_income": 10940072
+  },
+  {
+    "club_id": 265,
+    "fund": 5200000,
+    "youth_training_level": 7,
+    "favorite_formation": "FORMATION_442",
+    "stadium_size": 53746,
+    "domestic_fans": 13000,
+    "international_fans": 12000,
+    "estimated_income": 10067195
+  },
+  {
+    "club_id": 266,
+    "fund": 6400000,
+    "youth_training_level": 4,
+    "favorite_formation": "FORMATION_442",
+    "stadium_size": 58325,
+    "domestic_fans": 16000,
+    "international_fans": 16000,
+    "estimated_income": 11370981
+  },
+  {
+    "club_id": 267,
+    "fund": 6400000,
+    "youth_training_level": 6,
+    "favorite_formation": "FORMATION_343",
+    "stadium_size": 58351,
+    "domestic_fans": 16000,
+    "international_fans": 16000,
+    "estimated_income": 11370981
+  },
+  {
+    "club_id": 268,
+    "fund": 4400000,
+    "youth_training_level": 8,
+    "favorite_formation": "FORMATION_442",
+    "stadium_size": 51184,
+    "domestic_fans": 11000,
+    "international_fans": 11000,
+    "estimated_income": 9280326
+  },
+  {
+    "club_id": 269,
+    "fund": 4400000,
+    "youth_training_level": 6,
+    "favorite_formation": "FORMATION_442",
+    "stadium_size": 51207,
+    "domestic_fans": 11000,
+    "international_fans": 11000,
+    "estimated_income": 9280326
+  },
+  {
+    "club_id": 270,
+    "fund": 4000000,
+    "youth_training_level": 4,
+    "favorite_formation": "FORMATION_343",
+    "stadium_size": 48720,
+    "domestic_fans": 10000,
+    "international_fans": 9000,
+    "estimated_income": 8753469
+  },
+  {
+    "club_id": 271,
+    "fund": 3200000,
+    "youth_training_level": 2,
+    "favorite_formation": "FORMATION_442",
+    "stadium_size": 43174,
+    "domestic_fans": 8000,
+    "international_fans": 7000,
+    "estimated_income": 3098035
+  },
+  {
+    "club_id": 272,
+    "fund": 3200000,
+    "youth_training_level": 0,
+    "favorite_formation": "FORMATION_442_DIAMOND",
+    "stadium_size": 43322,
+    "domestic_fans": 8000,
+    "international_fans": 8000,
+    "estimated_income": 3101044
+  },
+  {
+    "club_id": 273,
+    "fund": 2800000,
+    "youth_training_level": 3,
+    "favorite_formation": "FORMATION_442",
+    "stadium_size": 37542,
+    "domestic_fans": 7000,
+    "international_fans": 6000,
+    "estimated_income": 2740733
+  },
+  {
+    "club_id": 274,
+    "fund": 2400000,
+    "youth_training_level": 2,
+    "favorite_formation": "FORMATION_343",
+    "stadium_size": 34761,
+    "domestic_fans": 6000,
+    "international_fans": 5000,
+    "estimated_income": 2387687
+  },
+  {
+    "club_id": 275,
+    "fund": 2400000,
+    "youth_training_level": 2,
+    "favorite_formation": "FORMATION_442",
+    "stadium_size": 34237,
+    "domestic_fans": 6000,
+    "international_fans": 5000,
+    "estimated_income": 2385560
+  },
+  {
+    "club_id": 276,
+    "fund": 2400000,
+    "youth_training_level": 1,
+    "favorite_formation": "FORMATION_343",
+    "stadium_size": 35272,
+    "domestic_fans": 6000,
+    "international_fans": 6000,
+    "estimated_income": 2390697
+  },
+  {
+    "club_id": 277,
+    "fund": 2400000,
+    "youth_training_level": 2,
+    "favorite_formation": "FORMATION_442",
+    "stadium_size": 33913,
+    "domestic_fans": 6000,
+    "international_fans": 5000,
+    "estimated_income": 2385560
+  },
+  {
+    "club_id": 278,
+    "fund": 2400000,
+    "youth_training_level": 0,
+    "favorite_formation": "FORMATION_352",
+    "stadium_size": 32800,
+    "domestic_fans": 6000,
+    "international_fans": 5000,
+    "estimated_income": 2385560
+  },
+  {
+    "club_id": 279,
+    "fund": 2000000,
+    "youth_training_level": 4,
+    "favorite_formation": "FORMATION_433",
+    "stadium_size": 29066,
+    "domestic_fans": 5000,
+    "international_fans": 5000,
+    "estimated_income": 2033395
+  },
+  {
+    "club_id": 280,
+    "fund": 2000000,
+    "youth_training_level": 3,
+    "favorite_formation": "FORMATION_442",
+    "stadium_size": 28133,
+    "domestic_fans": 5000,
+    "international_fans": 4000,
+    "estimated_income": 2028259
+  },
+  {
+    "club_id": 281,
+    "fund": 2000000,
+    "youth_training_level": 5,
+    "favorite_formation": "FORMATION_442",
+    "stadium_size": 24709,
+    "domestic_fans": 5000,
+    "international_fans": 4000,
+    "estimated_income": 2026132
+  },
+  {
+    "club_id": 282,
+    "fund": 1600000,
+    "youth_training_level": 2,
+    "favorite_formation": "FORMATION_343",
+    "stadium_size": 21803,
+    "domestic_fans": 4000,
+    "international_fans": 4000,
+    "estimated_income": 1673968
+  },
+  {
+    "club_id": 283,
+    "fund": 2000000,
+    "youth_training_level": 5,
+    "favorite_formation": "FORMATION_532",
+    "stadium_size": 23236,
+    "domestic_fans": 5000,
+    "international_fans": 4000,
+    "estimated_income": 2024005
+  },
+  {
+    "club_id": 284,
+    "fund": 1600000,
+    "youth_training_level": 0,
+    "favorite_formation": "FORMATION_343",
+    "stadium_size": 21079,
+    "domestic_fans": 4000,
+    "international_fans": 4000,
+    "estimated_income": 1673968
+  },
+  {
+    "club_id": 285,
+    "fund": 1600000,
+    "youth_training_level": 4,
+    "favorite_formation": "FORMATION_433",
+    "stadium_size": 15509,
+    "domestic_fans": 4000,
+    "international_fans": 3000,
+    "estimated_income": 1658241
+  },
+  {
+    "club_id": 286,
+    "fund": 1600000,
+    "youth_training_level": 6,
+    "favorite_formation": "FORMATION_433",
+    "stadium_size": 18978,
+    "domestic_fans": 4000,
+    "international_fans": 3000,
+    "estimated_income": 1668830
+  },
+  {
+    "club_id": 287,
+    "fund": 1600000,
+    "youth_training_level": 3,
+    "favorite_formation": "FORMATION_433",
+    "stadium_size": 17810,
+    "domestic_fans": 4000,
+    "international_fans": 3000,
+    "estimated_income": 1660368
+  },
+  {
+    "club_id": 288,
+    "fund": 1600000,
+    "youth_training_level": 3,
+    "favorite_formation": "FORMATION_442",
+    "stadium_size": 13227,
+    "domestic_fans": 4000,
+    "international_fans": 3000,
+    "estimated_income": 1656114
+  },
+  {
+    "club_id": 289,
+    "fund": 22950000,
+    "youth_training_level": 0,
+    "favorite_formation": "FORMATION_343",
+    "stadium_size": 79823,
+    "domestic_fans": 51000,
+    "international_fans": 341000,
+    "estimated_income": 131245879
+  },
+  {
+    "club_id": 290,
+    "fund": 9900000,
+    "youth_training_level": 5,
+    "favorite_formation": "FORMATION_442",
+    "stadium_size": 73356,
+    "domestic_fans": 22000,
+    "international_fans": 59000,
+    "estimated_income": 109556922
+  },
+  {
+    "club_id": 291,
+    "fund": 7200000,
+    "youth_training_level": 1,
+    "favorite_formation": "FORMATION_343",
+    "stadium_size": 69535,
+    "domestic_fans": 16000,
+    "international_fans": 35000,
+    "estimated_income": 25241182
+  },
+  {
+    "club_id": 292,
+    "fund": 6750000,
+    "youth_training_level": 0,
+    "favorite_formation": "FORMATION_442",
+    "stadium_size": 68947,
+    "domestic_fans": 15000,
+    "international_fans": 33000,
+    "estimated_income": 24742295
+  },
+  {
+    "club_id": 293,
+    "fund": 6300000,
+    "youth_training_level": 1,
+    "favorite_formation": "FORMATION_433",
+    "stadium_size": 67875,
+    "domestic_fans": 14000,
+    "international_fans": 29000,
+    "estimated_income": 10150415
+  },
+  {
+    "club_id": 294,
+    "fund": 4950000,
+    "youth_training_level": 5,
+    "favorite_formation": "FORMATION_442",
+    "stadium_size": 64194,
+    "domestic_fans": 11000,
+    "international_fans": 21000,
+    "estimated_income": 8670002
+  },
+  {
+    "club_id": 295,
+    "fund": 4500000,
+    "youth_training_level": 3,
+    "favorite_formation": "FORMATION_442",
+    "stadium_size": 63086,
+    "domestic_fans": 10000,
+    "international_fans": 19000,
+    "estimated_income": 8235914
+  },
+  {
+    "club_id": 296,
+    "fund": 3600000,
+    "youth_training_level": 2,
+    "favorite_formation": "FORMATION_343",
+    "stadium_size": 58754,
+    "domestic_fans": 8000,
+    "international_fans": 14000,
+    "estimated_income": 7361471
+  },
+  {
+    "club_id": 297,
+    "fund": 3150000,
+    "youth_training_level": 0,
+    "favorite_formation": "FORMATION_352",
+    "stadium_size": 57096,
+    "domestic_fans": 7000,
+    "international_fans": 13000,
+    "estimated_income": 6933652
+  },
+  {
+    "club_id": 298,
+    "fund": 3150000,
+    "youth_training_level": 0,
+    "favorite_formation": "FORMATION_451",
+    "stadium_size": 57896,
+    "domestic_fans": 7000,
+    "international_fans": 13000,
+    "estimated_income": 6960494
+  },
+  {
+    "club_id": 299,
+    "fund": 2700000,
+    "youth_training_level": 0,
+    "favorite_formation": "FORMATION_451",
+    "stadium_size": 54518,
+    "domestic_fans": 6000,
+    "international_fans": 11000,
+    "estimated_income": 6499565
+  },
+  {
+    "club_id": 300,
+    "fund": 2700000,
+    "youth_training_level": 5,
+    "favorite_formation": "FORMATION_442",
+    "stadium_size": 52059,
+    "domestic_fans": 6000,
+    "international_fans": 10000,
+    "estimated_income": 6466454
+  },
+  {
+    "club_id": 301,
+    "fund": 2250000,
+    "youth_training_level": 1,
+    "favorite_formation": "FORMATION_343",
+    "stadium_size": 50637,
+    "domestic_fans": 5000,
+    "international_fans": 9000,
+    "estimated_income": 6038635
+  },
+  {
+    "club_id": 302,
+    "fund": 2700000,
+    "youth_training_level": 0,
+    "favorite_formation": "FORMATION_451",
+    "stadium_size": 53250,
+    "domestic_fans": 6000,
+    "international_fans": 10000,
+    "estimated_income": 6466454
+  },
+  {
+    "club_id": 303,
+    "fund": 2250000,
+    "youth_training_level": 1,
+    "favorite_formation": "FORMATION_442",
+    "stadium_size": 50762,
+    "domestic_fans": 5000,
+    "international_fans": 9000,
+    "estimated_income": 6038635
+  },
+  {
+    "club_id": 304,
+    "fund": 2250000,
+    "youth_training_level": 2,
+    "favorite_formation": "FORMATION_442",
+    "stadium_size": 48328,
+    "domestic_fans": 5000,
+    "international_fans": 8000,
+    "estimated_income": 5945828
+  },
+  {
+    "club_id": 305,
+    "fund": 2250000,
+    "youth_training_level": 0,
+    "favorite_formation": "FORMATION_442",
+    "stadium_size": 47783,
+    "domestic_fans": 5000,
+    "international_fans": 8000,
+    "estimated_income": 5918986
+  },
+  {
+    "club_id": 306,
+    "fund": 2250000,
+    "youth_training_level": 5,
+    "favorite_formation": "FORMATION_442",
+    "stadium_size": 49842,
+    "domestic_fans": 5000,
+    "international_fans": 9000,
+    "estimated_income": 5952096
+  },
+  {
+    "club_id": 307,
+    "fund": 1800000,
+    "youth_training_level": 1,
+    "favorite_formation": "FORMATION_433",
+    "stadium_size": 44998,
+    "domestic_fans": 4000,
+    "international_fans": 7000,
+    "estimated_income": 1781383
+  },
+  {
+    "club_id": 308,
+    "fund": 1800000,
+    "youth_training_level": 2,
+    "favorite_formation": "FORMATION_442",
+    "stadium_size": 40363,
+    "domestic_fans": 4000,
+    "international_fans": 6000,
+    "estimated_income": 1777195
+  },
+  {
+    "club_id": 309,
+    "fund": 1800000,
+    "youth_training_level": 2,
+    "favorite_formation": "FORMATION_433",
+    "stadium_size": 44567,
+    "domestic_fans": 4000,
+    "international_fans": 7000,
+    "estimated_income": 1781383
+  },
+  {
+    "club_id": 310,
+    "fund": 1800000,
+    "youth_training_level": 5,
+    "favorite_formation": "FORMATION_442",
+    "stadium_size": 40404,
+    "domestic_fans": 4000,
+    "international_fans": 6000,
+    "estimated_income": 1777195
+  },
+  {
+    "club_id": 311,
+    "fund": 1800000,
+    "youth_training_level": 4,
+    "favorite_formation": "FORMATION_442",
+    "stadium_size": 40619,
+    "domestic_fans": 4000,
+    "international_fans": 6000,
+    "estimated_income": 1777195
+  },
+  {
+    "club_id": 312,
+    "fund": 1350000,
+    "youth_training_level": 0,
+    "favorite_formation": "FORMATION_442_DIAMOND",
+    "stadium_size": 38654,
+    "domestic_fans": 3000,
+    "international_fans": 5000,
+    "estimated_income": 1383398
+  },
+  {
+    "club_id": 313,
+    "fund": 1350000,
+    "youth_training_level": 4,
+    "favorite_formation": "FORMATION_433",
+    "stadium_size": 36368,
+    "domestic_fans": 3000,
+    "international_fans": 5000,
+    "estimated_income": 1382392
+  },
+  {
+    "club_id": 314,
+    "fund": 1350000,
+    "youth_training_level": 2,
+    "favorite_formation": "FORMATION_442",
+    "stadium_size": 35540,
+    "domestic_fans": 3000,
+    "international_fans": 5000,
+    "estimated_income": 1381385
+  },
+  {
+    "club_id": 315,
+    "fund": 1350000,
+    "youth_training_level": 2,
+    "favorite_formation": "FORMATION_442",
+    "stadium_size": 36246,
+    "domestic_fans": 3000,
+    "international_fans": 5000,
+    "estimated_income": 1381385
+  },
+  {
+    "club_id": 316,
+    "fund": 1350000,
+    "youth_training_level": 2,
+    "favorite_formation": "FORMATION_541",
+    "stadium_size": 30470,
+    "domestic_fans": 3000,
+    "international_fans": 4000,
+    "estimated_income": 1377197
+  },
+  {
+    "club_id": 317,
+    "fund": 900000,
+    "youth_training_level": 2,
+    "favorite_formation": "FORMATION_451",
+    "stadium_size": 28912,
+    "domestic_fans": 2000,
+    "international_fans": 4000,
+    "estimated_income": 985575
+  },
+  {
+    "club_id": 318,
+    "fund": 900000,
+    "youth_training_level": 0,
+    "favorite_formation": "FORMATION_442_DIAMOND",
+    "stadium_size": 28678,
+    "domestic_fans": 2000,
+    "international_fans": 4000,
+    "estimated_income": 985575
+  },
+  {
+    "club_id": 319,
+    "fund": 900000,
+    "youth_training_level": 0,
+    "favorite_formation": "FORMATION_442",
+    "stadium_size": 27174,
+    "domestic_fans": 2000,
+    "international_fans": 4000,
+    "estimated_income": 984569
+  },
+  {
+    "club_id": 320,
+    "fund": 900000,
+    "youth_training_level": 3,
+    "favorite_formation": "FORMATION_442",
+    "stadium_size": 25500,
+    "domestic_fans": 2000,
+    "international_fans": 3000,
+    "estimated_income": 981387
+  },
+  {
+    "club_id": 321,
+    "fund": 900000,
+    "youth_training_level": 0,
+    "favorite_formation": "FORMATION_532",
+    "stadium_size": 25533,
+    "domestic_fans": 2000,
+    "international_fans": 4000,
+    "estimated_income": 983562
+  },
+  {
+    "club_id": 322,
+    "fund": 900000,
+    "youth_training_level": 0,
+    "favorite_formation": "FORMATION_442",
+    "stadium_size": 19166,
+    "domestic_fans": 2000,
+    "international_fans": 3000,
+    "estimated_income": 978367
+  },
+  {
+    "club_id": 323,
+    "fund": 900000,
+    "youth_training_level": 1,
+    "favorite_formation": "FORMATION_442",
+    "stadium_size": 15430,
+    "domestic_fans": 2000,
+    "international_fans": 3000,
+    "estimated_income": 971899
+  },
+  {
+    "club_id": 324,
+    "fund": 900000,
+    "youth_training_level": 1,
+    "favorite_formation": "FORMATION_442",
+    "stadium_size": 14141,
+    "domestic_fans": 2000,
+    "international_fans": 3000,
+    "estimated_income": 970893
+  },
+  {
+    "club_id": 325,
+    "fund": 7000000,
+    "youth_training_level": 6,
+    "favorite_formation": "FORMATION_343",
+    "stadium_size": 77018,
+    "domestic_fans": 50000,
+    "international_fans": 108000,
+    "estimated_income": 105337198
+  },
+  {
+    "club_id": 326,
+    "fund": 4200000,
+    "youth_training_level": 0,
+    "favorite_formation": "FORMATION_442_DIAMOND",
+    "stadium_size": 72347,
+    "domestic_fans": 30000,
+    "international_fans": 44000,
+    "estimated_income": 101350051
+  },
+  {
+    "club_id": 327,
+    "fund": 2800000,
+    "youth_training_level": 6,
+    "favorite_formation": "FORMATION_343",
+    "stadium_size": 67346,
+    "domestic_fans": 20000,
+    "international_fans": 25000,
+    "estimated_income": 18932731
+  },
+  {
+    "club_id": 328,
+    "fund": 2240000,
+    "youth_training_level": 1,
+    "favorite_formation": "FORMATION_442_DIAMOND",
+    "stadium_size": 64158,
+    "domestic_fans": 16000,
+    "international_fans": 18000,
+    "estimated_income": 18128785
+  },
+  {
+    "club_id": 329,
+    "fund": 2800000,
+    "youth_training_level": 3,
+    "favorite_formation": "FORMATION_442",
+    "stadium_size": 66996,
+    "domestic_fans": 20000,
+    "international_fans": 24000,
+    "estimated_income": 5321195
+  },
+  {
+    "club_id": 330,
+    "fund": 2100000,
+    "youth_training_level": 0,
+    "favorite_formation": "FORMATION_343",
+    "stadium_size": 62467,
+    "domestic_fans": 15000,
+    "international_fans": 16000,
+    "estimated_income": 4431910
+  },
+  {
+    "club_id": 331,
+    "fund": 2380000,
+    "youth_training_level": 3,
+    "favorite_formation": "FORMATION_343",
+    "stadium_size": 65127,
+    "domestic_fans": 17000,
+    "international_fans": 20000,
+    "estimated_income": 4751381
+  },
+  {
+    "club_id": 332,
+    "fund": 1819999,
+    "youth_training_level": 2,
+    "favorite_formation": "FORMATION_433",
+    "stadium_size": 60875,
+    "domestic_fans": 13000,
+    "international_fans": 14000,
+    "estimated_income": 4128917
+  },
+  {
+    "club_id": 333,
+    "fund": 2240000,
+    "youth_training_level": 1,
+    "favorite_formation": "FORMATION_442",
+    "stadium_size": 64015,
+    "domestic_fans": 16000,
+    "international_fans": 18000,
+    "estimated_income": 4606127
+  },
+  {
+    "club_id": 334,
+    "fund": 1400000,
+    "youth_training_level": 0,
+    "favorite_formation": "FORMATION_451",
+    "stadium_size": 55964,
+    "domestic_fans": 10000,
+    "international_fans": 10000,
+    "estimated_income": 3651707
+  },
+  {
+    "club_id": 335,
+    "fund": 1680000,
+    "youth_training_level": 0,
+    "favorite_formation": "FORMATION_442",
+    "stadium_size": 59019,
+    "domestic_fans": 12000,
+    "international_fans": 13000,
+    "estimated_income": 3962939
+  },
+  {
+    "club_id": 336,
+    "fund": 1680000,
+    "youth_training_level": 1,
+    "favorite_formation": "FORMATION_433",
+    "stadium_size": 59059,
+    "domestic_fans": 12000,
+    "international_fans": 13000,
+    "estimated_income": 3962939
+  },
+  {
+    "club_id": 337,
+    "fund": 1400000,
+    "youth_training_level": 6,
+    "favorite_formation": "FORMATION_442",
+    "stadium_size": 55871,
+    "domestic_fans": 10000,
+    "international_fans": 10000,
+    "estimated_income": 3651707
+  },
+  {
+    "club_id": 338,
+    "fund": 1400000,
+    "youth_training_level": 1,
+    "favorite_formation": "FORMATION_433",
+    "stadium_size": 54345,
+    "domestic_fans": 10000,
+    "international_fans": 10000,
+    "estimated_income": 3622745
+  },
+  {
+    "club_id": 339,
+    "fund": 1120000,
+    "youth_training_level": 0,
+    "favorite_formation": "FORMATION_442_DIAMOND",
+    "stadium_size": 49638,
+    "domestic_fans": 8000,
+    "international_fans": 7000,
+    "estimated_income": 3215881
+  },
+  {
+    "club_id": 340,
+    "fund": 1260000,
+    "youth_training_level": 0,
+    "favorite_formation": "FORMATION_442",
+    "stadium_size": 52422,
+    "domestic_fans": 9000,
+    "international_fans": 9000,
+    "estimated_income": 3456748
+  },
+  {
+    "club_id": 341,
+    "fund": 979999,
+    "youth_training_level": 0,
+    "favorite_formation": "FORMATION_433",
+    "stadium_size": 47234,
+    "domestic_fans": 7000,
+    "international_fans": 7000,
+    "estimated_income": 3058141
+  },
+  {
+    "club_id": 342,
+    "fund": 1120000,
+    "youth_training_level": 3,
+    "favorite_formation": "FORMATION_451",
+    "stadium_size": 50792,
+    "domestic_fans": 8000,
+    "international_fans": 8000,
+    "estimated_income": 3290787
+  },
+  {
+    "club_id": 343,
+    "fund": 840000,
+    "youth_training_level": 0,
+    "favorite_formation": "FORMATION_442",
+    "stadium_size": 40931,
+    "domestic_fans": 6000,
+    "international_fans": 5000,
+    "estimated_income": 893765
+  },
+  {
+    "club_id": 344,
+    "fund": 700000,
+    "youth_training_level": 0,
+    "favorite_formation": "FORMATION_442",
+    "stadium_size": 39241,
+    "domestic_fans": 5000,
+    "international_fans": 5000,
+    "estimated_income": 769935
+  },
+  {
+    "club_id": 345,
+    "fund": 840000,
+    "youth_training_level": 2,
+    "favorite_formation": "FORMATION_433",
+    "stadium_size": 42804,
+    "domestic_fans": 6000,
+    "international_fans": 6000,
+    "estimated_income": 897056
+  },
+  {
+    "club_id": 346,
+    "fund": 700000,
+    "youth_training_level": 3,
+    "favorite_formation": "FORMATION_442",
+    "stadium_size": 38282,
+    "domestic_fans": 5000,
+    "international_fans": 5000,
+    "estimated_income": 769935
+  },
+  {
+    "club_id": 347,
+    "fund": 700000,
+    "youth_training_level": 0,
+    "favorite_formation": "FORMATION_442",
+    "stadium_size": 38303,
+    "domestic_fans": 5000,
+    "international_fans": 5000,
+    "estimated_income": 769935
+  },
+  {
+    "club_id": 348,
+    "fund": 700000,
+    "youth_training_level": 2,
+    "favorite_formation": "FORMATION_433",
+    "stadium_size": 38957,
+    "domestic_fans": 5000,
+    "international_fans": 5000,
+    "estimated_income": 769935
+  },
+  {
+    "club_id": 349,
+    "fund": 700000,
+    "youth_training_level": 2,
+    "favorite_formation": "FORMATION_343",
+    "stadium_size": 36884,
+    "domestic_fans": 5000,
+    "international_fans": 4000,
+    "estimated_income": 766645
+  },
+  {
+    "club_id": 350,
+    "fund": 700000,
+    "youth_training_level": 0,
+    "favorite_formation": "FORMATION_343",
+    "stadium_size": 35169,
+    "domestic_fans": 5000,
+    "international_fans": 4000,
+    "estimated_income": 765447
+  },
+  {
+    "club_id": 351,
+    "fund": 560000,
+    "youth_training_level": 3,
+    "favorite_formation": "FORMATION_352",
+    "stadium_size": 31279,
+    "domestic_fans": 4000,
+    "international_fans": 4000,
+    "estimated_income": 640419
+  },
+  {
+    "club_id": 352,
+    "fund": 700000,
+    "youth_training_level": 1,
+    "favorite_formation": "FORMATION_442",
+    "stadium_size": 37793,
+    "domestic_fans": 5000,
+    "international_fans": 5000,
+    "estimated_income": 768738
+  },
+  {
+    "club_id": 353,
+    "fund": 560000,
+    "youth_training_level": 0,
+    "favorite_formation": "FORMATION_451",
+    "stadium_size": 28211,
+    "domestic_fans": 4000,
+    "international_fans": 3000,
+    "estimated_income": 635933
+  },
+  {
+    "club_id": 354,
+    "fund": 560000,
+    "youth_training_level": 3,
+    "favorite_formation": "FORMATION_433",
+    "stadium_size": 29775,
+    "domestic_fans": 4000,
+    "international_fans": 3000,
+    "estimated_income": 637130
+  },
+  {
+    "club_id": 355,
+    "fund": 560000,
+    "youth_training_level": 3,
+    "favorite_formation": "FORMATION_442",
+    "stadium_size": 26266,
+    "domestic_fans": 4000,
+    "international_fans": 3000,
+    "estimated_income": 634735
+  },
+  {
+    "club_id": 356,
+    "fund": 420000,
+    "youth_training_level": 0,
+    "favorite_formation": "FORMATION_343",
+    "stadium_size": 24007,
+    "domestic_fans": 3000,
+    "international_fans": 3000,
+    "estimated_income": 510905
+  },
+  {
+    "club_id": 357,
+    "fund": 420000,
+    "youth_training_level": 3,
+    "favorite_formation": "FORMATION_442",
+    "stadium_size": 22901,
+    "domestic_fans": 3000,
+    "international_fans": 3000,
+    "estimated_income": 510905
+  },
+  {
+    "club_id": 358,
+    "fund": 420000,
+    "youth_training_level": 3,
+    "favorite_formation": "FORMATION_442",
+    "stadium_size": 17291,
+    "domestic_fans": 3000,
+    "international_fans": 2000,
+    "estimated_income": 502406
+  },
+  {
+    "club_id": 359,
+    "fund": 420000,
+    "youth_training_level": 1,
+    "favorite_formation": "FORMATION_532",
+    "stadium_size": 15820,
+    "domestic_fans": 3000,
+    "international_fans": 2000,
+    "estimated_income": 501209
+  },
+  {
+    "club_id": 360,
+    "fund": 420000,
+    "youth_training_level": 3,
+    "favorite_formation": "FORMATION_451",
+    "stadium_size": 13225,
+    "domestic_fans": 3000,
+    "international_fans": 2000,
+    "estimated_income": 500011
+  },
+  {
+    "club_id": 361,
+    "fund": 7629600,
+    "youth_training_level": 0,
+    "favorite_formation": "FORMATION_442",
+    "stadium_size": 76296,
+    "domestic_fans": 805000,
+    "international_fans": 81000,
+    "estimated_income": 112825766
+  },
+  {
+    "club_id": 362,
+    "fund": 5120000,
+    "youth_training_level": 4,
+    "favorite_formation": "FORMATION_343",
+    "stadium_size": 71936,
+    "domestic_fans": 512000,
+    "international_fans": 37000,
+    "estimated_income": 107389790
+  },
+  {
+    "club_id": 363,
+    "fund": 3810000,
+    "youth_training_level": 1,
+    "favorite_formation": "FORMATION_343",
+    "stadium_size": 68302,
+    "domestic_fans": 381000,
+    "international_fans": 24000,
+    "estimated_income": 24405728
+  },
+  {
+    "club_id": 364,
+    "fund": 4660000,
+    "youth_training_level": 2,
+    "favorite_formation": "FORMATION_343",
+    "stadium_size": 70856,
+    "domestic_fans": 466000,
+    "international_fans": 32000,
+    "estimated_income": 25851994
+  },
+  {
+    "club_id": 365,
+    "fund": 2590000,
+    "youth_training_level": 0,
+    "favorite_formation": "FORMATION_433",
+    "stadium_size": 62290,
+    "domestic_fans": 259000,
+    "international_fans": 14000,
+    "estimated_income": 8245615
+  },
+  {
+    "club_id": 366,
+    "fund": 3040000,
+    "youth_training_level": 2,
+    "favorite_formation": "FORMATION_433",
+    "stadium_size": 64975,
+    "domestic_fans": 304000,
+    "international_fans": 18000,
+    "estimated_income": 9014352
+  },
+  {
+    "club_id": 367,
+    "fund": 2520000,
+    "youth_training_level": 1,
+    "favorite_formation": "FORMATION_442_DIAMOND",
+    "stadium_size": 61793,
+    "domestic_fans": 252000,
+    "international_fans": 14000,
+    "estimated_income": 8151896
+  },
+  {
+    "club_id": 368,
+    "fund": 2430000,
+    "youth_training_level": 1,
+    "favorite_formation": "FORMATION_352",
+    "stadium_size": 61197,
+    "domestic_fans": 243000,
+    "international_fans": 13000,
+    "estimated_income": 7879835
+  },
+  {
+    "club_id": 369,
+    "fund": 2070000,
+    "youth_training_level": 2,
+    "favorite_formation": "FORMATION_442",
+    "stadium_size": 58061,
+    "domestic_fans": 207000,
+    "international_fans": 11000,
+    "estimated_income": 7241389
+  },
+  {
+    "club_id": 370,
+    "fund": 1940000,
+    "youth_training_level": 0,
+    "favorite_formation": "FORMATION_352",
+    "stadium_size": 56667,
+    "domestic_fans": 194000,
+    "international_fans": 10000,
+    "estimated_income": 6915776
+  },
+  {
+    "club_id": 371,
+    "fund": 1860000,
+    "youth_training_level": 2,
+    "favorite_formation": "FORMATION_343",
+    "stadium_size": 55839,
+    "domestic_fans": 186000,
+    "international_fans": 9000,
+    "estimated_income": 6803770
+  },
+  {
+    "club_id": 372,
+    "fund": 2150000,
+    "youth_training_level": 0,
+    "favorite_formation": "FORMATION_442",
+    "stadium_size": 58842,
+    "domestic_fans": 215000,
+    "international_fans": 11000,
+    "estimated_income": 7348496
+  },
+  {
+    "club_id": 373,
+    "fund": 1780000,
+    "youth_training_level": 5,
+    "favorite_formation": "FORMATION_343",
+    "stadium_size": 54811,
+    "domestic_fans": 178000,
+    "international_fans": 9000,
+    "estimated_income": 6549996
+  },
+  {
+    "club_id": 374,
+    "fund": 1850000,
+    "youth_training_level": 5,
+    "favorite_formation": "FORMATION_442",
+    "stadium_size": 55724,
+    "domestic_fans": 185000,
+    "international_fans": 9000,
+    "estimated_income": 6790382
+  },
+  {
+    "club_id": 375,
+    "fund": 1700000,
+    "youth_training_level": 1,
+    "favorite_formation": "FORMATION_343",
+    "stadium_size": 53739,
+    "domestic_fans": 170000,
+    "international_fans": 8000,
+    "estimated_income": 6291324
+  },
+  {
+    "club_id": 376,
+    "fund": 1810000,
+    "youth_training_level": 3,
+    "favorite_formation": "FORMATION_442",
+    "stadium_size": 55224,
+    "domestic_fans": 181000,
+    "international_fans": 9000,
+    "estimated_income": 6590161
+  },
+  {
+    "club_id": 377,
+    "fund": 1440000,
+    "youth_training_level": 4,
+    "favorite_formation": "FORMATION_433",
+    "stadium_size": 49623,
+    "domestic_fans": 144000,
+    "international_fans": 7000,
+    "estimated_income": 5555348
+  },
+  {
+    "club_id": 378,
+    "fund": 1340000,
+    "youth_training_level": 1,
+    "favorite_formation": "FORMATION_451",
+    "stadium_size": 47746,
+    "domestic_fans": 134000,
+    "international_fans": 6000,
+    "estimated_income": 5269899
+  },
+  {
+    "club_id": 379,
+    "fund": 1030000,
+    "youth_training_level": 0,
+    "favorite_formation": "FORMATION_442_DIAMOND",
+    "stadium_size": 39865,
+    "domestic_fans": 103000,
+    "international_fans": 4000,
+    "estimated_income": 1331039
+  },
+  {
+    "club_id": 380,
+    "fund": 980000,
+    "youth_training_level": 0,
+    "favorite_formation": "FORMATION_442",
+    "stadium_size": 38205,
+    "domestic_fans": 98000,
+    "international_fans": 4000,
+    "estimated_income": 1283975
+  },
+  {
+    "club_id": 381,
+    "fund": 1050000,
+    "youth_training_level": 0,
+    "favorite_formation": "FORMATION_442_DIAMOND",
+    "stadium_size": 40681,
+    "domestic_fans": 105000,
+    "international_fans": 4000,
+    "estimated_income": 1355580
+  },
+  {
+    "club_id": 382,
+    "fund": 1020000,
+    "youth_training_level": 0,
+    "favorite_formation": "FORMATION_451",
+    "stadium_size": 39615,
+    "domestic_fans": 102000,
+    "international_fans": 4000,
+    "estimated_income": 1321626
+  },
+  {
+    "club_id": 383,
+    "fund": 810000,
+    "youth_training_level": 0,
+    "favorite_formation": "FORMATION_343",
+    "stadium_size": 31675,
+    "domestic_fans": 81000,
+    "international_fans": 3000,
+    "estimated_income": 1100175
+  },
+  {
+    "club_id": 384,
+    "fund": 790000,
+    "youth_training_level": 0,
+    "favorite_formation": "FORMATION_343",
+    "stadium_size": 30810,
+    "domestic_fans": 79000,
+    "international_fans": 3000,
+    "estimated_income": 1081350
+  },
+  {
+    "club_id": 385,
+    "fund": 880000,
+    "youth_training_level": 0,
+    "favorite_formation": "FORMATION_442",
+    "stadium_size": 34511,
+    "domestic_fans": 88000,
+    "international_fans": 4000,
+    "estimated_income": 1178417
+  },
+  {
+    "club_id": 386,
+    "fund": 680000,
+    "youth_training_level": 2,
+    "favorite_formation": "FORMATION_343",
+    "stadium_size": 24379,
+    "domestic_fans": 68000,
+    "international_fans": 3000,
+    "estimated_income": 954949
+  },
+  {
+    "club_id": 387,
+    "fund": 620000,
+    "youth_training_level": 0,
+    "favorite_formation": "FORMATION_343",
+    "stadium_size": 20481,
+    "domestic_fans": 62000,
+    "international_fans": 2000,
+    "estimated_income": 886119
+  },
+  {
+    "club_id": 388,
+    "fund": 670000,
+    "youth_training_level": 2,
+    "favorite_formation": "FORMATION_352",
+    "stadium_size": 23696,
+    "domestic_fans": 67000,
+    "international_fans": 2000,
+    "estimated_income": 944613
+  },
+  {
+    "club_id": 389,
+    "fund": 650000,
+    "youth_training_level": 1,
+    "favorite_formation": "FORMATION_442",
+    "stadium_size": 22676,
+    "domestic_fans": 65000,
+    "international_fans": 2000,
+    "estimated_income": 925787
+  },
+  {
+    "club_id": 390,
+    "fund": 550000,
+    "youth_training_level": 0,
+    "favorite_formation": "FORMATION_442",
+    "stadium_size": 15178,
+    "domestic_fans": 55000,
+    "international_fans": 2000,
+    "estimated_income": 802109
+  },
+  {
+    "club_id": 391,
+    "fund": 570000,
+    "youth_training_level": 0,
+    "favorite_formation": "FORMATION_442",
+    "stadium_size": 16429,
+    "domestic_fans": 57000,
+    "international_fans": 2000,
+    "estimated_income": 820935
+  },
+  {
+    "club_id": 392,
+    "fund": 580000,
+    "youth_training_level": 0,
+    "favorite_formation": "FORMATION_442",
+    "stadium_size": 17807,
+    "domestic_fans": 58000,
+    "international_fans": 2000,
+    "estimated_income": 836063
+  },
+  {
+    "club_id": 393,
+    "fund": 540000,
+    "youth_training_level": 1,
+    "favorite_formation": "FORMATION_343",
+    "stadium_size": 14357,
+    "domestic_fans": 54000,
+    "international_fans": 2000,
+    "estimated_income": 786981
+  },
+  {
+    "club_id": 394,
+    "fund": 540000,
+    "youth_training_level": 1,
+    "favorite_formation": "FORMATION_343",
+    "stadium_size": 14319,
+    "domestic_fans": 54000,
+    "international_fans": 2000,
+    "estimated_income": 786981
+  },
+  {
+    "club_id": 395,
+    "fund": 530000,
+    "youth_training_level": 2,
+    "favorite_formation": "FORMATION_442",
+    "stadium_size": 12884,
+    "domestic_fans": 53000,
+    "international_fans": 2000,
+    "estimated_income": 771853
+  },
+  {
+    "club_id": 396,
+    "fund": 540000,
+    "youth_training_level": 0,
+    "favorite_formation": "FORMATION_433",
+    "stadium_size": 14366,
+    "domestic_fans": 54000,
+    "international_fans": 2000,
+    "estimated_income": 786981
+  },
+  {
+    "club_id": 397,
+    "fund": 4525000,
+    "youth_training_level": 2,
+    "favorite_formation": "FORMATION_442",
+    "stadium_size": 79888,
+    "domestic_fans": 362000,
+    "international_fans": 249000,
+    "estimated_income": 113176060
+  },
+  {
+    "club_id": 398,
+    "fund": 3737500,
+    "youth_training_level": 1,
+    "favorite_formation": "FORMATION_343",
+    "stadium_size": 78702,
+    "domestic_fans": 299000,
+    "international_fans": 146000,
+    "estimated_income": 107404613
+  },
+  {
+    "club_id": 399,
+    "fund": 2737500,
+    "youth_training_level": 0,
+    "favorite_formation": "FORMATION_433",
+    "stadium_size": 76400,
+    "domestic_fans": 219000,
+    "international_fans": 74000,
+    "estimated_income": 22470137
+  },
+  {
+    "club_id": 400,
+    "fund": 1450000,
+    "youth_training_level": 2,
+    "favorite_formation": "FORMATION_442",
+    "stadium_size": 69959,
+    "domestic_fans": 116000,
+    "international_fans": 26000,
+    "estimated_income": 19517984
+  },
+  {
+    "club_id": 401,
+    "fund": 1775000,
+    "youth_training_level": 5,
+    "favorite_formation": "FORMATION_442",
+    "stadium_size": 72311,
+    "domestic_fans": 142000,
+    "international_fans": 35000,
+    "estimated_income": 6644011
+  },
+  {
+    "club_id": 402,
+    "fund": 1962500,
+    "youth_training_level": 5,
+    "favorite_formation": "FORMATION_442",
+    "stadium_size": 73359,
+    "domestic_fans": 157000,
+    "international_fans": 41000,
+    "estimated_income": 7661327
+  },
+  {
+    "club_id": 403,
+    "fund": 1625000,
+    "youth_training_level": 1,
+    "favorite_formation": "FORMATION_433",
+    "stadium_size": 71301,
+    "domestic_fans": 130000,
+    "international_fans": 31000,
+    "estimated_income": 6437168
+  },
+  {
+    "club_id": 404,
+    "fund": 1475000,
+    "youth_training_level": 2,
+    "favorite_formation": "FORMATION_433",
+    "stadium_size": 70150,
+    "domestic_fans": 118000,
+    "international_fans": 27000,
+    "estimated_income": 6145200
+  },
+  {
+    "club_id": 405,
+    "fund": 1937500,
+    "youth_training_level": 2,
+    "favorite_formation": "FORMATION_433",
+    "stadium_size": 73192,
+    "domestic_fans": 155000,
+    "international_fans": 40000,
+    "estimated_income": 6871372
+  },
+  {
+    "club_id": 406,
+    "fund": 1137500,
+    "youth_training_level": 6,
+    "favorite_formation": "FORMATION_343",
+    "stadium_size": 66697,
+    "domestic_fans": 91000,
+    "international_fans": 18000,
+    "estimated_income": 5509554
+  },
+  {
+    "club_id": 407,
+    "fund": 1375000,
+    "youth_training_level": 0,
+    "favorite_formation": "FORMATION_451",
+    "stadium_size": 69256,
+    "domestic_fans": 110000,
+    "international_fans": 24000,
+    "estimated_income": 5920540
+  },
+  {
+    "club_id": 408,
+    "fund": 1137500,
+    "youth_training_level": 2,
+    "favorite_formation": "FORMATION_442",
+    "stadium_size": 66735,
+    "domestic_fans": 91000,
+    "international_fans": 18000,
+    "estimated_income": 5509554
+  },
+  {
+    "club_id": 409,
+    "fund": 937500,
+    "youth_training_level": 4,
+    "favorite_formation": "FORMATION_343",
+    "stadium_size": 63623,
+    "domestic_fans": 75000,
+    "international_fans": 14000,
+    "estimated_income": 4963123
+  },
+  {
+    "club_id": 410,
+    "fund": 950000,
+    "youth_training_level": 3,
+    "favorite_formation": "FORMATION_442_DIAMOND",
+    "stadium_size": 63852,
+    "domestic_fans": 76000,
+    "international_fans": 14000,
+    "estimated_income": 4978719
+  },
+  {
+    "club_id": 411,
+    "fund": 800000,
+    "youth_training_level": 0,
+    "favorite_formation": "FORMATION_442",
+    "stadium_size": 60932,
+    "domestic_fans": 64000,
+    "international_fans": 11000,
+    "estimated_income": 4606550
+  },
+  {
+    "club_id": 412,
+    "fund": 625000,
+    "youth_training_level": 4,
+    "favorite_formation": "FORMATION_442_DIAMOND",
+    "stadium_size": 55860,
+    "domestic_fans": 50000,
+    "international_fans": 8000,
+    "estimated_income": 4203186
+  },
+  {
+    "club_id": 413,
+    "fund": 450000,
+    "youth_training_level": 3,
+    "favorite_formation": "FORMATION_442",
+    "stadium_size": 47782,
+    "domestic_fans": 36000,
+    "international_fans": 5000,
+    "estimated_income": 3484870
+  },
+  {
+    "club_id": 414,
+    "fund": 475000,
+    "youth_training_level": 2,
+    "favorite_formation": "FORMATION_442",
+    "stadium_size": 49722,
+    "domestic_fans": 38000,
+    "international_fans": 6000,
+    "estimated_income": 3606108
+  },
+  {
+    "club_id": 415,
+    "fund": 337500,
+    "youth_training_level": 4,
+    "favorite_formation": "FORMATION_442_DIAMOND",
+    "stadium_size": 39267,
+    "domestic_fans": 27000,
+    "international_fans": 4000,
+    "estimated_income": 508204
+  },
+  {
+    "club_id": 416,
+    "fund": 362500,
+    "youth_training_level": 0,
+    "favorite_formation": "FORMATION_442",
+    "stadium_size": 41960,
+    "domestic_fans": 29000,
+    "international_fans": 4000,
+    "estimated_income": 533840
+  },
+  {
+    "club_id": 417,
+    "fund": 337500,
+    "youth_training_level": 4,
+    "favorite_formation": "FORMATION_433",
+    "stadium_size": 39177,
+    "domestic_fans": 27000,
+    "international_fans": 4000,
+    "estimated_income": 508204
+  },
+  {
+    "club_id": 418,
+    "fund": 337500,
+    "youth_training_level": 2,
+    "favorite_formation": "FORMATION_442_DIAMOND",
+    "stadium_size": 39272,
+    "domestic_fans": 27000,
+    "international_fans": 4000,
+    "estimated_income": 508204
+  },
+  {
+    "club_id": 419,
+    "fund": 300000,
+    "youth_training_level": 0,
+    "favorite_formation": "FORMATION_451",
+    "stadium_size": 35841,
+    "domestic_fans": 24000,
+    "international_fans": 3000,
+    "estimated_income": 467605
+  },
+  {
+    "club_id": 420,
+    "fund": 312500,
+    "youth_training_level": 3,
+    "favorite_formation": "FORMATION_442",
+    "stadium_size": 36678,
+    "domestic_fans": 25000,
+    "international_fans": 3000,
+    "estimated_income": 481490
+  },
+  {
+    "club_id": 421,
+    "fund": 325000,
+    "youth_training_level": 3,
+    "favorite_formation": "FORMATION_433",
+    "stadium_size": 38347,
+    "domestic_fans": 26000,
+    "international_fans": 4000,
+    "estimated_income": 496452
+  },
+  {
+    "club_id": 422,
+    "fund": 300000,
+    "youth_training_level": 2,
+    "favorite_formation": "FORMATION_433",
+    "stadium_size": 35149,
+    "domestic_fans": 24000,
+    "international_fans": 3000,
+    "estimated_income": 467605
+  },
+  {
+    "club_id": 423,
+    "fund": 287500,
+    "youth_training_level": 0,
+    "favorite_formation": "FORMATION_352",
+    "stadium_size": 33721,
+    "domestic_fans": 23000,
+    "international_fans": 3000,
+    "estimated_income": 453721
+  },
+  {
+    "club_id": 424,
+    "fund": 300000,
+    "youth_training_level": 0,
+    "favorite_formation": "FORMATION_442",
+    "stadium_size": 35523,
+    "domestic_fans": 24000,
+    "international_fans": 3000,
+    "estimated_income": 467605
+  },
+  {
+    "club_id": 425,
+    "fund": 250000,
+    "youth_training_level": 1,
+    "favorite_formation": "FORMATION_343",
+    "stadium_size": 29490,
+    "domestic_fans": 20000,
+    "international_fans": 3000,
+    "estimated_income": 414199
+  },
+  {
+    "club_id": 426,
+    "fund": 237500,
+    "youth_training_level": 2,
+    "favorite_formation": "FORMATION_343",
+    "stadium_size": 26985,
+    "domestic_fans": 19000,
+    "international_fans": 2000,
+    "estimated_income": 399239
+  },
+  {
+    "club_id": 427,
+    "fund": 225000,
+    "youth_training_level": 0,
+    "favorite_formation": "FORMATION_451",
+    "stadium_size": 24251,
+    "domestic_fans": 18000,
+    "international_fans": 2000,
+    "estimated_income": 383221
+  },
+  {
+    "club_id": 428,
+    "fund": 187500,
+    "youth_training_level": 1,
+    "favorite_formation": "FORMATION_442",
+    "stadium_size": 17927,
+    "domestic_fans": 15000,
+    "international_fans": 2000,
+    "estimated_income": 337121
+  },
+  {
+    "club_id": 429,
+    "fund": 187500,
+    "youth_training_level": 4,
+    "favorite_formation": "FORMATION_433",
+    "stadium_size": 16690,
+    "domestic_fans": 15000,
+    "international_fans": 2000,
+    "estimated_income": 334989
+  },
+  {
+    "club_id": 430,
+    "fund": 200000,
+    "youth_training_level": 0,
+    "favorite_formation": "FORMATION_442",
+    "stadium_size": 18257,
+    "domestic_fans": 16000,
+    "international_fans": 2000,
+    "estimated_income": 348873
+  },
+  {
+    "club_id": 431,
+    "fund": 187500,
+    "youth_training_level": 0,
+    "favorite_formation": "FORMATION_532",
+    "stadium_size": 16077,
+    "domestic_fans": 15000,
+    "international_fans": 2000,
+    "estimated_income": 334989
+  },
+  {
+    "club_id": 432,
+    "fund": 187500,
+    "youth_training_level": 4,
+    "favorite_formation": "FORMATION_433",
+    "stadium_size": 16188,
+    "domestic_fans": 15000,
+    "international_fans": 2000,
+    "estimated_income": 334989
+  }
+]

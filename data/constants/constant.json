@@ -1,0 +1,210 @@
+{
+  "base_dir": "/User/koalaxu/Documents/Backup/Projects/fl/data/",
+  "age_ability_variance": 0.3,
+  "ability_control_params": {
+    "PACE": {
+      "mean": 8.5,
+      "std_dev": 3,
+      "annual_change_params": [
+        {
+          "age_threshold": 21,
+          "inc_probability": 0.5,
+          "dec_probability": 0
+        },
+        {
+          "age_threshold": 26,
+          "inc_probability": 0.1,
+          "dec_probability": 0.1
+        },
+        {
+          "age_threshold": 30,
+          "inc_probability": 0,
+          "dec_probability": 0.4
+        },
+        {
+          "age_threshold": 34,
+          "inc_probability": 0,
+          "dec_probability": 0.5
+        },
+        {
+          "age_threshold": 100,
+          "inc_probability": 0,
+          "dec_probability": 0.9
+        }
+      ]
+    },
+    "STRENGTH": {
+      "mean": 7.5,
+      "std_dev": 3,
+      "annual_change_params": [
+        {
+          "age_threshold": 26,
+          "inc_probability": 0.35,
+          "dec_probability": 0
+        },
+        {
+          "age_threshold": 28,
+          "inc_probability": 0.1,
+          "dec_probability": 0.1
+        },
+        {
+          "age_threshold": 30,
+          "inc_probability": 0,
+          "dec_probability": 0.2
+        },
+        {
+          "age_threshold": 35,
+          "inc_probability": 0,
+          "dec_probability": 0.5
+        },
+        {
+          "age_threshold": 100,
+          "inc_probability": 0,
+          "dec_probability": 0.9
+        }
+      ]
+    },
+    "JUMP": {
+      "mean": 8,
+      "std_dev": 3,
+      "annual_change_params": [
+        {
+          "age_threshold": 26,
+          "inc_probability": 0.3,
+          "dec_probability": 0
+        },
+        {
+          "age_threshold": 28,
+          "inc_probability": 0.1,
+          "dec_probability": 0.1
+        },
+        {
+          "age_threshold": 30,
+          "inc_probability": 0,
+          "dec_probability": 0.2
+        },
+        {
+          "age_threshold": 35,
+          "inc_probability": 0,
+          "dec_probability": 0.6
+        },
+        {
+          "age_threshold": 100,
+          "inc_probability": 0,
+          "dec_probability": 0.9
+        }
+      ]
+    },
+    "AGILITY": {
+      "mean": 8.5,
+      "std_dev": 3.5,
+      "annual_change_params": [
+        {
+          "age_threshold": 26,
+          "inc_probability": 0.15,
+          "dec_probability": 0
+        },
+        {
+          "age_threshold": 28,
+          "inc_probability": 0.1,
+          "dec_probability": 0.4
+        },
+        {
+          "age_threshold": 30,
+          "inc_probability": 0,
+          "dec_probability": 0.5
+        },
+        {
+          "age_threshold": 33,
+          "inc_probability": 0,
+          "dec_probability": 0.7
+        },
+        {
+          "age_threshold": 100,
+          "inc_probability": 0,
+          "dec_probability": 0.9
+        }
+      ]
+    },
+    "DRIBBLE": {
+      "mean": 7.5,
+      "std_dev": 2
+    },
+    "PASS": {
+      "mean": 7.5,
+      "std_dev": 2
+    },
+    "SHOT": {
+      "mean": 7.5,
+      "std_dev": 2
+    },
+    "TACKLE": {
+      "mean": 7.5,
+      "std_dev": 2
+    },
+    "POSITION": {
+      "mean": 7.5,
+      "std_dev": 2
+    },
+    "GOALKEEP": {
+      "mean": 9.5,
+      "std_dev": 1
+    }
+  },
+  "experience_parameters": [
+    {
+      "age_threshold": 20,
+      "exp_per_match": 5
+    },
+    {
+      "age_threshold": 23,
+      "exp_per_match": 4
+    },
+    {
+      "age_threshold": 26,
+      "exp_per_match": 3
+    },
+    {
+      "age_threshold": 29,
+      "exp_per_match": 2
+    },
+    {
+      "age_threshold": 32,
+      "exp_per_match": 1
+    }
+  ],
+  "free_annual_ability_age_threshold": 20,
+  "second_division_experience_multiplier": 0.8,
+  "match_exp_thresholds": {
+    18: 0, 20: 2, 22: 4, 24: 6, 26: 8, 28: 10, 30: 12, 32: 14, 40: 16
+  },
+  "gk_match_exp_thresholds": {
+    20: 0, 24: 2, 28: 4, 30: 12, 32: 14, 40: 16
+  },
+  "position_ability_upgrade_map": {
+    "GOAL_KEEPER": { "null": 0.5, "PASS": 0.1, "TACKLE": 0.15, "GOALKEEP": 0.25 },
+    "SWEEPER": { "DRIBBLE": 0.15, "PASS": 0.15, "SHOT": 0.1, "TACKLE": 0.3, "POSITION": 0.3 },
+    "CENTRE_BACK": { "DRIBBLE": 0.1, "PASS": 0.1, "SHOT": 0.1, "TACKLE": 0.35, "POSITION": 0.35 },
+    "WING_BACK": { "DRIBBLE": 0.2, "PASS": 0.2, "SHOT": 0.1, "TACKLE": 0.3, "POSITION": 0.2 },
+    "DEFENSIVE_MIDFIELDER": { "DRIBBLE": 0.1, "PASS": 0.3, "SHOT": 0.1, "TACKLE": 0.3, "POSITION": 0.2 },
+    "CENTRAL_MIDFIELDER": { "DRIBBLE": 0.2, "PASS": 0.2, "SHOT": 0.2, "TACKLE": 0.2, "POSITION": 0.2 },
+    "WIDE_MIDFIELDER": { "DRIBBLE": 0.2, "PASS": 0.2, "SHOT": 0.2, "TACKLE": 0.2, "POSITION": 0.2 },
+    "ATTACKING_MIDFIELDER": { "DRIBBLE": 0.2, "PASS": 0.3, "SHOT": 0.2, "TACKLE": 0.1, "POSITION": 0.2 },
+    "WINGER": { "DRIBBLE": 0.3, "PASS": 0.2, "SHOT": 0.2, "TACKLE": 0.15, "POSITION": 0.15 },
+    "CENTRE_FORWARD": { "DRIBBLE": 0.15, "PASS": 0.25, "SHOT": 0.3, "TACKLE": 0.15, "POSITION": 0.15 },
+    "SECOND_STRIKER": { "DRIBBLE": 0.2, "PASS": 0.2, "SHOT": 0.3, "TACKLE": 0.15, "POSITION": 0.15 }
+  },
+  "position_score_params": {
+    "GOAL_KEEPER": { "ability_weights": { "AGILITY": 0.2, "TACKLE": 0.2, "GOALKEEP": 0.6 } },
+    "SWEEPER": { "ability_weights": { "STRENGTH": 0.2, "JUMP": 0.1, "AGILITY": 0.2, "PASS": 0.2, "TACKLE": 0.2, "POSITION": 0.1 } },
+    "CENTRE_BACK": { "ability_weights": { "STRENGTH": 0.2, "JUMP": 0.2, "TACKLE": 0.3, "POSITION": 0.3 } },
+    "WING_BACK": { "ability_weights": { "PACE": 0.3, "AGILITY": 0.3, "PASS": 0.1, "TACKLE": 0.2, "POSITION": 0.1 } },
+    "DEFENSIVE_MIDFIELDER": { "ability_weights": { "STRENGTH": 0.3, "PASS": 0.2, "TACKLE": 0.3, "POSITION": 0.2 } },
+    "CENTRAL_MIDFIELDER": { "ability_weights": { "STRENGTH": 0.05, "AGILITY": 0.25, "DRIBBLE": 0.1, "PASS": 0.4, "SHOT": 0.1, "POSITION": 0.1 } },
+    "WIDE_MIDFIELDER": { "ability_weights": { "PACE": 0.2, "AGILITY": 0.2, "DRIBBLE": 0.2, "PASS": 0.2, "POSITION": 0.2 } },
+    "ATTACKING_MIDFIELDER": { "ability_weights": { "AGILITY": 0.2, "DRIBBLE": 0.3, "PASS": 0.4, "SHOT": 0.1 } },
+    "WINGER": { "ability_weights": { "PACE": 0.3, "AGILITY": 0.3, "DRIBBLE": 0.2, "PASS": 0.1, "SHOT": 0.1 }, "inverse_foot_boost_score": 0.01 },
+    "CENTRE_FORWARD": { "ability_weights": { "STRENGTH": 0.2, "JUMP": 0.2, "PASS": 0.25, "SHOT": 0.35 } },
+    "SECOND_STRIKER": { "ability_weights": { "PACE": 0.15, "JUMP": 0.15, "AGILITY": 0.15, "DRIBBLE": 0.15, "SHOT": 0.4 } }
+  }
+}

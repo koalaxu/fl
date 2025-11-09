@@ -1,0 +1,462 @@
+{
+  "rounds": [
+    {
+      "matches": [
+        {
+          "host": 0,
+          "away": 4,
+          "neutral_site": false,
+          "winner_id": 0
+        },
+        {
+          "host": 1,
+          "away": 5,
+          "neutral_site": false,
+          "winner_id": 0
+        },
+        {
+          "host": 2,
+          "away": 6,
+          "neutral_site": false,
+          "winner_id": 0
+        },
+        {
+          "host": 3,
+          "away": 7,
+          "neutral_site": false,
+          "winner_id": 0
+        }
+      ]
+    },
+    {
+      "matches": [
+        {
+          "host": 4,
+          "away": 0,
+          "neutral_site": false,
+          "winner_id": 8
+        },
+        {
+          "host": 5,
+          "away": 1,
+          "neutral_site": false,
+          "winner_id": 9
+        },
+        {
+          "host": 6,
+          "away": 2,
+          "neutral_site": false,
+          "winner_id": 10
+        },
+        {
+          "host": 7,
+          "away": 3,
+          "neutral_site": false,
+          "winner_id": 11
+        }
+      ]
+    },
+    {
+      "matches": [
+        {
+          "host": 8,
+          "away": 24,
+          "neutral_site": false,
+          "winner_id": 0
+        },
+        {
+          "host": 9,
+          "away": 25,
+          "neutral_site": false,
+          "winner_id": 0
+        },
+        {
+          "host": 10,
+          "away": 26,
+          "neutral_site": false,
+          "winner_id": 0
+        },
+        {
+          "host": 11,
+          "away": 27,
+          "neutral_site": false,
+          "winner_id": 0
+        },
+        {
+          "host": 12,
+          "away": 28,
+          "neutral_site": false,
+          "winner_id": 0
+        },
+        {
+          "host": 13,
+          "away": 29,
+          "neutral_site": false,
+          "winner_id": 0
+        },
+        {
+          "host": 14,
+          "away": 30,
+          "neutral_site": false,
+          "winner_id": 0
+        },
+        {
+          "host": 15,
+          "away": 31,
+          "neutral_site": false,
+          "winner_id": 0
+        },
+        {
+          "host": 16,
+          "away": 32,
+          "neutral_site": false,
+          "winner_id": 0
+        },
+        {
+          "host": 17,
+          "away": 33,
+          "neutral_site": false,
+          "winner_id": 0
+        },
+        {
+          "host": 18,
+          "away": 34,
+          "neutral_site": false,
+          "winner_id": 0
+        },
+        {
+          "host": 19,
+          "away": 35,
+          "neutral_site": false,
+          "winner_id": 0
+        },
+        {
+          "host": 20,
+          "away": 36,
+          "neutral_site": false,
+          "winner_id": 0
+        },
+        {
+          "host": 21,
+          "away": 37,
+          "neutral_site": false,
+          "winner_id": 0
+        },
+        {
+          "host": 22,
+          "away": 38,
+          "neutral_site": false,
+          "winner_id": 0
+        },
+        {
+          "host": 23,
+          "away": 39,
+          "neutral_site": false,
+          "winner_id": 0
+        }
+      ]
+    },
+    {
+      "matches": [
+        {
+          "host": 24,
+          "away": 8,
+          "neutral_site": false,
+          "winner_id": 40
+        },
+        {
+          "host": 25,
+          "away": 9,
+          "neutral_site": false,
+          "winner_id": 41
+        },
+        {
+          "host": 26,
+          "away": 10,
+          "neutral_site": false,
+          "winner_id": 42
+        },
+        {
+          "host": 27,
+          "away": 11,
+          "neutral_site": false,
+          "winner_id": 43
+        },
+        {
+          "host": 28,
+          "away": 12,
+          "neutral_site": false,
+          "winner_id": 44
+        },
+        {
+          "host": 29,
+          "away": 13,
+          "neutral_site": false,
+          "winner_id": 45
+        },
+        {
+          "host": 30,
+          "away": 14,
+          "neutral_site": false,
+          "winner_id": 46
+        },
+        {
+          "host": 31,
+          "away": 15,
+          "neutral_site": false,
+          "winner_id": 47
+        },
+        {
+          "host": 32,
+          "away": 16,
+          "neutral_site": false,
+          "winner_id": 48
+        },
+        {
+          "host": 33,
+          "away": 17,
+          "neutral_site": false,
+          "winner_id": 49
+        },
+        {
+          "host": 34,
+          "away": 18,
+          "neutral_site": false,
+          "winner_id": 50
+        },
+        {
+          "host": 35,
+          "away": 19,
+          "neutral_site": false,
+          "winner_id": 51
+        },
+        {
+          "host": 36,
+          "away": 20,
+          "neutral_site": false,
+          "winner_id": 52
+        },
+        {
+          "host": 37,
+          "away": 21,
+          "neutral_site": false,
+          "winner_id": 53
+        },
+        {
+          "host": 38,
+          "away": 22,
+          "neutral_site": false,
+          "winner_id": 54
+        },
+        {
+          "host": 39,
+          "away": 23,
+          "neutral_site": false,
+          "winner_id": 55
+        }
+      ]
+    },
+    {
+      "matches": [
+        {
+          "host": 40,
+          "away": 48,
+          "neutral_site": false,
+          "winner_id": 0
+        },
+        {
+          "host": 41,
+          "away": 49,
+          "neutral_site": false,
+          "winner_id": 0
+        },
+        {
+          "host": 42,
+          "away": 50,
+          "neutral_site": false,
+          "winner_id": 0
+        },
+        {
+          "host": 43,
+          "away": 51,
+          "neutral_site": false,
+          "winner_id": 0
+        },
+        {
+          "host": 44,
+          "away": 52,
+          "neutral_site": false,
+          "winner_id": 0
+        },
+        {
+          "host": 45,
+          "away": 53,
+          "neutral_site": false,
+          "winner_id": 0
+        },
+        {
+          "host": 46,
+          "away": 54,
+          "neutral_site": false,
+          "winner_id": 0
+        },
+        {
+          "host": 47,
+          "away": 55,
+          "neutral_site": false,
+          "winner_id": 0
+        }
+      ]
+    },
+    {
+      "matches": [
+        {
+          "host": 48,
+          "away": 40,
+          "neutral_site": false,
+          "winner_id": 56
+        },
+        {
+          "host": 49,
+          "away": 41,
+          "neutral_site": false,
+          "winner_id": 57
+        },
+        {
+          "host": 50,
+          "away": 42,
+          "neutral_site": false,
+          "winner_id": 58
+        },
+        {
+          "host": 51,
+          "away": 43,
+          "neutral_site": false,
+          "winner_id": 59
+        },
+        {
+          "host": 52,
+          "away": 44,
+          "neutral_site": false,
+          "winner_id": 60
+        },
+        {
+          "host": 53,
+          "away": 45,
+          "neutral_site": false,
+          "winner_id": 61
+        },
+        {
+          "host": 54,
+          "away": 46,
+          "neutral_site": false,
+          "winner_id": 62
+        },
+        {
+          "host": 55,
+          "away": 47,
+          "neutral_site": false,
+          "winner_id": 63
+        }
+      ]
+    },
+    {
+      "matches": [
+        {
+          "host": 56,
+          "away": 60,
+          "neutral_site": false,
+          "winner_id": 0
+        },
+        {
+          "host": 57,
+          "away": 61,
+          "neutral_site": false,
+          "winner_id": 0
+        },
+        {
+          "host": 58,
+          "away": 62,
+          "neutral_site": false,
+          "winner_id": 0
+        },
+        {
+          "host": 59,
+          "away": 63,
+          "neutral_site": false,
+          "winner_id": 0
+        }
+      ]
+    },
+    {
+      "matches": [
+        {
+          "host": 60,
+          "away": 56,
+          "neutral_site": false,
+          "winner_id": 64
+        },
+        {
+          "host": 61,
+          "away": 57,
+          "neutral_site": false,
+          "winner_id": 65
+        },
+        {
+          "host": 62,
+          "away": 58,
+          "neutral_site": false,
+          "winner_id": 66
+        },
+        {
+          "host": 63,
+          "away": 59,
+          "neutral_site": false,
+          "winner_id": 67
+        }
+      ]
+    },
+    {
+      "matches": [
+        {
+          "host": 64,
+          "away": 66,
+          "neutral_site": false,
+          "winner_id": 0
+        },
+        {
+          "host": 65,
+          "away": 67,
+          "neutral_site": false,
+          "winner_id": 0
+        }
+      ]
+    },
+    {
+      "matches": [
+        {
+          "host": 66,
+          "away": 64,
+          "neutral_site": false,
+          "winner_id": 68
+        },
+        {
+          "host": 67,
+          "away": 65,
+          "neutral_site": false,
+          "winner_id": 69
+        }
+      ]
+    },
+    {
+      "matches": [
+        {
+          "host": 68,
+          "away": 69,
+          "neutral_site": true,
+          "winner_id": 70
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,32 @@
+{
+"start_year": 2021,
+"domestic_fan_base_powerlaw_k": 4,
+"fan_base_powerlaw_k": 0.5,
+"domestic_rank_x_lowerbound": 4.0,
+"rank_x_lowerbound": 3.0,
+"global_fan_base": 100000,
+"countries": [
+  { "name": "England", "fan_base": 10000, "fan_attend_ratio": 1, "fan_spend_ratio": 1, "fan_populatoin": 160000, "price_index": 1, "mean_youth_level": 8, "mean_games": 20 },
+  { "name": "Italy", "fan_base": 8000, "fan_attend_ratio": 0.9, "fan_spend_ratio": 0.7, "fan_populatoin": 150000, "price_index": 0.8, "mean_youth_level": 10, "mean_games": 20 },
+  { "name": "Spain", "fan_base": 11000, "fan_attend_ratio": 1, "fan_spend_ratio": 0.8, "fan_populatoin": 117500, "price_index": 0.75, "mean_youth_level": 10, "mean_games": 20 },
+  { "name": "Germany", "fan_base": 5500, "fan_attend_ratio": 1, "fan_spend_ratio": 0.8, "fan_populatoin": 207500, "price_index": 1.2, "mean_youth_level": 10, "mean_games": 20 },
+  { "name": "France", "fan_base": 7750, "fan_attend_ratio": 0.4, "fan_spend_ratio": 0.4, "fan_populatoin": 167500, "price_index": 0.85, "mean_youth_level": 10, "mean_games": 12 },
+  { "name": "Holland", "fan_base": 900, "fan_attend_ratio": 1, "fan_spend_ratio": 1, "fan_populatoin": 44000, "price_index": 1, "mean_youth_level": 8, "mean_games": 12 },
+  { "name": "Portugal", "fan_base": 2400, "fan_attend_ratio": 0.9, "fan_spend_ratio": 0.2, "fan_populatoin": 25000, "price_index": 0.6, "mean_youth_level": 5, "mean_games": 12 },
+  { "name": "Belgium", "fan_base": 2000, "fan_attend_ratio": 0.8, "fan_spend_ratio": 0.3, "fan_populatoin": 28750, "price_index": 1, "mean_youth_level": 5, "mean_games": 12 },
+  { "name": "Scotland", "fan_base": 1000, "fan_attend_ratio": 1, "fan_spend_ratio": 0.6, "fan_populatoin": 13750, "price_index": 0.9, "mean_youth_level": 2, "mean_games": 4 },
+  { "name": "Greece", "fan_base": 1500, "fan_attend_ratio": 0.4, "fan_spend_ratio": 0.4, "fan_populatoin": 25000, "price_index": 0.7, "mean_youth_level": 2, "mean_games": 4 },
+  { "name": "Turkey", "fan_base": 26000, "fan_attend_ratio": 0.1, "fan_spend_ratio": 0.25, "fan_populatoin": 207500, "price_index": 0.2, "mean_youth_level": 2, "mean_games": 4 },
+  { "name": "Russia", "fan_base": 7000, "fan_attend_ratio": 0.1, "fan_spend_ratio": 0.5, "fan_populatoin": 385000, "price_index": 0.25, "mean_youth_level": 2, "mean_games": 4 }
+],
+"formation_popularity": {
+  "FORMATION_343": 0.01,
+  "FORMATION_352": 0.05,
+  "FORMATION_433": 0.3,
+  "FORMATION_442": 0.35,
+  "FORMATION_442_DIAMOND": 0.15,
+  "FORMATION_451": 0.05,
+  "FORMATION_532": 0.08,
+  "FORMATION_541": 0.01
+}
+}

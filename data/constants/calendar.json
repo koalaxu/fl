@@ -1,0 +1,546 @@
+[
+  {
+    "week_id": 0,
+    "mid_week": false,
+    "type": "YOUTH_PROMOTION"
+  },
+  {
+    "week_id": 0,
+    "mid_week": true,
+    "type": "MATCH_DRAW"
+  },
+  {
+    "week_id": 1,
+    "mid_week": false,
+    "round": 15,
+    "type": "TRANSFER"
+  },
+  {
+    "week_id": 1,
+    "mid_week": true,
+    "round": 14,
+    "type": "TRANSFER"
+  },
+  {
+    "week_id": 2,
+    "mid_week": false,
+    "round": 13,
+    "type": "TRANSFER"
+  },
+  {
+    "week_id": 2,
+    "mid_week": true,
+    "round": 12,
+    "type": "TRANSFER"
+  },
+  {
+    "week_id": 3,
+    "mid_week": false,
+    "round": 11,
+    "type": "TRANSFER"
+  },
+  {
+    "week_id": 3,
+    "mid_week": true,
+    "round": 10,
+    "type": "TRANSFER"
+  },
+  {
+    "week_id": 4,
+    "mid_week": false,
+    "round": 9,
+    "type": "TRANSFER"
+  },
+  {
+    "week_id": 4,
+    "mid_week": true,
+    "round": 8,
+    "type": "TRANSFER"
+  },
+  {
+    "week_id": 5,
+    "mid_week": false,
+    "round": 7,
+    "type": "TRANSFER"
+  },
+  {
+    "week_id": 5,
+    "mid_week": true,
+    "round": 6,
+    "type": "TRANSFER"
+  },
+  {
+    "week_id": 6,
+    "mid_week": false,
+    "round": 5,
+    "type": "TRANSFER"
+  },
+  {
+    "week_id": 6,
+    "mid_week": true,
+    "round": 4,
+    "type": "TRANSFER"
+  },
+  {
+    "week_id": 7,
+    "mid_week": false,
+    "round": 3,
+    "type": "TRANSFER"
+  },
+  {
+    "week_id": 7,
+    "mid_week": true,
+    "round": 2,
+    "type": "TRANSFER"
+  },
+  {
+    "week_id": 8,
+    "mid_week": false,
+    "round": 1,
+    "type": "TRANSFER"
+  },
+  {
+    "week_id": 8,
+    "mid_week": true,
+    "round": 0,
+    "type": "TRANSFER"
+  },
+  {
+    "week_id": 9,
+    "mid_week": false,
+    "type": "SQUAD_NUMBER_ASSIGNMENT"
+  },
+  {
+    "week_id": 10,
+    "mid_week": false,
+    "game_type": "DOMESTIC_LEAGUE",
+    "round": 0,
+    "type": "MATCH"
+  },
+  {
+    "week_id": 11,
+    "mid_week": false,
+    "game_type": "DOMESTIC_LEAGUE",
+    "round": 1,
+    "type": "MATCH"
+  },
+  {
+    "week_id": 12,
+    "mid_week": false,
+    "game_type": "DOMESTIC_LEAGUE",
+    "round": 2,
+    "type": "MATCH"
+  },
+  {
+    "week_id": 12,
+    "mid_week": true,
+    "game_type": "DOMESTIC_SUPER_CUP",
+    "type": "MATCH"
+  },
+  {
+    "week_id": 13,
+    "mid_week": false,
+    "game_type": "DOMESTIC_LEAGUE",
+    "round": 3,
+    "type": "MATCH"
+  },
+  {
+    "week_id": 13,
+    "mid_week": true,
+    "game_type": "CONTINENTAL_SUPER_CUP",
+    "type": "MATCH"
+  },
+  {
+    "week_id": 14,
+    "mid_week": false,
+    "game_type": "DOMESTIC_LEAGUE",
+    "round": 4,
+    "type": "MATCH"
+  },
+  {
+    "week_id": 14,
+    "mid_week": true,
+    "game_type": "DOMESTIC_CUP",
+    "round": 0,
+    "type": "MATCH"
+  },
+  {
+    "week_id": 15,
+    "mid_week": false,
+    "game_type": "DOMESTIC_LEAGUE",
+    "round": 5,
+    "type": "MATCH"
+  },
+  {
+    "week_id": 15,
+    "mid_week": true,
+    "game_type": "DOMESTIC_CUP",
+    "round": 1,
+    "type": "MATCH"
+  },
+  {
+    "week_id": 16,
+    "mid_week": false,
+    "game_type": "DOMESTIC_LEAGUE",
+    "round": 6,
+    "type": "MATCH"
+  },
+  {
+    "week_id": 17,
+    "mid_week": false,
+    "game_type": "DOMESTIC_LEAGUE",
+    "round": 7,
+    "type": "MATCH"
+  },
+  {
+    "week_id": 17,
+    "mid_week": true,
+    "game_type": "DOMESTIC_CUP",
+    "round": 2,
+    "type": "MATCH"
+  },
+  {
+    "week_id": 18,
+    "mid_week": false,
+    "game_type": "DOMESTIC_LEAGUE",
+    "round": 8,
+    "type": "MATCH"
+  },
+  {
+    "week_id": 18,
+    "mid_week": true,
+    "game_type": "DOMESTIC_CUP",
+    "round": 3,
+    "type": "MATCH"
+  },
+  {
+    "week_id": 19,
+    "mid_week": false,
+    "game_type": "DOMESTIC_LEAGUE",
+    "round": 9,
+    "type": "MATCH"
+  },
+  {
+    "week_id": 20,
+    "mid_week": false,
+    "game_type": "DOMESTIC_LEAGUE",
+    "round": 10,
+    "type": "MATCH"
+  },
+  {
+    "week_id": 20,
+    "mid_week": true,
+    "game_type": "CONTINENTAL_CUP",
+    "round": 0,
+    "type": "MATCH"
+  },
+  {
+    "week_id": 21,
+    "mid_week": false,
+    "game_type": "DOMESTIC_LEAGUE",
+    "round": 11,
+    "type": "MATCH"
+  },
+  {
+    "week_id": 21,
+    "mid_week": true,
+    "game_type": "CONTINENTAL_CUP",
+    "round": 1,
+    "type": "MATCH"
+  },
+  {
+    "week_id": 22,
+    "mid_week": false,
+    "game_type": "DOMESTIC_LEAGUE",
+    "round": 12,
+    "type": "MATCH"
+  },
+  {
+    "week_id": 22,
+    "mid_week": true,
+    "game_type": "CONTINENTAL_CUP",
+    "round": 2,
+    "type": "MATCH"
+  },
+  {
+    "week_id": 23,
+    "mid_week": false,
+    "game_type": "DOMESTIC_LEAGUE",
+    "round": 13,
+    "type": "MATCH"
+  },
+  {
+    "week_id": 24,
+    "mid_week": false,
+    "game_type": "DOMESTIC_LEAGUE",
+    "round": 14,
+    "type": "MATCH"
+  },
+  {
+    "week_id": 24,
+    "mid_week": true,
+    "game_type": "CONTINENTAL_CUP",
+    "round": 3,
+    "type": "MATCH"
+  },
+  {
+    "week_id": 25,
+    "mid_week": false,
+    "game_type": "DOMESTIC_LEAGUE",
+    "round": 15,
+    "type": "MATCH"
+  },
+  {
+    "week_id": 25,
+    "mid_week": true,
+    "game_type": "CONTINENTAL_CUP",
+    "round": 4,
+    "type": "MATCH"
+  },
+  {
+    "week_id": 26,
+    "mid_week": false,
+    "game_type": "DOMESTIC_LEAGUE",
+    "round": 16,
+    "type": "MATCH"
+  },
+  {
+    "week_id": 26,
+    "mid_week": true,
+    "game_type": "CONTINENTAL_CUP",
+    "round": 5,
+    "type": "MATCH"
+  },
+  {
+    "week_id": 29,
+    "mid_week": false,
+    "type": "CONTINENTAL_LEAGUE_KNOCKOUT_DRAW"
+  },
+  {
+    "week_id": 30,
+    "mid_week": false,
+    "game_type": "DOMESTIC_LEAGUE",
+    "round": 17,
+    "type": "MATCH"
+  },
+  {
+    "week_id": 31,
+    "mid_week": false,
+    "game_type": "DOMESTIC_LEAGUE",
+    "round": 18,
+    "type": "MATCH"
+  },
+  {
+    "week_id": 31,
+    "mid_week": true,
+    "game_type": "DOMESTIC_CUP",
+    "round": 4,
+    "type": "MATCH"
+  },
+  {
+    "week_id": 32,
+    "mid_week": false,
+    "game_type": "DOMESTIC_LEAGUE",
+    "round": 19,
+    "type": "MATCH"
+  },
+  {
+    "week_id": 32,
+    "mid_week": true,
+    "game_type": "DOMESTIC_CUP",
+    "round": 5,
+    "type": "MATCH"
+  },
+  {
+    "week_id": 33,
+    "mid_week": false,
+    "game_type": "DOMESTIC_LEAGUE",
+    "round": 20,
+    "type": "MATCH"
+  },
+  {
+    "week_id": 33,
+    "mid_week": true,
+    "game_type": "CONTINENTAL_CUP",
+    "round": 6,
+    "type": "MATCH"
+  },
+  {
+    "week_id": 34,
+    "mid_week": false,
+    "game_type": "DOMESTIC_LEAGUE",
+    "round": 21,
+    "type": "MATCH"
+  },
+  {
+    "week_id": 34,
+    "mid_week": true,
+    "game_type": "CONTINENTAL_CUP",
+    "round": 7,
+    "type": "MATCH"
+  },
+  {
+    "week_id": 35,
+    "mid_week": false,
+    "game_type": "DOMESTIC_LEAGUE",
+    "round": 22,
+    "type": "MATCH"
+  },
+  {
+    "week_id": 35,
+    "mid_week": true,
+    "game_type": "DOMESTIC_CUP",
+    "round": 6,
+    "type": "MATCH"
+  },
+  {
+    "week_id": 36,
+    "mid_week": false,
+    "game_type": "DOMESTIC_LEAGUE",
+    "round": 23,
+    "type": "MATCH"
+  },
+  {
+    "week_id": 36,
+    "mid_week": true,
+    "game_type": "DOMESTIC_CUP",
+    "round": 7,
+    "type": "MATCH"
+  },
+  {
+    "week_id": 37,
+    "mid_week": false,
+    "game_type": "DOMESTIC_LEAGUE",
+    "round": 24,
+    "type": "MATCH"
+  },
+  {
+    "week_id": 37,
+    "mid_week": true,
+    "game_type": "DOMESTIC_CUP",
+    "round": 8,
+    "type": "MATCH"
+  },
+  {
+    "week_id": 38,
+    "mid_week": false,
+    "game_type": "DOMESTIC_LEAGUE",
+    "round": 25,
+    "type": "MATCH"
+  },
+  {
+    "week_id": 38,
+    "mid_week": true,
+    "game_type": "DOMESTIC_CUP",
+    "round": 9,
+    "type": "MATCH"
+  },
+  {
+    "week_id": 39,
+    "mid_week": false,
+    "game_type": "DOMESTIC_LEAGUE",
+    "round": 26,
+    "type": "MATCH"
+  },
+  {
+    "week_id": 39,
+    "mid_week": true,
+    "game_type": "CONTINENTAL_CUP",
+    "round": 8,
+    "type": "MATCH"
+  },
+  {
+    "week_id": 40,
+    "mid_week": false,
+    "game_type": "DOMESTIC_LEAGUE",
+    "round": 27,
+    "type": "MATCH"
+  },
+  {
+    "week_id": 40,
+    "mid_week": true,
+    "game_type": "CONTINENTAL_CUP",
+    "round": 9,
+    "type": "MATCH"
+  },
+  {
+    "week_id": 41,
+    "mid_week": false,
+    "game_type": "DOMESTIC_LEAGUE",
+    "round": 28,
+    "type": "MATCH"
+  },
+  {
+    "week_id": 42,
+    "mid_week": false,
+    "game_type": "DOMESTIC_LEAGUE",
+    "round": 29,
+    "type": "MATCH"
+  },
+  {
+    "week_id": 42,
+    "mid_week": true,
+    "game_type": "CONTINENTAL_CUP",
+    "round": 10,
+    "type": "MATCH"
+  },
+  {
+    "week_id": 43,
+    "mid_week": false,
+    "game_type": "DOMESTIC_LEAGUE",
+    "round": 30,
+    "type": "MATCH"
+  },
+  {
+    "week_id": 43,
+    "mid_week": true,
+    "game_type": "CONTINENTAL_CUP",
+    "round": 11,
+    "type": "MATCH"
+  },
+  {
+    "week_id": 44,
+    "mid_week": false,
+    "game_type": "DOMESTIC_LEAGUE",
+    "round": 31,
+    "type": "MATCH"
+  },
+  {
+    "week_id": 45,
+    "mid_week": false,
+    "game_type": "DOMESTIC_LEAGUE",
+    "round": 32,
+    "type": "MATCH"
+  },
+  {
+    "week_id": 46,
+    "mid_week": false,
+    "game_type": "DOMESTIC_LEAGUE",
+    "round": 33,
+    "type": "MATCH"
+  },
+  {
+    "week_id": 47,
+    "mid_week": true,
+    "game_type": "DOMESTIC_CUP",
+    "round": 10,
+    "type": "MATCH"
+  },
+  {
+    "week_id": 48,
+    "mid_week": false,
+    "game_type": "CONTINENTAL_CUP",
+    "round": 12,
+    "type": "MATCH"
+  },
+  {
+    "week_id": 50,
+    "mid_week": false,
+    "type": "SEASON_END"
+  },
+  {
+    "week_id": 51,
+    "mid_week": false,
+    "type": "CONTRACT_RENEW"
+  }
+]

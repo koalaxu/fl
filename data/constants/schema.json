@@ -1,0 +1,335 @@
+[
+{
+  "name": "Country",
+  "row_type": "Country",
+  "dir": "country/",
+  "primary_keys": [
+    "COUNTRY_ID"
+  ],
+  "sharding_method": "SINGLE_FILE",
+  "loading_method": "MEMORY",
+  "file_format": "JSON",
+  "key_owner": "true"
+},
+{
+  "name": "League",
+  "row_type": "League",
+  "dir": "league/",
+  "parent_tables": [
+    "Country"
+  ],
+  "primary_keys": [
+    "LEAGUE_ID"
+  ],
+  "foreign_keys": {
+    "country_id": "COUNTRY_ID"
+  },
+  "sharding_method": "SINGLE_FILE",
+  "loading_method": "MEMORY",
+  "file_format": "JSON",
+  "key_owner": "true"
+},
+{
+  "name": "Club",
+  "row_type": "Club",
+  "dir": "club/",
+  "parent_tables": [
+    "Country"
+  ],
+  "primary_keys": [
+    "CLUB_ID"
+  ],
+  "foreign_keys": {
+    "country_id": "COUNTRY_ID"
+  },
+  "sharding_method": "SINGLE_FILE",
+  "loading_method": "MEMORY",
+  "file_format": "JSON",
+  "key_owner": "true"
+},
+{
+  "name": "Player",
+  "row_type": "Player",
+  "dir": "player/",
+  "primary_keys": [
+    "PLAYER_ID"
+  ],
+  "sharding_method": "ID_PARTITION",
+  "key_partition_sizes": [ 10000 ],
+  "loading_method": "DISK",
+  "key_owner": "true"
+},
+{
+  "name": "LeagueInfo",
+  "row_type": "LeagueInfo",
+  "dir": "league_info/",
+  "parent_tables": [
+    "League"
+  ],
+  "primary_keys": [
+    "LEAGUE_ID"
+  ],
+  "foreign_keys": {
+    "league_id": "LEAGUE_ID"
+  },
+  "sharding_method": "SINGLE_FILE",
+  "loading_method": "MEMORY",
+  "file_format": "JSON"
+},
+{
+  "name": "ClubInfo",
+  "row_type": "ClubInfo",
+  "dir": "club_info/",
+  "parent_tables": [
+    "Club"
+  ],
+  "primary_keys": [
+    "CLUB_ID"
+  ],
+  "foreign_keys": {
+    "club_id": "CLUB_ID"
+  },
+  "sharding_method": "SINGLE_FILE",
+  "loading_method": "MEMORY",
+  "file_format": "JSON"
+},
+{
+  "name": "PlayerInfo",
+  "row_type": "PlayerInfo",
+  "dir": "player_info/",
+  "parent_tables": [
+    "Player"
+  ],
+  "primary_keys": [
+    "PLAYER_ID"
+  ],
+  "foreign_keys": {
+    "player_id": "PLAYER_ID"
+  },
+  "sharding_method": "ID_PARTITION",
+  "key_partition_sizes": [ 10000 ],
+  "loading_method": "MEMORY",
+  "file_format": "JSON"
+},
+{
+  "name": "ClubHistory",
+  "row_type": "ClubRecord",
+  "dir": "club_history/",
+  "parent_tables": [
+    "Club"
+  ],
+  "primary_keys": [
+    "CLUB_ID",
+    "YEAR"
+  ],
+  "foreign_keys": {
+    "club_id": "CLUB_ID",
+    "year": "YEAR"
+  },
+  "sharding_method": "ID_PARTITION",
+  "key_partition_sizes": [ 0, 1 ],
+  "loading_method": "DISK",
+  "file_format": "JSON"
+},
+{
+  "name": "PlayerHistory",
+  "row_type": "PlayerHistory",
+  "dir": "player_history/",
+  "parent_tables": [
+    "Player"
+  ],
+  "primary_keys": [
+    "PLAYER_ID"
+  ],
+  "foreign_keys": {
+    "player_id": "PLAYER_ID"
+  },
+  "sharding_method": "ID_PARTITION",
+  "key_partition_sizes": [ 10000 ],
+  "loading_method": "DISK",
+  "file_format": "JSON"
+},
+{
+  "name": "Transfer",
+  "row_type": "Transfer",
+  "dir": "transfer/",
+  "parent_tables": [
+    "Player",
+    "Club"
+  ],
+  "primary_keys": [
+    "PLAYER_ID",
+    "YEAR"
+  ],
+  "foreign_keys": {
+    "player_id": "PLAYER_ID",
+    "from_club_id": "CLUB_ID",
+    "to_club_id": "CLUB_ID",
+    "year": "YEAR"
+  },
+  "sharding_method": "ID_PARTITION",
+  "key_partition_sizes": [ 20000, 1 ],
+  "loading_method": "DISK",
+  "file_format": "JSON"
+},
+{
+  "name": "PlayerLeagueInfo",
+  "row_type": "PlayerLeagueInfo",
+  "dir": "player_league_info/",
+  "parent_tables": [
+    "Player",
+    "League"
+  ],
+  "primary_keys": [
+    "PLAYER_ID",
+    "LEAGUE_ID"
+  ],
+  "foreign_keys": {
+    "player_id": "PLAYER_ID",
+    "league_id": "LEAGUE_ID"
+  },
+  "sharding_method": "ID_PARTITION",
+  "key_partition_sizes": [ 10000, 0 ],
+  "loading_method": "MEMORY",
+  "file_format": "JSON"
+},
+{
+  "name": "PlayerLeagueHistory",
+  "row_type": "PlayerLeagueRecord",
+  "dir": "player_league_history/",
+  "parent_tables": [
+    "Player",
+    "League"
+  ],
+  "primary_keys": [
+    "PLAYER_ID",
+    "LEAGUE_ID",
+    "YEAR"
+  ],
+  "foreign_keys": {
+    "player_id": "PLAYER_ID",
+    "league_id": "LEAGUE_ID",
+    "year": "YEAR"
+  },
+  "sharding_method": "ID_PARTITION",
+  "key_partition_sizes": [ 0, 0, 1 ],
+  "loading_method": "DISK",
+  "file_format": "BINARY"
+},
+{
+  "name": "LeagueHistory",
+  "row_type": "LeagueRecord",
+  "dir": "league_history/",
+  "parent_tables": [
+    "League"
+  ],
+  "primary_keys": [
+    "LEAGUE_ID",
+    "YEAR"
+  ],
+  "foreign_keys": {
+    "league_id": "LEAGUE_ID",
+    "year": "YEAR"
+  },
+  "sharding_method": "ID_PARTITION",
+  "key_partition_sizes": [ 0, 1 ],
+  "loading_method": "DISK",
+  "file_format": "BINARY"
+},
+{
+  "name": "Match",
+  "row_type": "Match",
+  "dir": "match/",
+  "parent_tables": [
+    "League"
+  ],
+  "primary_keys": [
+    "LEAGUE_ID",
+    "ROUND_ID",
+    "MATCH_ID",
+    "YEAR"
+  ],
+  "foreign_keys": {
+    "league_id": "LEAGUE_ID",
+    "round_id": "ROUND_ID",
+    "match_id": "MATCH_ID",
+    "year": "YEAR",
+    "home_club": "CLUB_ID",
+    "away_club": "CLUB_ID"
+  },
+  "sharding_method": "ID_PARTITION",
+  "key_partition_sizes": [ 0, 0, 0, 1 ],
+  "loading_method": "DISK",
+  "file_format": "BINARY"
+},
+{
+  "name": "MatchCommentary",
+  "row_type": "MatchCommentary",
+  "dir": "match_commentary/",
+  "parent_tables": [
+    "League"
+  ],
+  "primary_keys": [
+    "LEAGUE_ID",
+    "ROUND_ID",
+    "MATCH_ID",
+    "YEAR"
+  ],
+  "foreign_keys": {
+    "league_id": "LEAGUE_ID",
+    "round_id": "ROUND_ID",
+    "match_id": "MATCH_ID",
+    "year": "YEAR"
+  },
+  "sharding_method": "ID_PARTITION",
+  "key_partition_sizes": [ 0, 0, 0, 1 ],
+  "loading_method": "DISK",
+  "file_format": "JSON"
+},
+{
+  "name": "MatchCommentaryArchive",
+  "row_type": "MatchCommentary",
+  "dir": "match_commentary_archive/",
+  "parent_tables": [
+    "League"
+  ],
+  "primary_keys": [
+    "LEAGUE_ID",
+    "ROUND_ID",
+    "MATCH_ID",
+    "YEAR"
+  ],
+  "foreign_keys": {
+    "league_id": "LEAGUE_ID",
+    "round_id": "ROUND_ID",
+    "match_id": "MATCH_ID",
+    "year": "YEAR"
+  },
+  "sharding_method": "ID_PARTITION",
+  "key_partition_sizes": [ 0, 0, 0, 1 ],
+  "loading_method": "DISK",
+  "file_format": "JSON"
+},
+{
+  "name": "DataTest",
+  "row_type": "DataTest",
+  "dir": "data_test/",
+  "parent_tables": [
+    "Country",
+    "League"
+  ],
+  "primary_keys": [
+    "COUNTRY_ID",
+    "LEAGUE_ID",
+    "YEAR"
+  ],
+  "foreign_keys": {
+    "country_id": "COUNTRY_ID",
+    "league_id": "LEAGUE_ID"
+  },
+  "sharding_method": "ID_PARTITION",
+  "key_partition_sizes": [ 0, 0, 1000 ],
+  "loading_method": "MEMORY",
+  "file_format": "BINARY"
+}
+]

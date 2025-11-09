@@ -1,0 +1,359 @@
+[
+  {
+    "league_id": 1,
+    "country_id": 1,
+    "name": "England Division 1",
+    "type": "DOMESTIC_LEAGUE",
+    "level": 1
+  },
+  {
+    "league_id": 2,
+    "country_id": 1,
+    "name": "England Division 2",
+    "type": "DOMESTIC_LEAGUE",
+    "level": 2
+  },
+  {
+    "league_id": 3,
+    "country_id": 1,
+    "name": "England Cup",
+    "type": "DOMESTIC_CUP",
+    "level": 0
+  },
+  {
+    "league_id": 4,
+    "country_id": 1,
+    "name": "England Super Cup",
+    "type": "DOMESTIC_SUPER_CUP",
+    "level": 0
+  },
+  {
+    "league_id": 5,
+    "country_id": 2,
+    "name": "Italy Division 1",
+    "type": "DOMESTIC_LEAGUE",
+    "level": 1
+  },
+  {
+    "league_id": 6,
+    "country_id": 2,
+    "name": "Italy Division 2",
+    "type": "DOMESTIC_LEAGUE",
+    "level": 2
+  },
+  {
+    "league_id": 7,
+    "country_id": 2,
+    "name": "Italy Cup",
+    "type": "DOMESTIC_CUP",
+    "level": 0
+  },
+  {
+    "league_id": 8,
+    "country_id": 2,
+    "name": "Italy Super Cup",
+    "type": "DOMESTIC_SUPER_CUP",
+    "level": 0
+  },
+  {
+    "league_id": 9,
+    "country_id": 3,
+    "name": "Spain Division 1",
+    "type": "DOMESTIC_LEAGUE",
+    "level": 1
+  },
+  {
+    "league_id": 10,
+    "country_id": 3,
+    "name": "Spain Division 2",
+    "type": "DOMESTIC_LEAGUE",
+    "level": 2
+  },
+  {
+    "league_id": 11,
+    "country_id": 3,
+    "name": "Spain Cup",
+    "type": "DOMESTIC_CUP",
+    "level": 0
+  },
+  {
+    "league_id": 12,
+    "country_id": 3,
+    "name": "Spain Super Cup",
+    "type": "DOMESTIC_SUPER_CUP",
+    "level": 0
+  },
+  {
+    "league_id": 13,
+    "country_id": 4,
+    "name": "Germany Division 1",
+    "type": "DOMESTIC_LEAGUE",
+    "level": 1
+  },
+  {
+    "league_id": 14,
+    "country_id": 4,
+    "name": "Germany Division 2",
+    "type": "DOMESTIC_LEAGUE",
+    "level": 2
+  },
+  {
+    "league_id": 15,
+    "country_id": 4,
+    "name": "Germany Cup",
+    "type": "DOMESTIC_CUP",
+    "level": 0
+  },
+  {
+    "league_id": 16,
+    "country_id": 4,
+    "name": "Germany Super Cup",
+    "type": "DOMESTIC_SUPER_CUP",
+    "level": 0
+  },
+  {
+    "league_id": 17,
+    "country_id": 5,
+    "name": "France Division 1",
+    "type": "DOMESTIC_LEAGUE",
+    "level": 1
+  },
+  {
+    "league_id": 18,
+    "country_id": 5,
+    "name": "France Division 2",
+    "type": "DOMESTIC_LEAGUE",
+    "level": 2
+  },
+  {
+    "league_id": 19,
+    "country_id": 5,
+    "name": "France Cup",
+    "type": "DOMESTIC_CUP",
+    "level": 0
+  },
+  {
+    "league_id": 20,
+    "country_id": 5,
+    "name": "France Super Cup",
+    "type": "DOMESTIC_SUPER_CUP",
+    "level": 0
+  },
+  {
+    "league_id": 21,
+    "country_id": 6,
+    "name": "Holland Division 1",
+    "type": "DOMESTIC_LEAGUE",
+    "level": 1
+  },
+  {
+    "league_id": 22,
+    "country_id": 6,
+    "name": "Holland Division 2",
+    "type": "DOMESTIC_LEAGUE",
+    "level": 2
+  },
+  {
+    "league_id": 23,
+    "country_id": 6,
+    "name": "Holland Cup",
+    "type": "DOMESTIC_CUP",
+    "level": 0
+  },
+  {
+    "league_id": 24,
+    "country_id": 6,
+    "name": "Holland Super Cup",
+    "type": "DOMESTIC_SUPER_CUP",
+    "level": 0
+  },
+  {
+    "league_id": 25,
+    "country_id": 7,
+    "name": "Portugal Division 1",
+    "type": "DOMESTIC_LEAGUE",
+    "level": 1
+  },
+  {
+    "league_id": 26,
+    "country_id": 7,
+    "name": "Portugal Division 2",
+    "type": "DOMESTIC_LEAGUE",
+    "level": 2
+  },
+  {
+    "league_id": 27,
+    "country_id": 7,
+    "name": "Portugal Cup",
+    "type": "DOMESTIC_CUP",
+    "level": 0
+  },
+  {
+    "league_id": 28,
+    "country_id": 7,
+    "name": "Portugal Super Cup",
+    "type": "DOMESTIC_SUPER_CUP",
+    "level": 0
+  },
+  {
+    "league_id": 29,
+    "country_id": 8,
+    "name": "Belgium Division 1",
+    "type": "DOMESTIC_LEAGUE",
+    "level": 1
+  },
+  {
+    "league_id": 30,
+    "country_id": 8,
+    "name": "Belgium Division 2",
+    "type": "DOMESTIC_LEAGUE",
+    "level": 2
+  },
+  {
+    "league_id": 31,
+    "country_id": 8,
+    "name": "Belgium Cup",
+    "type": "DOMESTIC_CUP",
+    "level": 0
+  },
+  {
+    "league_id": 32,
+    "country_id": 8,
+    "name": "Belgium Super Cup",
+    "type": "DOMESTIC_SUPER_CUP",
+    "level": 0
+  },
+  {
+    "league_id": 33,
+    "country_id": 9,
+    "name": "Scotland Division 1",
+    "type": "DOMESTIC_LEAGUE",
+    "level": 1
+  },
+  {
+    "league_id": 34,
+    "country_id": 9,
+    "name": "Scotland Division 2",
+    "type": "DOMESTIC_LEAGUE",
+    "level": 2
+  },
+  {
+    "league_id": 35,
+    "country_id": 9,
+    "name": "Scotland Cup",
+    "type": "DOMESTIC_CUP",
+    "level": 0
+  },
+  {
+    "league_id": 36,
+    "country_id": 9,
+    "name": "Scotland Super Cup",
+    "type": "DOMESTIC_SUPER_CUP",
+    "level": 0
+  },
+  {
+    "league_id": 37,
+    "country_id": 10,
+    "name": "Greece Division 1",
+    "type": "DOMESTIC_LEAGUE",
+    "level": 1
+  },
+  {
+    "league_id": 38,
+    "country_id": 10,
+    "name": "Greece Division 2",
+    "type": "DOMESTIC_LEAGUE",
+    "level": 2
+  },
+  {
+    "league_id": 39,
+    "country_id": 10,
+    "name": "Greece Cup",
+    "type": "DOMESTIC_CUP",
+    "level": 0
+  },
+  {
+    "league_id": 40,
+    "country_id": 10,
+    "name": "Greece Super Cup",
+    "type": "DOMESTIC_SUPER_CUP",
+    "level": 0
+  },
+  {
+    "league_id": 41,
+    "country_id": 11,
+    "name": "Turkey Division 1",
+    "type": "DOMESTIC_LEAGUE",
+    "level": 1
+  },
+  {
+    "league_id": 42,
+    "country_id": 11,
+    "name": "Turkey Division 2",
+    "type": "DOMESTIC_LEAGUE",
+    "level": 2
+  },
+  {
+    "league_id": 43,
+    "country_id": 11,
+    "name": "Turkey Cup",
+    "type": "DOMESTIC_CUP",
+    "level": 0
+  },
+  {
+    "league_id": 44,
+    "country_id": 11,
+    "name": "Turkey Super Cup",
+    "type": "DOMESTIC_SUPER_CUP",
+    "level": 0
+  },
+  {
+    "league_id": 45,
+    "country_id": 12,
+    "name": "Russia Division 1",
+    "type": "DOMESTIC_LEAGUE",
+    "level": 1
+  },
+  {
+    "league_id": 46,
+    "country_id": 12,
+    "name": "Russia Division 2",
+    "type": "DOMESTIC_LEAGUE",
+    "level": 2
+  },
+  {
+    "league_id": 47,
+    "country_id": 12,
+    "name": "Russia Cup",
+    "type": "DOMESTIC_CUP",
+    "level": 0
+  },
+  {
+    "league_id": 48,
+    "country_id": 12,
+    "name": "Russia Super Cup",
+    "type": "DOMESTIC_SUPER_CUP",
+    "level": 0
+  },
+  {
+    "league_id": 49,
+    "country_id": 0,
+    "name": "Champions League",
+    "type": "CONTINENTAL_CUP",
+    "level": 1
+  },
+  {
+    "league_id": 50,
+    "country_id": 0,
+    "name": "Euro Leauge",
+    "type": "CONTINENTAL_CUP",
+    "level": 2
+  },
+  {
+    "league_id": 51,
+    "country_id": 0,
+    "name": "Euro Super Cup",
+    "type": "CONTINENTAL_SUPER_CUP",
+    "level": 0
+  }
+]
